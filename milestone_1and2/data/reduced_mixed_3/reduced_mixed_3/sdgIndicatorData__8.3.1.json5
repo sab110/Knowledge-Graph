@@ -1,0 +1,134 @@
+{
+    size: 4877,
+    totalElements: 4877,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.3',
+            ],
+            indicator: [
+                '8.3.1',
+            ],
+            series: 'SL_ISV_IFEM',
+            seriesDescription: 'Proportion of informal employment, by sector and sex (ILO harmonized estimates) (%)',
+            seriesCount: '4877',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2012,
+            value: '40.2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'LFS - Labour Force Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: ILO-STATISTICS - Micro data processing',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+                Activity: 'NONAGR',
+            },
+            key: [
+                '8.3.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.3',
+            ],
+            indicator: [
+                '8.3.1',
+            ],
+            series: 'SL_ISV_IFEM',
+            seriesDescription: 'Proportion of informal employment, by sector and sex (ILO harmonized estimates) (%)',
+            seriesCount: '4877',
+            geoAreaCode: '462',
+            geoAreaName: 'Maldives',
+            timePeriodStart: 2016,
+            value: '47',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'HIES - Household Income and Expenditure Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+                Activity: 'NONAGR',
+            },
+            key: [
+                '8.3.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.3',
+            ],
+            indicator: [
+                '8.3.1',
+            ],
+            series: 'SL_ISV_IFEM',
+            seriesDescription: 'Proportion of informal employment, by sector and sex (ILO harmonized estimates) (%)',
+            seriesCount: '4877',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '92',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'LFS - Labour Force Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_A',
+            },
+            key: [
+                '8.3.1',
+            ],
+        },
+    ],
+}

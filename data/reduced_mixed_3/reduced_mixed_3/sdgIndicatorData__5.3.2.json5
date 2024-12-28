@@ -1,0 +1,131 @@
+{
+    size: 45,
+    totalElements: 45,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.3',
+            ],
+            indicator: [
+                '5.3.2',
+            ],
+            series: 'SH_STA_FGMS',
+            seriesDescription: 'Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age (%)',
+            seriesCount: '45',
+            geoAreaCode: '204',
+            geoAreaName: 'Benin',
+            timePeriodStart: 2014,
+            value: '9.2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'MICS 2014',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15-49',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.3.2',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.3',
+            ],
+            indicator: [
+                '5.3.2',
+            ],
+            series: 'SH_STA_FGMS',
+            seriesDescription: 'Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age (%)',
+            seriesCount: '45',
+            geoAreaCode: '462',
+            geoAreaName: 'Maldives',
+            timePeriodStart: 2017,
+            value: '12.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'DHS 2016-17',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15-49',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.3.2',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.3',
+            ],
+            indicator: [
+                '5.3.2',
+            ],
+            series: 'SH_STA_FGMS',
+            seriesDescription: 'Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age (%)',
+            seriesCount: '45',
+            geoAreaCode: '887',
+            geoAreaName: 'Yemen',
+            timePeriodStart: 2013,
+            value: '18.5',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'DHS 2013',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15-49',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.3.2',
+            ],
+        },
+    ],
+}

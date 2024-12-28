@@ -1,0 +1,134 @@
+{
+    size: 150,
+    totalElements: 150,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.1',
+            ],
+            indicator: [
+                '16.1.2',
+            ],
+            series: 'VC_DTH_TOCV',
+            seriesDescription: 'Number of conflict-related deaths (civilians) per 100,000 population (Per 100,000 population)',
+            seriesCount: '6',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2015,
+            value: '14.2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The figures include only direct conflict-related deaths of civilians recorded by the United Nations. Office of the High Commissioner for Human Rights (OHCHR)',
+            geoInfoUrl: null,
+            footnotes: [
+                'This figure includes only documented and verified civilian deaths caused directly by war operations for the armed conflicts in Afghanistan, Central African Republic, Democratic Republic of Congo, Iraq, Libya, Mali, State of Palestine and Israel, Somalia, South Sudan, Syria, Ukraine, and Yemen. This figure may vary from other UN civilian casualty figures due to the methodology used that build on UN casualty data while integrating new data sources.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                Age: 'ALLAGE',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+                'Cause of death': '_T',
+            },
+            key: [
+                '16.1.2',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.1',
+            ],
+            indicator: [
+                '16.1.2',
+            ],
+            series: 'VC_DTH_TOCVN',
+            seriesDescription: 'Number of conflict-related deaths (civilians), by sex, age and cause of death (Number)',
+            seriesCount: '72',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2020,
+            value: '389',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The figures include only direct conflict-related deaths of civilians recorded by the United Nations.  Office of the High Commissioner for Human Rights (OHCHR) ',
+            geoInfoUrl: null,
+            footnotes: [
+                'This figure includes only documented and verified civilian deaths caused directly by war operations for the armed conflicts in Afghanistan, Central African Republic, Democratic Republic of Congo, Iraq, Libya, Mali,  State of Palestine and Israel, Somalia, South Sudan, Syria, Ukraine, and Yemen. This figure may vary from other UN civilian casualty figures due to the methodology used that build on UN casualty data while integrating new data sources.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Age: 'ALLAGE',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+                'Cause of death': 'OTHER',
+            },
+            key: [
+                '16.1.2',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.1',
+            ],
+            indicator: [
+                '16.1.2',
+            ],
+            series: 'VC_DTH_TOCVR',
+            seriesDescription: 'Conflict-related death rate (civilians), by sex, age and cause of death (%)',
+            seriesCount: '72',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2020,
+            value: '12',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The figures include only direct conflict-related deaths of civilians recorded by the United Nations.  Office of the High Commissioner for Human Rights (OHCHR) ',
+            geoInfoUrl: null,
+            footnotes: [
+                'This figure includes only documented and verified civilian deaths caused directly by war operations for the armed conflicts in Afghanistan, Central African Republic, Democratic Republic of Congo, Iraq, Libya, Mali,  State of Palestine and Israel, Somalia, South Sudan, Syria, Ukraine, and Yemen. This figure may vary from other UN civilian casualty figures due to the methodology used that build on UN casualty data while integrating new data sources.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: 'ALLAGE',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+                'Cause of death': 'EXPLOSIVES',
+            },
+            key: [
+                '16.1.2',
+            ],
+        },
+    ],
+}

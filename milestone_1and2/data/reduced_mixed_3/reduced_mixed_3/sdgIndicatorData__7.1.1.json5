@@ -1,0 +1,128 @@
+{
+    size: 15813,
+    totalElements: 15813,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '7',
+            ],
+            target: [
+                '7.1',
+            ],
+            indicator: [
+                '7.1.1',
+            ],
+            series: 'EG_ACS_ELEC',
+            seriesDescription: 'Proportion of population with access to electricity, by urban/rural (%)',
+            seriesCount: '15813',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank',
+            geoInfoUrl: null,
+            footnotes: [
+                'data not available',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'RURAL',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '7.1.1',
+            ],
+        },
+        {
+            goal: [
+                '7',
+            ],
+            target: [
+                '7.1',
+            ],
+            indicator: [
+                '7.1.1',
+            ],
+            series: 'EG_ACS_ELEC',
+            seriesDescription: 'Proportion of population with access to electricity, by urban/rural (%)',
+            seriesCount: '15813',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2010,
+            value: '99.91344',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'URBAN',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '7.1.1',
+            ],
+        },
+        {
+            goal: [
+                '7',
+            ],
+            target: [
+                '7.1',
+            ],
+            indicator: [
+                '7.1.1',
+            ],
+            series: 'EG_ACS_ELEC',
+            seriesDescription: 'Proportion of population with access to electricity, by urban/rural (%)',
+            seriesCount: '15813',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '85.71548',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'URBAN',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '7.1.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,131 @@
+{
+    size: 1338,
+    totalElements: 1338,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.10',
+            ],
+            indicator: [
+                '8.10.2',
+            ],
+            series: 'FB_BNK_ACCSS',
+            seriesDescription: 'Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)',
+            seriesCount: '1338',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2011,
+            value: '9.01',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Financial Inclusion Database, World Bank.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Gender-matched sampling was used during the final stage of selection.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.10.2',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.10',
+            ],
+            indicator: [
+                '8.10.2',
+            ],
+            series: 'FB_BNK_ACCSS',
+            seriesDescription: 'Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)',
+            seriesCount: '1338',
+            geoAreaCode: '428',
+            geoAreaName: 'Latvia',
+            timePeriodStart: 2017,
+            value: '94.08',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Financial Inclusion Database, World Bank.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.10.2',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.10',
+            ],
+            indicator: [
+                '8.10.2',
+            ],
+            series: 'FB_BNK_ACCSS',
+            seriesDescription: 'Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)',
+            seriesCount: '1338',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2017,
+            value: '51.66',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Financial Inclusion Database, World Bank.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.10.2',
+            ],
+        },
+    ],
+}

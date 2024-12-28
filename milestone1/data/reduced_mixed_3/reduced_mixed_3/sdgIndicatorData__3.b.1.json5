@@ -1,0 +1,125 @@
+{
+    size: 11468,
+    totalElements: 11468,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.b',
+            ],
+            indicator: [
+                '3.b.1',
+            ],
+            series: 'SH_ACS_DTP3',
+            seriesDescription: 'Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) (%)',
+            seriesCount: '5021',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '24',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO/UNICEF coverage estimates 2020 revision, October 2021',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.b.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.b',
+            ],
+            indicator: [
+                '3.b.1',
+            ],
+            series: 'SH_ACS_MCV2',
+            seriesDescription: 'Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) (%)',
+            seriesCount: '3626',
+            geoAreaCode: '184',
+            geoAreaName: 'Cook Islands',
+            timePeriodStart: 2002,
+            value: '61',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO/UNICEF coverage estimates 2020 revision, October 2021',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.b.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.b',
+            ],
+            indicator: [
+                '3.b.1',
+            ],
+            series: 'SH_ACS_HPV',
+            seriesDescription: 'Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) (%)',
+            seriesCount: '987',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '67',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO/UNICEF coverage estimates 2020 revision, October 2021',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.b.1',
+            ],
+        },
+    ],
+}

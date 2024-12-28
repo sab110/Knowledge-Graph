@@ -1,0 +1,128 @@
+{
+    size: 6,
+    totalElements: 6,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.7',
+            ],
+            indicator: [
+                '10.7.1',
+            ],
+            series: 'SL_EMP_RCOST_MO',
+            seriesDescription: 'Migrant recruitment costs (number of months of earnings)',
+            seriesCount: '6',
+            geoAreaCode: '50',
+            geoAreaName: 'Bangladesh',
+            timePeriodStart: 2020,
+            value: '17.6',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'National Statistical Office -Cost of Migration Survey 2020',
+            geoInfoUrl: null,
+            footnotes: [
+                'Covers returned migrant workers, who migrated in the years 2015-2018',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'MO_EARN',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.7.1',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.7',
+            ],
+            indicator: [
+                '10.7.1',
+            ],
+            series: 'SL_EMP_RCOST_MO',
+            seriesDescription: 'Migrant recruitment costs (number of months of earnings)',
+            seriesCount: '6',
+            geoAreaCode: '50',
+            geoAreaName: 'Bangladesh',
+            timePeriodStart: 2020,
+            value: '5.6',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'National Statistical Office -Cost of Migration Survey 2020',
+            geoInfoUrl: null,
+            footnotes: [
+                'Covers returned migrant workers, who migrated in the years 2015-2020',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'MO_EARN',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.7.1',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.7',
+            ],
+            indicator: [
+                '10.7.1',
+            ],
+            series: 'SL_EMP_RCOST_MO',
+            seriesDescription: 'Migrant recruitment costs (number of months of earnings)',
+            seriesCount: '6',
+            geoAreaCode: '116',
+            geoAreaName: 'Cambodia',
+            timePeriodStart: 2019,
+            value: '0.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'National Statistical Office -Labour Force Survey 2019',
+            geoInfoUrl: null,
+            footnotes: [
+                'Covers only those returned migrant workers who were found in households at the time of the survey',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'MO_EARN',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.7.1',
+            ],
+        },
+    ],
+}

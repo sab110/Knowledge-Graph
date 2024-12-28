@@ -1,0 +1,125 @@
+{
+    size: 1487,
+    totalElements: 1487,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.8',
+            ],
+            indicator: [
+                '15.8.1',
+            ],
+            series: 'ER_IAS_LEGIS',
+            seriesDescription: 'Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO)',
+            seriesCount: '585',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2010,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Data gathered through a literature search (primary sources ECOLEX, FAOLEX) and consultation with country experts',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'N',
+                Units: 'BOOL',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.8.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.8',
+            ],
+            indicator: [
+                '15.8.1',
+            ],
+            series: 'ER_IAS_NBSAP',
+            seriesDescription: 'National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1 = YES, 0 = NO)',
+            seriesCount: '390',
+            geoAreaCode: '360',
+            geoAreaName: 'Indonesia',
+            timePeriodStart: 2016,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Data gathered from the latest version of NBSAP',
+            geoInfoUrl: null,
+            footnotes: [
+                'Reference to Target 9 was a requirement',
+            ],
+            attributes: {
+                Nature: 'N',
+                Units: 'BOOL',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.8.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.8',
+            ],
+            indicator: [
+                '15.8.1',
+            ],
+            series: 'ER_IAS_GLOFUNP',
+            seriesDescription: 'Proportion of recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species  management (%)',
+            seriesCount: '17',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2020,
+            value: '37',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'International Union for Conservation of Nature (IUCN).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Data were collected through a survey circulated to National Statistical Offices, National Focal Points, and Country experts.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.8.1',
+            ],
+        },
+    ],
+}

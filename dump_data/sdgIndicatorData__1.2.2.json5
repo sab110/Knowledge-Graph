@@ -1,0 +1,132 @@
+{
+    size: 2756,
+    totalElements: 2756,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.2',
+            ],
+            indicator: [
+                '1.2.2',
+            ],
+            series: 'SD_MDP_MUHC',
+            seriesDescription: 'Proportion of population living in multidimensional poverty (%)',
+            seriesCount: '2380',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2016,
+            value: '61.1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'National Statistics and Information Authority (NSIA)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Data source:  Afghanistan Living Conditions Survey (ALCS) 2016–17; Topics included: Education, Health, Infrastructure services, dwelling characteristics, employment, shocks; Overall number of indicators: 18; Official publication: Afghanistan Multidimensional Poverty Index 2016-2017',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: 'ALLAGE',
+                Location: 'RURAL',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.2.2',
+            ],
+        },
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.2',
+            ],
+            indicator: [
+                '1.2.2',
+            ],
+            series: 'SD_MDP_MUHC',
+            seriesDescription: 'Proportion of population living in multidimensional poverty (%)',
+            seriesCount: '2380',
+            geoAreaCode: '428',
+            geoAreaName: 'Latvia',
+            timePeriodStart: 2016,
+            value: '35.0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'EUROSTAT',
+            geoInfoUrl: null,
+            footnotes: [
+                'Data source: EUROPEAN UNION STATISTICS ON INCOME AND LIVING CONDITIONS; Topics included: Income, material deprivation and work intensity; Overall number of indicators: 3; Official publication: https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01/default/table?lang=en\n\nhttps://ec.europa.eu/eurostat/documents/3217494/9940483/KS-02-19-165-EN-N.pdf; Methodological documentation: https://ec.europa.eu/eurostat/statistics-explained/index.php/EU_statistics_on_income_and_living_conditions_(EU-SILC)_methodology_-_Europe_2020_target_on_poverty_and_social_exclusion',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: 'ALLAGE',
+                Location: 'RURAL',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.2.2',
+            ],
+        },
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.2',
+            ],
+            indicator: [
+                '1.2.2',
+            ],
+            series: 'SD_MDP_ANDIHH',
+            seriesDescription: 'Average share of weighted deprivations of total households (intensity) (%)',
+            seriesCount: '48',
+            geoAreaCode: '275',
+            geoAreaName: 'State of Palestine',
+            timePeriodStart: 2016,
+            value: '41.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The Palestinian Central Bureau of Statistics (PCBS)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Data source: Palestinian Consumptionand Expenditure Survey (PECS) 2016/2017; Topics included: Monetary resources, Education, Health, Employment, Housing conditions & Access to services, Safety and Use of assets, Personal freedom; Overall number of indicators: 22; Official publication: Multi-dimensional Poverty Profile in Palestine, 2017',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'ALLAREA',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.2.2',
+            ],
+        },
+    ],
+}

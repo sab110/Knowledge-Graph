@@ -1,0 +1,128 @@
+{
+    size: 261,
+    totalElements: 261,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.6',
+            ],
+            indicator: [
+                '11.6.1',
+            ],
+            series: 'EN_REF_WASCOL',
+            seriesDescription: 'Municipal Solid Waste collection coverage, by cities (%)',
+            seriesCount: '261',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2007,
+            value: '90',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Human Settlements Programme (UN-Habitat)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Municipal Solid Waste (MSW) collection coverage is defined as the amount of MSQ collected as a proportion of total MSW generated.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Cities: 'TIRANA',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.6.1',
+            ],
+        },
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.6',
+            ],
+            indicator: [
+                '11.6.1',
+            ],
+            series: 'EN_REF_WASCOL',
+            seriesDescription: 'Municipal Solid Waste collection coverage, by cities (%)',
+            seriesCount: '261',
+            geoAreaCode: '430',
+            geoAreaName: 'Liberia',
+            timePeriodStart: 2012,
+            value: '37',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Human Settlements Programme (UN-Habitat)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Cities: 'MONROVIA',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.6.1',
+            ],
+        },
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.6',
+            ],
+            indicator: [
+                '11.6.1',
+            ],
+            series: 'EN_REF_WASCOL',
+            seriesDescription: 'Municipal Solid Waste collection coverage, by cities (%)',
+            seriesCount: '261',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2015,
+            value: '22.64586',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Human Settlements Programme (UN-Habitat)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Municipal Solid Waste (MSW) collection coverage is defined as the amount of MSQ collected as a proportion of total MSW generated.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Cities: 'HARARE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.6.1',
+            ],
+        },
+    ],
+}

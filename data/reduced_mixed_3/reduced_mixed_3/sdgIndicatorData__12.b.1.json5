@@ -1,0 +1,125 @@
+{
+    size: 6951,
+    totalElements: 6951,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.b',
+            ],
+            indicator: [
+                '12.b.1',
+            ],
+            series: 'ST_EEV_STDACCT',
+            seriesDescription: 'Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables)',
+            seriesCount: '2317',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2008,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Institute of Statistics (INSTAT)',
+            geoInfoUrl: null,
+            footnotes: [
+                'INSTAT does not compilate any data required',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.b.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.b',
+            ],
+            indicator: [
+                '12.b.1',
+            ],
+            series: 'ST_EEV_ACCSEEA',
+            seriesDescription: 'Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables)',
+            seriesCount: '2317',
+            geoAreaCode: '419',
+            geoAreaName: 'Latin America and the Caribbean',
+            timePeriodStart: 2014,
+            value: '14',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNWTO',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.b.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.b',
+            ],
+            indicator: [
+                '12.b.1',
+            ],
+            series: 'ST_EEV_ACCTSA',
+            seriesDescription: 'Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables)',
+            seriesCount: '2317',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Zimbabwe Tourism Authority (ZTA)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Zimbabwe is currently working on its TSA. The compilation is being done with the help of UNWTO. As such, the information requested is currently not available. In the meantime, Zimbabwe is eagerly looking forward for the final completion of the TSA and the periodic availability of data for updating the 10 tables.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.b.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,131 @@
+{
+    size: 9030,
+    totalElements: 9030,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.2',
+            ],
+            indicator: [
+                '3.2.2',
+            ],
+            series: 'SH_DYN_NMRTN',
+            seriesDescription: 'Neonatal deaths (number)',
+            seriesCount: '4095',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '62285',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Inter-agency Group for Child Mortality Estimation (UN IGME), 2021.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Age: '<1M',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.2.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.2',
+            ],
+            indicator: [
+                '3.2.2',
+            ],
+            series: 'SH_DYN_NMRT',
+            seriesDescription: 'Neonatal mortality rate (deaths per 1,000 live births)',
+            seriesCount: '4935',
+            geoAreaCode: '204',
+            geoAreaName: 'Benin',
+            timePeriodStart: 2020,
+            value: '29.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Inter-agency Group for Child Mortality Estimation (UN IGME), 2021.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_1000_LIVE_BIRTHS',
+            },
+            dimensions: {
+                Age: '<1M',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.2.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.2',
+            ],
+            indicator: [
+                '3.2.2',
+            ],
+            series: 'SH_DYN_NMRT',
+            seriesDescription: 'Neonatal mortality rate (deaths per 1,000 live births)',
+            seriesCount: '4935',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '25.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Inter-agency Group for Child Mortality Estimation (UN IGME), 2021.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_1000_LIVE_BIRTHS',
+            },
+            dimensions: {
+                Age: '<1M',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.2.2',
+            ],
+        },
+    ],
+}

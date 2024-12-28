@@ -1,0 +1,125 @@
+{
+    size: 147,
+    totalElements: 147,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.10',
+            ],
+            indicator: [
+                '16.10.2',
+            ],
+            series: 'SG_INF_ACCSS',
+            seriesDescription: 'Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information',
+            seriesCount: '147',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2022,
+            value: '2014',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Report on Public Access to Information; Global Right to Information Rating (Access Info & Center for Law and Democracy) https://www.rti-rating.org/country-data/',
+            geoInfoUrl: null,
+            footnotes: [
+                'Observation value is the year of adoption of FOI law/policy in a given country. Reference year represents the year of reporting.',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.10.2',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.10',
+            ],
+            indicator: [
+                '16.10.2',
+            ],
+            series: 'SG_INF_ACCSS',
+            seriesDescription: 'Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information',
+            seriesCount: '147',
+            geoAreaCode: '430',
+            geoAreaName: 'Liberia',
+            timePeriodStart: 2022,
+            value: '2010',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Report on Public Access to Information; Global Right to Information Rating (Access Info & Center for Law and Democracy) https://www.rti-rating.org/country-data/',
+            geoInfoUrl: null,
+            footnotes: [
+                'Observation value is the year of adoption of FOI law/policy in a given country. Reference year represents the year of reporting.',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.10.2',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.10',
+            ],
+            indicator: [
+                '16.10.2',
+            ],
+            series: 'SG_INF_ACCSS',
+            seriesDescription: 'Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information',
+            seriesCount: '147',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2022,
+            value: '2002',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Report on Public Access to Information; Global Right to Information Rating (Access Info & Center for Law and Democracy) https://www.rti-rating.org/country-data/',
+            geoInfoUrl: null,
+            footnotes: [
+                'Observation value is the year of adoption of FOI law/policy in a given country. Reference year represents the year of reporting.',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.10.2',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,127 @@
+{
+    size: 10537,
+    totalElements: 10537,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.1',
+            ],
+            indicator: [
+                '14.1.1',
+            ],
+            series: 'EN_MAR_CHLDEV',
+            seriesDescription: 'Chlorophyll-a deviations, remote sensing (%)',
+            seriesCount: '4146',
+            geoAreaCode: '2',
+            geoAreaName: 'Africa',
+            timePeriodStart: 2000,
+            value: '3.02',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '14.1.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.1',
+            ],
+            indicator: [
+                '14.1.1',
+            ],
+            series: 'EN_MAR_CHLANM',
+            seriesDescription: 'Chlorophyll-a anomaly, remote sensing (%)',
+            seriesCount: '1372',
+            geoAreaCode: '706',
+            geoAreaName: 'Somalia',
+            timePeriodStart: 2019,
+            value: '3.63819',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Frequency of Chlorophyll-a concentration': 'Moderate',
+            },
+            key: [
+                '14.1.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.1',
+            ],
+            indicator: [
+                '14.1.1',
+            ],
+            series: 'EN_MAR_BEALIT_EXP',
+            seriesDescription: 'Exported beach litter originating from national land-based sources (Tonnes)',
+            seriesCount: '900',
+            geoAreaCode: '887',
+            geoAreaName: 'Yemen',
+            timePeriodStart: 2021,
+            value: '41868',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Model for Monitoring Marine Litter',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'TONNES',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '14.1.1',
+            ],
+        },
+    ],
+}

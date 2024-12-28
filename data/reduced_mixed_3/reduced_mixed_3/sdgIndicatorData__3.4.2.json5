@@ -1,0 +1,128 @@
+{
+    size: 6120,
+    totalElements: 6120,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.4',
+            ],
+            indicator: [
+                '3.4.2',
+            ],
+            series: 'SH_STA_SCIDE',
+            seriesDescription: 'Suicide mortality rate, by sex (deaths per 100,000 population)',
+            seriesCount: '3060',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '4.8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '7.7',
+            lowerBound: '2.7',
+            basePeriod: null,
+            source: 'Global Health Estimates 2019: Deaths by Cause, Age, Sex, by Country and by Region, 2000-2019. Geneva, World Health Organization, 2020',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.4.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.4',
+            ],
+            indicator: [
+                '3.4.2',
+            ],
+            series: 'SH_STA_SCIDE',
+            seriesDescription: 'Suicide mortality rate, by sex (deaths per 100,000 population)',
+            seriesCount: '3060',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '20.0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '31.9',
+            lowerBound: '10.4',
+            basePeriod: null,
+            source: 'Global Health Estimates 2019: Deaths by Cause, Age, Sex, by Country and by Region, 2000-2019. Geneva, World Health Organization, 2020',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.4.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.4',
+            ],
+            indicator: [
+                '3.4.2',
+            ],
+            series: 'SH_STA_SCIDEN',
+            seriesDescription: 'Number of deaths attributed to suicide, by sex (number)',
+            seriesCount: '3060',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '1395',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '2229',
+            lowerBound: '728',
+            basePeriod: null,
+            source: 'Global Health Estimates 2019: Deaths by Cause, Age, Sex, by Country and by Region, 2000-2019. Geneva, World Health Organization, 2020',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.4.2',
+            ],
+        },
+    ],
+}

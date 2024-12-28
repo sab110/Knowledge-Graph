@@ -1,0 +1,125 @@
+{
+    size: 5344,
+    totalElements: 5344,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.7',
+            ],
+            indicator: [
+                '17.7.1',
+            ],
+            series: 'DC_ENVTECH_EXP',
+            seriesDescription: 'Amount of tracked exported Environmentally Sound Technologies (current United States dollars)',
+            seriesCount: '2133',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2017,
+            value: '2324583',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WESR / UN COMTRADE',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'CU_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.7.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.7',
+            ],
+            indicator: [
+                '17.7.1',
+            ],
+            series: 'DC_ENVTECH_IMP',
+            seriesDescription: 'Amount of tracked imported Environmentally Sound Technologies (current United States dollars)',
+            seriesCount: '2156',
+            geoAreaCode: '196',
+            geoAreaName: 'Cyprus',
+            timePeriodStart: 2014,
+            value: '291148525',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WESR / UN COMTRADE',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'CU_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.7.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.7',
+            ],
+            indicator: [
+                '17.7.1',
+            ],
+            series: 'DC_ENVTECH_RIMP',
+            seriesDescription: 'Amount of tracked re-imported Environmentally Sound Technologies (current United States dollars)',
+            seriesCount: '437',
+            geoAreaCode: '862',
+            geoAreaName: 'Venezuela (Bolivarian Republic of)',
+            timePeriodStart: 2011,
+            value: '3441488',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WESR / UN COMTRADE',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'CU_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.7.1',
+            ],
+        },
+    ],
+}

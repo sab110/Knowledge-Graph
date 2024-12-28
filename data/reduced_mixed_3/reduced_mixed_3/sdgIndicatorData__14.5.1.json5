@@ -1,0 +1,128 @@
+{
+    size: 5928,
+    totalElements: 5928,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.5',
+            ],
+            indicator: [
+                '14.5.1',
+            ],
+            series: 'ER_MRN_MARINT',
+            seriesDescription: 'Protected marine area (Exclusive Economic Zones) (square kilometres)',
+            seriesCount: '698',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2021,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'BirdLife International, IUCN and UNEP-WCMC (2021). Based on spatial overlap between polygons for Key Biodiversity Areas from the World Database of Key Biodiveristy Areas (www.keybiodiversityareas.org) and polygons for protected areas from the World Database on Protected Areas and (where available) for Other Effective area-based Conservation Measures and from the World Database on OECMs (www.protectedplanet.net)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'KMSQ',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '14.5.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.5',
+            ],
+            indicator: [
+                '14.5.1',
+            ],
+            series: 'ER_MRN_MPA',
+            seriesDescription: 'Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)',
+            seriesCount: '4532',
+            geoAreaCode: '276',
+            geoAreaName: 'Germany',
+            timePeriodStart: 2005,
+            value: '68.0214',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '68.02140',
+            lowerBound: '68.02140',
+            basePeriod: null,
+            source: 'BirdLife International, IUCN and UNEP-WCMC (2021). Based on spatial overlap between polygons for Key Biodiversity Areas from the World Database of Key Biodiveristy Areas (www.keybiodiversityareas.org) and polygons for protected areas from the World Database on Protected Areas and (where available) for Other Effective area-based Conservation Measures and from the World Database on OECMs (www.protectedplanet.net)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '14.5.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.5',
+            ],
+            indicator: [
+                '14.5.1',
+            ],
+            series: 'ER_MRN_MPA',
+            seriesDescription: 'Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)',
+            seriesCount: '4532',
+            geoAreaCode: '887',
+            geoAreaName: 'Yemen',
+            timePeriodStart: 2021,
+            value: '30.64392',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '30.64392',
+            lowerBound: '30.64392',
+            basePeriod: null,
+            source: 'BirdLife International, IUCN and UNEP-WCMC (2021). Based on spatial overlap between polygons for Key Biodiversity Areas from the World Database of Key Biodiveristy Areas (www.keybiodiversityareas.org) and polygons for protected areas from the World Database on Protected Areas and (where available) for Other Effective area-based Conservation Measures and from the World Database on OECMs (www.protectedplanet.net)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '14.5.1',
+            ],
+        },
+    ],
+}

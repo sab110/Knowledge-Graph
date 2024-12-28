@@ -1,0 +1,125 @@
+{
+    size: 5480,
+    totalElements: 5480,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '7',
+            ],
+            target: [
+                '7.2',
+            ],
+            indicator: [
+                '7.2.1',
+            ],
+            series: 'EG_FEC_RNEW',
+            seriesDescription: 'Renewable energy share in the total final energy consumption (%)',
+            seriesCount: '5480',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '44.99',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Energy Balances, UN Statistics Division (2021)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '7.2.1',
+            ],
+        },
+        {
+            goal: [
+                '7',
+            ],
+            target: [
+                '7.2',
+            ],
+            indicator: [
+                '7.2.1',
+            ],
+            series: 'EG_FEC_RNEW',
+            seriesDescription: 'Renewable energy share in the total final energy consumption (%)',
+            seriesCount: '5480',
+            geoAreaCode: '428',
+            geoAreaName: 'Latvia',
+            timePeriodStart: 2019,
+            value: '41.52',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IEA (2021), World Energy Balances',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '7.2.1',
+            ],
+        },
+        {
+            goal: [
+                '7',
+            ],
+            target: [
+                '7.2',
+            ],
+            indicator: [
+                '7.2.1',
+            ],
+            series: 'EG_FEC_RNEW',
+            seriesDescription: 'Renewable energy share in the total final energy consumption (%)',
+            seriesCount: '5480',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '81.5',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IEA (2021), World Energy Balances',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '7.2.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,128 @@
+{
+    size: 288,
+    totalElements: 288,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.10',
+            ],
+            indicator: [
+                '16.10.1',
+            ],
+            series: 'VC_VAW_MTUHRA',
+            seriesDescription: 'Number of cases of killings of human rights defenders, journalists and trade unionists',
+            seriesCount: '144',
+            geoAreaCode: '62',
+            geoAreaName: 'Central and Southern Asia',
+            timePeriodStart: 2015,
+            value: '5',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The figures included here concern only verified cases of killings of human rights defenders, journalists and trade unionists. OHCHR does not yet collect data on the number of cases of kidnapping, arbitrary detention or torture of human rights defenders, j',
+            geoInfoUrl: null,
+            footnotes: [
+                'Incidents that occurred from 1 Jan to 31 Dec 2015 compiled by OHCHR in collaboration with UNESCO and ILO, as of 31 March 2020.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.10.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.10',
+            ],
+            indicator: [
+                '16.10.1',
+            ],
+            series: 'VC_VAW_MTUHRA',
+            seriesDescription: 'Number of cases of killings of human rights defenders, journalists and trade unionists',
+            seriesCount: '144',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2020,
+            value: '393',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The figures included here concern only verified cases of killings of human rights defenders, journalists and trade unionists. OHCHR does not yet collect data on the number of cases of kidnapping, arbitrary detention or torture of human rights defenders, j',
+            geoInfoUrl: null,
+            footnotes: [
+                'Incidents that occurred from 1 Jan to 31 Dec 2019 compiled by OHCHR in collaboration with UNESCO and ILO, as of 31 March 2020.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.10.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.10',
+            ],
+            indicator: [
+                '16.10.1',
+            ],
+            series: 'VC_VOC_ENFDIS',
+            seriesDescription: 'Number of cases of enforced disappearance of human rights defenders, journalists and trade unionists (Number)',
+            seriesCount: '144',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2020,
+            value: '19',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The figures included here concern only verified cases of enforced disappearance of human rights defenders, journalists and trade unionists. OHCHR does not yet collect data on the number of cases of kidnapping, arbitrary detention or torture of human right',
+            geoInfoUrl: null,
+            footnotes: [
+                'Incidents that occurred from 1 Jan to 31 Dec 2019 compiled by OHCHR in collaboration with UNESCO and ILO, as of 31 March 2020.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.10.1',
+            ],
+        },
+    ],
+}

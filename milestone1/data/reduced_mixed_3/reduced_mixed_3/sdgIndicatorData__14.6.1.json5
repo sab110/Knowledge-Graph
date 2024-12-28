@@ -1,0 +1,128 @@
+{
+    size: 882,
+    totalElements: 882,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.6',
+            ],
+            indicator: [
+                '14.6.1',
+            ],
+            series: 'ER_REG_UNFCIM',
+            seriesDescription: 'Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (level of implementation: 1 lowest to 5 highest)',
+            seriesCount: '882',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2018,
+            value: 'NaN',
+            valueType: 'String',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Questionnaire on the implementation of the Code of Conduct for Responsible Fisheries - Country self-reporting ',
+            geoInfoUrl: null,
+            footnotes: [
+                'A figure was not provided, or the method by which the figure was calculated is unknown',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'NUMBER',
+                'Observation Status': 'O',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '14.6.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.6',
+            ],
+            indicator: [
+                '14.6.1',
+            ],
+            series: 'ER_REG_UNFCIM',
+            seriesDescription: 'Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (level of implementation: 1 lowest to 5 highest)',
+            seriesCount: '882',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2022,
+            value: 'NaN',
+            valueType: 'String',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Questionnaire on the implementation of the Code of Conduct for Responsible Fisheries - Country self-reporting ',
+            geoInfoUrl: null,
+            footnotes: [
+                'A figure was not provided, or the method by which the figure was calculated is unknown',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'NUMBER',
+                'Observation Status': 'O',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '14.6.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.6',
+            ],
+            indicator: [
+                '14.6.1',
+            ],
+            series: 'ER_REG_UNFCIM',
+            seriesDescription: 'Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (level of implementation: 1 lowest to 5 highest)',
+            seriesCount: '882',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2022,
+            value: 'NaN',
+            valueType: 'String',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Questionnaire on the implementation of the Code of Conduct for Responsible Fisheries - Country self-reporting ',
+            geoInfoUrl: null,
+            footnotes: [
+                'A figure was not provided, or the method by which the figure was calculated is unknown',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'NUMBER',
+                'Observation Status': 'O',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '14.6.1',
+            ],
+        },
+    ],
+}

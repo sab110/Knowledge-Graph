@@ -1,0 +1,125 @@
+{
+    size: 2791,
+    totalElements: 2791,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.19',
+            ],
+            indicator: [
+                '17.19.2',
+            ],
+            series: 'SG_REG_BRTH90',
+            seriesDescription: 'Proportion of countries with birth registration data that are at least 90 percent complete (%)',
+            seriesCount: '60',
+            geoAreaCode: '53',
+            geoAreaName: 'Australia and New Zealand',
+            timePeriodStart: 2015,
+            value: '50',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.19.2',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.19',
+            ],
+            indicator: [
+                '17.19.2',
+            ],
+            series: 'SG_REG_BRTH90N',
+            seriesDescription: 'Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)',
+            seriesCount: '1238',
+            geoAreaCode: '35',
+            geoAreaName: 'South-Eastern Asia',
+            timePeriodStart: 2015,
+            value: '4',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations',
+            geoInfoUrl: null,
+            footnotes: [
+                'Observation value represents the number of countries with birth registration data that are at least 90 percent complete.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.19.2',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.19',
+            ],
+            indicator: [
+                '17.19.2',
+            ],
+            series: 'SG_REG_DETH75N',
+            seriesDescription: 'Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO)',
+            seriesCount: '1210',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations',
+            geoInfoUrl: null,
+            footnotes: [
+                'Value "1" represents country\'s death registration data are at least 75 per cent complete. "0" represents country\'s death registration data are less than 75 per cent complete.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.19.2',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,128 @@
+{
+    size: 655,
+    totalElements: 655,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.1',
+            ],
+            indicator: [
+                '11.1.1',
+            ],
+            series: 'EN_LND_SLUM',
+            seriesDescription: 'Proportion of urban population living in slums (%)',
+            seriesCount: '655',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2014,
+            value: '62.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Human Settlements Programme (UN-HABITAT)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'URBAN',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.1.1',
+            ],
+        },
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.1',
+            ],
+            indicator: [
+                '11.1.1',
+            ],
+            series: 'EN_LND_SLUM',
+            seriesDescription: 'Proportion of urban population living in slums (%)',
+            seriesCount: '655',
+            geoAreaCode: '418',
+            geoAreaName: "Lao People's Democratic Republic",
+            timePeriodStart: 2014,
+            value: '31.4',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Human Settlements Programme (UN-HABITAT)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'URBAN',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.1.1',
+            ],
+        },
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.1',
+            ],
+            indicator: [
+                '11.1.1',
+            ],
+            series: 'EN_LND_SLUM',
+            seriesDescription: 'Proportion of urban population living in slums (%)',
+            seriesCount: '655',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2018,
+            value: '33.5',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Human Settlements Programme (UN-HABITAT)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'URBAN',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.1.1',
+            ],
+        },
+    ],
+}

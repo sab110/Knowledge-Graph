@@ -1,0 +1,128 @@
+{
+    size: 97,
+    totalElements: 97,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.2',
+            ],
+            indicator: [
+                '16.2.1',
+            ],
+            series: 'VC_VAW_PHYPYV',
+            seriesDescription: 'Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years)',
+            seriesCount: '97',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2011,
+            value: '74.4',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'MICS 2010-11',
+            geoInfoUrl: null,
+            footnotes: [
+                'Children aged 2-14 years',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Age: '2-14',
+            },
+            key: [
+                '16.2.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.2',
+            ],
+            indicator: [
+                '16.2.1',
+            ],
+            series: 'VC_VAW_PHYPYV',
+            seriesDescription: 'Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years)',
+            seriesCount: '97',
+            geoAreaCode: '430',
+            geoAreaName: 'Liberia',
+            timePeriodStart: 2020,
+            value: '85.2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'DHS 2019-20',
+            geoInfoUrl: null,
+            footnotes: [
+                'DHS table is based on one randomly selected de jure child age 1-14 per household',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '1-14',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.2.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.2',
+            ],
+            indicator: [
+                '16.2.1',
+            ],
+            series: 'VC_VAW_PHYPYV',
+            seriesDescription: 'Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years)',
+            seriesCount: '97',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '64.1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'MICS 2019',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '1-14',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.2.1',
+            ],
+        },
+    ],
+}

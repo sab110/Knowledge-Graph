@@ -1,0 +1,125 @@
+{
+    size: 3785,
+    totalElements: 3785,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.a',
+            ],
+            indicator: [
+                '1.a.1',
+            ],
+            series: 'DC_ODA_POVLG',
+            seriesDescription: 'Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)',
+            seriesCount: '2655',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2009,
+            value: '3.96',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.a.1',
+            ],
+        },
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.a',
+            ],
+            indicator: [
+                '1.a.1',
+            ],
+            series: 'DC_ODA_POVLG',
+            seriesDescription: 'Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)',
+            seriesCount: '2655',
+            geoAreaCode: '604',
+            geoAreaName: 'Peru',
+            timePeriodStart: 2005,
+            value: '0.10',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.a.1',
+            ],
+        },
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.a',
+            ],
+            indicator: [
+                '1.a.1',
+            ],
+            series: 'DC_ODA_POVG',
+            seriesDescription: 'Official development assistance grants for poverty reduction (percentage of GNI)',
+            seriesCount: '620',
+            geoAreaCode: '145',
+            geoAreaName: 'Western Asia',
+            timePeriodStart: 2019,
+            value: '0.0185',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Gross disbursements; Based on OECD, CRS database, 2021; Constant 2019 USD million; As percentage of GNI',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.a.1',
+            ],
+        },
+    ],
+}

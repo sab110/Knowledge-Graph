@@ -1,0 +1,134 @@
+{
+    size: 400,
+    totalElements: 331,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.1',
+            ],
+            indicator: [
+                '1.1.1',
+            ],
+            series: 'SI_POV_DAY1',
+            seriesDescription: 'Proportion of population below international poverty line (%)',
+            seriesCount: '8748',
+            geoAreaCode: '32',
+            geoAreaName: 'Argentina',
+            timePeriodStart: 2020,
+            value: '1.6',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Poverty and Inequality Portal, World Bank',
+            geoInfoUrl: null,
+            footnotes: [
+                'Accessed April 8, 2022. Based on data from EPHC-S2. Estimated from unit-record income data. Urban only. PPP is regression based.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: 'ALLAGE',
+                Location: 'ALLAREA',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.1.1',
+            ],
+        },
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.1',
+            ],
+            indicator: [
+                '1.1.1',
+            ],
+            series: 'SI_POV_EMP1',
+            seriesDescription: 'Employed population below international poverty line, by sex and age (%)',
+            seriesCount: '32396',
+            geoAreaCode: '50',
+            geoAreaName: 'Bangladesh',
+            timePeriodStart: 2020,
+            value: '5.1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source = ILO modelled estimates, November 2021, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.1.1',
+            ],
+        },
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.1',
+            ],
+            indicator: [
+                '1.1.1',
+            ],
+            series: 'SI_POV_EMP1',
+            seriesDescription: 'Employed population below international poverty line, by sex and age (%)',
+            seriesCount: '32396',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '39.5',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source = ILO modelled estimates, November 2021, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.1.1',
+            ],
+        },
+    ],
+}

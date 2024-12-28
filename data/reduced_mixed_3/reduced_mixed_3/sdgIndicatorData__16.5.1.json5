@@ -1,0 +1,128 @@
+{
+    size: 123,
+    totalElements: 123,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.5',
+            ],
+            indicator: [
+                '16.5.1',
+            ],
+            series: 'IU_COR_BRIB',
+            seriesDescription: 'Prevalence rate of bribery, by sex (%)',
+            seriesCount: '123',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2009,
+            value: '58.6',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNODC and Islamic Republic of Afghanistan High Office of Oversight and Anti-Corruption (2013) Corruption in Afghanistan: Recent patterns and trends',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.5.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.5',
+            ],
+            indicator: [
+                '16.5.1',
+            ],
+            series: 'IU_COR_BRIB',
+            seriesDescription: 'Prevalence rate of bribery, by sex (%)',
+            seriesCount: '123',
+            geoAreaCode: '499',
+            geoAreaName: 'Montenegro',
+            timePeriodStart: 2010,
+            value: '9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNODC and Prism Research (2011) Corruption in Montenegro: Bribery as experienced by the population',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.5.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.5',
+            ],
+            indicator: [
+                '16.5.1',
+            ],
+            series: 'IU_COR_BRIB',
+            seriesDescription: 'Prevalence rate of bribery, by sex (%)',
+            seriesCount: '123',
+            geoAreaCode: '862',
+            geoAreaName: 'Venezuela (Bolivarian Republic of)',
+            timePeriodStart: 2006,
+            value: '11.2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'National Commission for Police Reform. 2007 Study on Victimization from Crime and Perception of the Police.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.5.1',
+            ],
+        },
+    ],
+}

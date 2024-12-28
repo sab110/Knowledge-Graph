@@ -1,0 +1,137 @@
+{
+    size: 3258,
+    totalElements: 3258,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '15',
+                '15',
+            ],
+            target: [
+                '15.a',
+                '15.b',
+            ],
+            indicator: [
+                '15.a.1',
+                '15.b.1',
+            ],
+            series: 'DC_ODA_BDVDL',
+            seriesDescription: 'Total official development assistance for biodiversity, by donor countries (millions of constant 2018 United States dollars)',
+            seriesCount: '966',
+            geoAreaCode: '2',
+            geoAreaName: 'Africa',
+            timePeriodStart: 2002,
+            value: '345.8849',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2018',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million | Other Official flows are not marked on biodiversity',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.a.1',
+                '15.b.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+                '15',
+            ],
+            target: [
+                '15.a',
+                '15.b',
+            ],
+            indicator: [
+                '15.a.1',
+                '15.b.1',
+            ],
+            series: 'DC_ODA_BDVL',
+            seriesDescription: 'Total official development assistance for biodiversity, by recipient countries (millions of constant 2018 United States dollars)',
+            seriesCount: '2292',
+            geoAreaCode: '226',
+            geoAreaName: 'Equatorial Guinea',
+            timePeriodStart: 2012,
+            value: '0.13127',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2018',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million | Other Official flows are not marked on biodiversity',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.a.1',
+                '15.b.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+                '15',
+            ],
+            target: [
+                '15.a',
+                '15.b',
+            ],
+            indicator: [
+                '15.a.1',
+                '15.b.1',
+            ],
+            series: 'DC_ODA_BDVL',
+            seriesDescription: 'Total official development assistance for biodiversity, by recipient countries (millions of constant 2018 United States dollars)',
+            seriesCount: '2292',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2018,
+            value: '7.91853',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2018',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Commitments | Based on OECD, CRS databased, 2020 | Constant 2018 USD million | Other Official flows are not marked on biodiversity',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.a.1',
+                '15.b.1',
+            ],
+        },
+    ],
+}

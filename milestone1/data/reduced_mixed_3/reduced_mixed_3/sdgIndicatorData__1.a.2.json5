@@ -1,0 +1,125 @@
+{
+    size: 2809,
+    totalElements: 2809,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.a',
+            ],
+            indicator: [
+                '1.a.2',
+            ],
+            series: 'SD_XPD_ESED',
+            seriesDescription: 'Proportion of total government spending on essential services, education (%)',
+            seriesCount: '2809',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2005,
+            value: '15.08',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IMF; Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.a.2',
+            ],
+        },
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.a',
+            ],
+            indicator: [
+                '1.a.2',
+            ],
+            series: 'SD_XPD_ESED',
+            seriesDescription: 'Proportion of total government spending on essential services, education (%)',
+            seriesCount: '2809',
+            geoAreaCode: '414',
+            geoAreaName: 'Kuwait',
+            timePeriodStart: 2020,
+            value: '11.91267',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics; Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.a.2',
+            ],
+        },
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.a',
+            ],
+            indicator: [
+                '1.a.2',
+            ],
+            series: 'SD_XPD_ESED',
+            seriesDescription: 'Proportion of total government spending on essential services, education (%)',
+            seriesCount: '2809',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2018,
+            value: '19.03984',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics; Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.a.2',
+            ],
+        },
+    ],
+}

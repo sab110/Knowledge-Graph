@@ -1,0 +1,130 @@
+{
+    size: 650,
+    totalElements: 650,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.5',
+            ],
+            indicator: [
+                '3.5.1',
+            ],
+            series: 'SH_SUD_ALCOL',
+            seriesDescription: 'Alcohol use disorders, 12-month prevalence (%)',
+            seriesCount: '570',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2016,
+            value: '0.4',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.5.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.5',
+            ],
+            indicator: [
+                '3.5.1',
+            ],
+            series: 'SH_SUD_ALCOL',
+            seriesDescription: 'Alcohol use disorders, 12-month prevalence (%)',
+            seriesCount: '570',
+            geoAreaCode: '480',
+            geoAreaName: 'Mauritius',
+            timePeriodStart: 2016,
+            value: '5.5',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.5.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.5',
+            ],
+            indicator: [
+                '3.5.1',
+            ],
+            series: 'SH_SUD_TREAT',
+            seriesDescription: 'Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)',
+            seriesCount: '80',
+            geoAreaCode: '860',
+            geoAreaName: 'Uzbekistan',
+            timePeriodStart: 2017,
+            value: '30.91638',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Annual Report Questionnaire',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Substance use disorders': 'OPIOIDS',
+            },
+            key: [
+                '3.5.1',
+            ],
+        },
+    ],
+}

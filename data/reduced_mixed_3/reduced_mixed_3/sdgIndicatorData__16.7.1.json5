@@ -1,0 +1,136 @@
+{
+    size: 8720,
+    totalElements: 8720,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.7',
+            ],
+            indicator: [
+                '16.7.1',
+            ],
+            series: 'SG_DMK_PARLCC_JC',
+            seriesDescription: 'Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees',
+            seriesCount: '232',
+            geoAreaCode: '2',
+            geoAreaName: 'Africa',
+            timePeriodStart: 2021,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Inter-Parliamentary Union (IPU), Parline Database',
+            geoInfoUrl: null,
+            footnotes: [
+                'Joint Committee, Data valid as of 1 Jan of given year',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+                'Parliamentary committees': 'GEN_EQU',
+                Age: '46+',
+            },
+            key: [
+                '16.7.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.7',
+            ],
+            indicator: [
+                '16.7.1',
+            ],
+            series: 'SG_DMK_PARLCC_LC',
+            seriesDescription: 'Number of chairs of permanent committees, by age sex and focus of the committee, Lower Chamber or Unicameral',
+            seriesCount: '3385',
+            geoAreaCode: '548',
+            geoAreaName: 'Vanuatu',
+            timePeriodStart: 2022,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Inter-Parliamentary Union (IPU), Parline Database',
+            geoInfoUrl: null,
+            footnotes: [
+                'Unicameral: (Parliament), No Age Data, Data valid as of 1 Jan of given year',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+                'Parliamentary committees': 'FOR_AFF',
+                Age: '_U',
+            },
+            key: [
+                '16.7.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.7',
+            ],
+            indicator: [
+                '16.7.1',
+            ],
+            series: 'SG_DMK_JDC_CNS',
+            seriesDescription: 'Proportions of positions in the judiciary compared to national distributions, Constitutional Court (ratio)',
+            seriesCount: '37',
+            geoAreaCode: '858',
+            geoAreaName: 'Uruguay',
+            timePeriodStart: 2020,
+            value: '1.24',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'RVE',
+            geoInfoUrl: null,
+            footnotes: [
+                'Group A: Afro\nUnderregistered dissabilities and afro within the civil servants\nRegistrars are not disaggregated by level, all reported at the higher level\nElegibility age is different for judges (see below) and registrars (18 y)\nMinister of the Supreme Court of Justice (4  y) and Minister of the Court of Appeal (35 y)\nJudges (28 y)\nJudges of peace (25 y)',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'Ratio',
+            },
+            dimensions: {
+                Age: 'ALLAGE',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+                'Disability status': '_T',
+                'Type of occupation': 'JUDGES',
+                'Population Group': 'TOTAL',
+            },
+            key: [
+                '16.7.1',
+            ],
+        },
+    ],
+}

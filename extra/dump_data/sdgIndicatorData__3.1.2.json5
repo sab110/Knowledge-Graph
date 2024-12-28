@@ -1,0 +1,125 @@
+{
+    size: 2175,
+    totalElements: 2175,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.1',
+            ],
+            indicator: [
+                '3.1.2',
+            ],
+            series: 'SH_STA_BRTC',
+            seriesDescription: 'Proportion of births attended by skilled health personnel (%)',
+            seriesCount: '2175',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2003,
+            value: '14.3',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Multiple Indicator Cluster Survey - 2003 Afghanistan. Afghanistan: Central Statistics Office [Afghanistan], United Nations Children’s Fund (UNICEF); 2004.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Cadres included align with the standard definition of: Doctor, nurse and/or midwife',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.1.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.1',
+            ],
+            indicator: [
+                '3.1.2',
+            ],
+            series: 'SH_STA_BRTC',
+            seriesDescription: 'Proportion of births attended by skilled health personnel (%)',
+            seriesCount: '2175',
+            geoAreaCode: '392',
+            geoAreaName: 'Japan',
+            timePeriodStart: 2009,
+            value: '99.8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: '2010 Vital Statistics of Japan [website]. Tokyo: e-stat (Portal Site of Official Statistics of Japan), National Statistics Center [Japan]; 2011 (https://www.e-stat.go.jp/english/database/db-hw/vs01.html, accessed 28 November 2011).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Institutional Birth (IB): includes all deliveries that occurred at a health facility',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.1.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.1',
+            ],
+            indicator: [
+                '3.1.2',
+            ],
+            series: 'SH_STA_BRTC',
+            seriesDescription: 'Proportion of births attended by skilled health personnel (%)',
+            seriesCount: '2175',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '86',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Zimbabwe Multiple Indicator Cluster Survey 2019, Survey Findings Report. Harare: Zimbabwe National Statistics Agency (ZIMSTAT), UNICEF; 2019.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Cadres included align with the standard definition of: Doctor, nurse and/or midwife',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.1.2',
+            ],
+        },
+    ],
+}

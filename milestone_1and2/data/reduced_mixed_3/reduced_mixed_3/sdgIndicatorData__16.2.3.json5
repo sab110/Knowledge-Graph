@@ -1,0 +1,131 @@
+{
+    size: 80,
+    totalElements: 80,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.2',
+            ],
+            indicator: [
+                '16.2.3',
+            ],
+            series: 'VC_VAW_SXVLN',
+            seriesDescription: 'Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29)',
+            seriesCount: '80',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2015,
+            value: '1.1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'DHS 2015',
+            geoInfoUrl: null,
+            footnotes: [
+                'Refers to ever-married women only',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '18-29',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.2.3',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.2',
+            ],
+            indicator: [
+                '16.2.3',
+            ],
+            series: 'VC_VAW_SXVLN',
+            seriesDescription: 'Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29)',
+            seriesCount: '80',
+            geoAreaCode: '104',
+            geoAreaName: 'Myanmar',
+            timePeriodStart: 2016,
+            value: '1.2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'DHS 2015-16',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '18-29',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.2.3',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.2',
+            ],
+            indicator: [
+                '16.2.3',
+            ],
+            series: 'VC_VAW_SXVLN',
+            seriesDescription: 'Proportion of population aged 18-29 years who experienced sexual violence by age 18, by sex (% of population aged 18-29)',
+            seriesCount: '80',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '2.4',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'MICS 2019',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '18-29',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.2.3',
+            ],
+        },
+    ],
+}

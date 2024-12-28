@@ -1,0 +1,128 @@
+{
+    size: 1049,
+    totalElements: 1049,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.3',
+            ],
+            indicator: [
+                '4.3.1',
+            ],
+            series: 'SE_ADT_EDUCTRN',
+            seriesDescription: 'Participation rate in formal and non-formal education and training, by sex (%)',
+            seriesCount: '1049',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2007,
+            value: '1.59717',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Labour Force Survey. Reference period for participation in education and training: unknown, likely 1 month prior to the interview. Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.3.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.3',
+            ],
+            indicator: [
+                '4.3.1',
+            ],
+            series: 'SE_ADT_EDUCTRN',
+            seriesDescription: 'Participation rate in formal and non-formal education and training, by sex (%)',
+            seriesCount: '1049',
+            geoAreaCode: '428',
+            geoAreaName: 'Latvia',
+            timePeriodStart: 2007,
+            value: '25.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Adult Education Survey (AES). Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.3.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.3',
+            ],
+            indicator: [
+                '4.3.1',
+            ],
+            series: 'SE_ADT_EDUCTRN',
+            seriesDescription: 'Participation rate in formal and non-formal education and training, by sex (%)',
+            seriesCount: '1049',
+            geoAreaCode: '894',
+            geoAreaName: 'Zambia',
+            timePeriodStart: 2017,
+            value: '3.32688',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Labour Force Survey. Reference period for participation in education and training: unknown, likely 1 month prior to the interview. Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.3.1',
+            ],
+        },
+    ],
+}

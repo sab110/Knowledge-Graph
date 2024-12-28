@@ -1,0 +1,128 @@
+{
+    size: 912,
+    totalElements: 912,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.2',
+            ],
+            indicator: [
+                '1.2.1',
+            ],
+            series: 'SI_POV_NAHC',
+            seriesDescription: 'Proportion of population living below the national poverty line (%)',
+            seriesCount: '912',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2007,
+            value: '33.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Poverty and Inequality Platform, World Bank',
+            geoInfoUrl: null,
+            footnotes: [
+                'Source: National Statistics and Information Authority (NSIA, formerly CSO)  NRVA 2007-08 Poverty report (http://cso.gov.af/Content/files/ALCS/ALCS%202016-17%20Analysis%20report%20-%20Full%20report23%20_09%202018-ilovepdf-compressed.pdf). Poverty line is absolute. Government estimate.',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'ALLAREA',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.2.1',
+            ],
+        },
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.2',
+            ],
+            indicator: [
+                '1.2.1',
+            ],
+            series: 'SI_POV_NAHC',
+            seriesDescription: 'Proportion of population living below the national poverty line (%)',
+            seriesCount: '912',
+            geoAreaCode: '450',
+            geoAreaName: 'Madagascar',
+            timePeriodStart: 2001,
+            value: '70.8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Poverty and Inequality Platform, World Bank',
+            geoInfoUrl: null,
+            footnotes: [
+                'Source: Madagascar Poverty, Gender and Inequality Assessment. Poverty line is absolute. Government estimate.',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'ALLAREA',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.2.1',
+            ],
+        },
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.2',
+            ],
+            indicator: [
+                '1.2.1',
+            ],
+            series: 'SI_POV_NAHC',
+            seriesDescription: 'Proportion of population living below the national poverty line (%)',
+            seriesCount: '912',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '38.3',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Poverty and Inequality Platform, World Bank',
+            geoInfoUrl: null,
+            footnotes: [
+                'Source: Mini-PICES 2019 (April/ May 2019). Poverty line is absolute. Government estimate.',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'ALLAREA',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.2.1',
+            ],
+        },
+    ],
+}

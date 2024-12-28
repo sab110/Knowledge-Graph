@@ -1,0 +1,128 @@
+{
+    size: 815,
+    totalElements: 815,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.9',
+            ],
+            indicator: [
+                '16.9.1',
+            ],
+            series: 'SG_REG_BRTH',
+            seriesDescription: 'Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age)',
+            seriesCount: '815',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2015,
+            value: '50.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'DHS 2015',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '<1Y',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.9.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.9',
+            ],
+            indicator: [
+                '16.9.1',
+            ],
+            series: 'SG_REG_BRTH',
+            seriesDescription: 'Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age)',
+            seriesCount: '815',
+            geoAreaCode: '450',
+            geoAreaName: 'Madagascar',
+            timePeriodStart: 2018,
+            value: '74.3',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'MICS 2018',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '<1Y',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.9.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.9',
+            ],
+            indicator: [
+                '16.9.1',
+            ],
+            series: 'SG_REG_BRTH',
+            seriesDescription: 'Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age)',
+            seriesCount: '815',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '48.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'MICS 2019',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '<5Y',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.9.1',
+            ],
+        },
+    ],
+}

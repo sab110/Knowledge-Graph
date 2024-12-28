@@ -1,0 +1,128 @@
+{
+    size: 10185,
+    totalElements: 10185,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.1',
+            ],
+            indicator: [
+                '16.1.1',
+            ],
+            series: 'VC_IHR_PSRC',
+            seriesDescription: 'Number of victims of intentional homicide per 100,000 population, by sex (victims per 100,000 population)',
+            seriesCount: '5040',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2015,
+            value: '0.55597',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'National Statistical Organization',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.1.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.1',
+            ],
+            indicator: [
+                '16.1.1',
+            ],
+            series: 'VC_IHR_PSRCN',
+            seriesDescription: 'Number of victims of intentional homicide, by sex (number)',
+            seriesCount: '5145',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2014,
+            value: '13',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'National Criminal Justice Data as Collected through the United Nations Surveys on Crime Trends and the Operations of Criminal Justice Systems (UN-CTS)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.1.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.1',
+            ],
+            indicator: [
+                '16.1.1',
+            ],
+            series: 'VC_IHR_PSRCN',
+            seriesDescription: 'Number of victims of intentional homicide, by sex (number)',
+            seriesCount: '5145',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 1990,
+            value: '183',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Health Organization Mortality Database',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.1.1',
+            ],
+        },
+    ],
+}

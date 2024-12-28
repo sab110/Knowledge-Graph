@@ -1,0 +1,129 @@
+{
+    size: 908,
+    totalElements: 908,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.3',
+            ],
+            indicator: [
+                '6.3.1',
+            ],
+            series: 'EN_WWT_WWDS',
+            seriesDescription: 'Proportion of safely treated domestic wastewater flows (%)',
+            seriesCount: '146',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2020,
+            value: '13.35422',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO 2020',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.3.1',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.3',
+            ],
+            indicator: [
+                '6.3.1',
+            ],
+            series: 'EN_WWT_GEN',
+            seriesDescription: 'Total wastewater generated (million m3/year)',
+            seriesCount: '616',
+            geoAreaCode: '398',
+            geoAreaName: 'Kazakhstan',
+            timePeriodStart: 2015,
+            value: '4234.98557',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNSD',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'M_M3_PER_YR',
+            },
+            dimensions: {
+                Location: 'ALLAREA',
+                'Reporting Type': 'G',
+                Activity: 'INDUSTRIES',
+            },
+            key: [
+                '6.3.1',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.3',
+            ],
+            indicator: [
+                '6.3.1',
+            ],
+            series: 'EN_WWT_TREATR',
+            seriesDescription: 'Proportion of wastewater treated, by activity and location (%)',
+            seriesCount: '56',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2015,
+            value: '61.23265',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNSD',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'ALLAREA',
+                'Reporting Type': 'G',
+                Activity: 'TOTAL',
+            },
+            key: [
+                '6.3.1',
+            ],
+        },
+    ],
+}

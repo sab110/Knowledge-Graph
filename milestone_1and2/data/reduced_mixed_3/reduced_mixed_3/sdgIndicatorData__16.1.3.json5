@@ -1,0 +1,128 @@
+{
+    size: 1061,
+    totalElements: 1061,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.1',
+            ],
+            indicator: [
+                '16.1.3',
+            ],
+            series: 'VC_VOV_PHYL',
+            seriesDescription: 'Proportion of population subjected to physical violence in the previous 12 months, by sex (%)',
+            seriesCount: '267',
+            geoAreaCode: '32',
+            geoAreaName: 'Argentina',
+            timePeriodStart: 2016,
+            value: '1.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Office on Drugs and Crime',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.1.3',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.1',
+            ],
+            indicator: [
+                '16.1.3',
+            ],
+            series: 'VC_VOV_ROBB',
+            seriesDescription: 'Proportion of population subjected to robbery in the previous 12 months, by sex (%)',
+            seriesCount: '489',
+            geoAreaCode: '528',
+            geoAreaName: 'Netherlands',
+            timePeriodStart: 2014,
+            value: '0.1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Office on Drugs and Crime',
+            geoInfoUrl: null,
+            footnotes: [
+                'Excluding attempts. Refers to households where the respondent has personally experienced robbery. Percentage of individuals aged >=15 years.',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.1.3',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.1',
+            ],
+            indicator: [
+                '16.1.3',
+            ],
+            series: 'VC_VOV_SEXL',
+            seriesDescription: 'Proportion of population subjected to sexual violence in the previous 12 months, by sex (%)',
+            seriesCount: '305',
+            geoAreaCode: '840',
+            geoAreaName: 'United States of America',
+            timePeriodStart: 2017,
+            value: '0.08',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Office on Drugs and Crime',
+            geoInfoUrl: null,
+            footnotes: [
+                '12 months prevalence based on number  of incidents in last 6 months over successive interviews during calendar year. Persons age 12 or older. 2016 data not comparable',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.1.3',
+            ],
+        },
+    ],
+}

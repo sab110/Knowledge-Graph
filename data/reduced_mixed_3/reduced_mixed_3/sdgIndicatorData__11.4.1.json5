@@ -1,0 +1,128 @@
+{
+    size: 96,
+    totalElements: 96,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.4',
+            ],
+            indicator: [
+                '11.4.1',
+            ],
+            series: 'GB_XPD_CULNAT_PB',
+            seriesDescription: 'Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)',
+            seriesCount: '70',
+            geoAreaCode: '40',
+            geoAreaName: 'Austria',
+            timePeriodStart: 2018,
+            value: '107.17',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2017',
+            source: 'UNESCO Institute for Statistics (UIS) Survey on expenditure on cultural and natural heritage (Indicator SDG 11.4.1)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Fiscal year (1 Jan 2018 - 31 Dec 2018)',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'CON_PPP_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Level_of_government: '_T',
+            },
+            key: [
+                '11.4.1',
+            ],
+        },
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.4',
+            ],
+            indicator: [
+                '11.4.1',
+            ],
+            series: 'GB_XPD_CULNAT_PB',
+            seriesDescription: 'Total expenditure per capita spent on cultural and natural heritage, public (PPP, constant 2017 United States dollars)',
+            seriesCount: '70',
+            geoAreaCode: '616',
+            geoAreaName: 'Poland',
+            timePeriodStart: 2019,
+            value: '26.82',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2017',
+            source: 'UNESCO Institute for Statistics (UIS) Survey on expenditure on cultural and natural heritage (Indicator SDG 11.4.1)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Due to the use of UN Population data, figures do not correspond with official national data. Fiscal year (1 Jan 2019 - 31 Dec 2019)',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'CON_PPP_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Level_of_government: 'NAT',
+            },
+            key: [
+                '11.4.1',
+            ],
+        },
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.4',
+            ],
+            indicator: [
+                '11.4.1',
+            ],
+            series: 'GB_XPD_NAT_PBPV',
+            seriesDescription: 'Total expenditure per capita spent on natural heritage, public and private (PPP, constant 2017 United States dollars)',
+            seriesCount: '4',
+            geoAreaCode: '752',
+            geoAreaName: 'Sweden',
+            timePeriodStart: 2018,
+            value: '43.10',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2017',
+            source: 'UNESCO Institute for Statistics (UIS) Survey on expenditure on cultural and natural heritage (Indicator SDG 11.4.1)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Does not include local government; includes only direct expenditure; partial data; Fiscal year (1 Jan 2018 - 31 Dec 2018)',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'CON_PPP_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Level_of_government: '_T',
+            },
+            key: [
+                '11.4.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,125 @@
+{
+    size: 4746,
+    totalElements: 4746,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.2',
+            ],
+            indicator: [
+                '17.2.1',
+            ],
+            series: 'DC_ODA_SIDSG',
+            seriesDescription: "Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor countries (%)",
+            seriesCount: '565',
+            geoAreaCode: '36',
+            geoAreaName: 'Australia',
+            timePeriodStart: 2000,
+            value: '0.09',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Net Disbursements; Based on OECD, DAC database, 2021; Including imputed multilateral',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.2.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.2',
+            ],
+            indicator: [
+                '17.2.1',
+            ],
+            series: 'DC_ODA_LDCS',
+            seriesDescription: 'Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries (millions of constant 2019 United States dollars)',
+            seriesCount: '580',
+            geoAreaCode: '203',
+            geoAreaName: 'Czechia',
+            timePeriodStart: 2002,
+            value: '13',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Net Disbursements; Based on OECD, DAC database, 2021; Constant 2019 USD million; Including imputed multilateral',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.2.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.2',
+            ],
+            indicator: [
+                '17.2.1',
+            ],
+            series: 'DC_ODA_TOTGGE',
+            seriesDescription: "Official development assistance (ODA) as a percentage of OECD-DAC donors' GNI on grant equivalent basis, by donor countries (%)",
+            seriesCount: '87',
+            geoAreaCode: '840',
+            geoAreaName: 'United States of America',
+            timePeriodStart: 2020,
+            value: '0.17',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Based on OECD, DAC database, 2021; Provisional; Grant equivalent',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.2.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,125 @@
+{
+    size: 137,
+    totalElements: 137,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.c',
+            ],
+            indicator: [
+                '5.c.1',
+            ],
+            series: 'SG_GEN_EQPWN',
+            seriesDescription: "Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment (%)",
+            seriesCount: '137',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2018,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Data are derived from country reporting on 13 binary questions on questionnaire, collected through the Global Partneship for Effective Development Cooperation',
+            geoInfoUrl: null,
+            footnotes: [
+                'The numerical value 1 represents "Approaches requirement", 0 for "Does not meet requirement" and 2 for "Fully meets requirement".',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.c.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.c',
+            ],
+            indicator: [
+                '5.c.1',
+            ],
+            series: 'SG_GEN_EQPWN',
+            seriesDescription: "Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment (%)",
+            seriesCount: '137',
+            geoAreaCode: '418',
+            geoAreaName: "Lao People's Democratic Republic",
+            timePeriodStart: 2018,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Data are derived from country reporting on 13 binary questions on questionnaire, collected through the Global Partneship for Effective Development Cooperation',
+            geoInfoUrl: null,
+            footnotes: [
+                'The numerical value 1 represents "Approaches requirement", 0 for "Does not meet requirement" and 2 for "Fully meets requirement".',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.c.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.c',
+            ],
+            indicator: [
+                '5.c.1',
+            ],
+            series: 'SG_GEN_EQPWN',
+            seriesDescription: "Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment (%)",
+            seriesCount: '137',
+            geoAreaCode: '887',
+            geoAreaName: 'Yemen',
+            timePeriodStart: 2018,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Data are derived from country reporting on 13 binary questions on questionnaire, collected through the Global Partneship for Effective Development Cooperation',
+            geoInfoUrl: null,
+            footnotes: [
+                'The numerical value 1 represents "Approaches requirement", 0 for "Does not meet requirement" and 2 for "Fully meets requirement".',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.c.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,125 @@
+{
+    size: 6840,
+    totalElements: 6840,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.1',
+            ],
+            indicator: [
+                '15.1.1',
+            ],
+            series: 'AG_LND_TOTL',
+            seriesDescription: 'Land area (thousands of hectares)',
+            seriesCount: '2280',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '65223',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Data from FAOSTAT extracted 20220110',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'HA_TH',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.1.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.1',
+            ],
+            indicator: [
+                '15.1.1',
+            ],
+            series: 'AG_LND_FRSTN',
+            seriesDescription: 'Forest area (thousands of hectares)',
+            seriesCount: '2280',
+            geoAreaCode: '426',
+            geoAreaName: 'Lesotho',
+            timePeriodStart: 2016,
+            value: '34.52',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'FAO, Global Forest Resources Assessment',
+            geoInfoUrl: null,
+            footnotes: [
+                'Official country report to FAO (FRA 2020)',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'HA_TH',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.1.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.1',
+            ],
+            indicator: [
+                '15.1.1',
+            ],
+            series: 'AG_LND_FRST',
+            seriesDescription: 'Forest area as a proportion of total land area (%)',
+            seriesCount: '2280',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '45.09391',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'FAO, Global Forest Resources Assessment and FAOSTAT',
+            geoInfoUrl: null,
+            footnotes: [
+                'Official country report to FAO (FRA 2020)',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.1.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,125 @@
+{
+    size: 1056,
+    totalElements: 1056,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.15',
+            ],
+            indicator: [
+                '17.15.1',
+            ],
+            series: 'SG_PLN_PRVRIMON',
+            seriesDescription: 'Proportion of results indicators which will be monitored using government sources and monitoring systems - data by provider (%)',
+            seriesCount: '75',
+            geoAreaCode: '36',
+            geoAreaName: 'Australia',
+            timePeriodStart: 2016,
+            value: '67.3',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'OECD and UNDP.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.15.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.15',
+            ],
+            indicator: [
+                '17.15.1',
+            ],
+            series: 'SG_PLN_RECNDI',
+            seriesDescription: 'Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient (%)',
+            seriesCount: '189',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2018,
+            value: '62.5',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'OECD and UNDP.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.15.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.15',
+            ],
+            indicator: [
+                '17.15.1',
+            ],
+            series: 'SG_PLN_PRPOLRES',
+            seriesDescription: 'Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%) ',
+            seriesCount: '75',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2018,
+            value: '57.0879',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'OECD and UNDP.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.15.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,131 @@
+{
+    size: 879,
+    totalElements: 879,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.7',
+            ],
+            indicator: [
+                '3.7.1',
+            ],
+            series: 'SH_FPL_MTMM',
+            seriesDescription: 'Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (% of women aged 15-49 years)',
+            seriesCount: '879',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2016,
+            value: '42.2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Afghanistan 2015 Demographic and Health Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'The global indicator represents all women of reproductive age. This survey estimate represents women who are married or in a union.',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15-49',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.7.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.7',
+            ],
+            indicator: [
+                '3.7.1',
+            ],
+            series: 'SH_FPL_MTMM',
+            seriesDescription: 'Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (% of women aged 15-49 years)',
+            seriesCount: '879',
+            geoAreaCode: '466',
+            geoAreaName: 'Mali',
+            timePeriodStart: 2013,
+            value: '28.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Mali 2012-2013 Demographic and Health Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15-49',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.7.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.7',
+            ],
+            indicator: [
+                '3.7.1',
+            ],
+            series: 'SH_FPL_MTMM',
+            seriesDescription: 'Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (% of women aged 15-49 years)',
+            seriesCount: '879',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2015,
+            value: '84.8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Zimbabwe 2015 Demographic and Health Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15-49',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.7.1',
+            ],
+        },
+    ],
+}

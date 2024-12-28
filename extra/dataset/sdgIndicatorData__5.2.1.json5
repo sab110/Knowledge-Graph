@@ -1,0 +1,131 @@
+{
+    size: 360,
+    totalElements: 360,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.2',
+            ],
+            indicator: [
+                '5.2.1',
+            ],
+            series: 'VC_VAW_MARR',
+            seriesDescription: 'Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)',
+            seriesCount: '360',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2018,
+            value: '34.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '50.4',
+            lowerBound: '21.7',
+            basePeriod: null,
+            source: 'All Surveys and studies that are population-based, representative at the national or sub-national level, conducted between 2000 and 2018 and measured IPV using act-specific questions.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15-49',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.2.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.2',
+            ],
+            indicator: [
+                '5.2.1',
+            ],
+            series: 'VC_VAW_MARR',
+            seriesDescription: 'Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)',
+            seriesCount: '360',
+            geoAreaCode: '430',
+            geoAreaName: 'Liberia',
+            timePeriodStart: 2018,
+            value: '26.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '40.1',
+            lowerBound: '16.8',
+            basePeriod: null,
+            source: 'All Surveys and studies that are population-based, representative at the national or sub-national level, conducted between 2000 and 2018 and measured IPV using act-specific questions.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15-49',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.2.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.2',
+            ],
+            indicator: [
+                '5.2.1',
+            ],
+            series: 'VC_VAW_MARR',
+            seriesDescription: 'Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)',
+            seriesCount: '360',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2018,
+            value: '15.8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '23.0',
+            lowerBound: '10.4',
+            basePeriod: null,
+            source: 'All Surveys and studies that are population-based, representative at the national or sub-national level, conducted between 2000 and 2018 and measured IPV using act-specific questions.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.2.1',
+            ],
+        },
+    ],
+}

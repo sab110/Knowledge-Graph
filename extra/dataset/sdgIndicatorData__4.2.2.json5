@@ -1,0 +1,128 @@
+{
+    size: 7559,
+    totalElements: 7559,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.2',
+            ],
+            indicator: [
+                '4.2.2',
+            ],
+            series: 'SE_PRE_PARTN',
+            seriesDescription: 'Participation rate in organized learning (one year before the official primary entry age), by sex (%)',
+            seriesCount: '7559',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2000,
+            value: '54.07937',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics; Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.2.2',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.2',
+            ],
+            indicator: [
+                '4.2.2',
+            ],
+            series: 'SE_PRE_PARTN',
+            seriesDescription: 'Participation rate in organized learning (one year before the official primary entry age), by sex (%)',
+            seriesCount: '7559',
+            geoAreaCode: '432',
+            geoAreaName: 'Landlocked developing countries (LLDCs)',
+            timePeriodStart: 2008,
+            value: '33.82304',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics.  Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.2.2',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.2',
+            ],
+            indicator: [
+                '4.2.2',
+            ],
+            series: 'SE_PRE_PARTN',
+            seriesDescription: 'Participation rate in organized learning (one year before the official primary entry age), by sex (%)',
+            seriesCount: '7559',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '57.22575',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: '2020 PRIMARY AND SECONDARY EDUCATION STATISTICS REPORT (http://mopse.co.zw/sites/default/files/public/downloads/EMIS%202020.pdf); Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.2.2',
+            ],
+        },
+    ],
+}

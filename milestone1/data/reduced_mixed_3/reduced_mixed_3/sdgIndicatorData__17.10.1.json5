@@ -1,0 +1,128 @@
+{
+    size: 19252,
+    totalElements: 19252,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.10',
+            ],
+            indicator: [
+                '17.10.1',
+            ],
+            series: 'TM_TAX_WMFN',
+            seriesDescription: 'Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)',
+            seriesCount: '9626',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2005,
+            value: '5.94063',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Market Access Map data, International Trade Centre (ITC)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Type of product': 'IND',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.10.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.10',
+            ],
+            indicator: [
+                '17.10.1',
+            ],
+            series: 'TM_TAX_WMFN',
+            seriesDescription: 'Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)',
+            seriesCount: '9626',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '9.53937',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Market Access Map data, International Trade Centre (ITC)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Type of product': 'ALP',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.10.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.10',
+            ],
+            indicator: [
+                '17.10.1',
+            ],
+            series: 'TM_TAX_WMPS',
+            seriesDescription: 'Worldwide weighted tariff-average, preferential status, by type of product (%)',
+            seriesCount: '9626',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '0.02201',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Market Access Map data, International Trade Centre (ITC)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Type of product': 'OIL',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.10.1',
+            ],
+        },
+    ],
+}

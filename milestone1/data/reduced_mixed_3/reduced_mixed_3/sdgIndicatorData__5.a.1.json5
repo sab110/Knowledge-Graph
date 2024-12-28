@@ -1,0 +1,127 @@
+{
+    size: 744,
+    totalElements: 744,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.a',
+            ],
+            indicator: [
+                '5.a.1',
+            ],
+            series: 'SP_LGL_LNDAGSEC',
+            seriesDescription: 'Proportion of people with ownership or secure rights over agricultural land (out of total agricultural population), by sex (%)',
+            seriesCount: '428',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2015,
+            value: '51.641',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Demographic and Health Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Number of women/men who own any land either alone or jointly households where any one of its members owns livestock and poultry or owns agricultural land, or at least one of the working adults is self-employed in agriculture ',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.a.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.a',
+            ],
+            indicator: [
+                '5.a.1',
+            ],
+            series: 'SP_LGL_LNDAGSEC',
+            seriesDescription: 'Proportion of people with ownership or secure rights over agricultural land (out of total agricultural population), by sex (%)',
+            seriesCount: '428',
+            geoAreaCode: '768',
+            geoAreaName: 'Togo',
+            timePeriodStart: 2018,
+            value: '43.131',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Enquête Harmonisée sur les conditions de vie des ménages (WAEMU)',
+            geoInfoUrl: null,
+            footnotes: [
+                'The individual is listed as an owner of the parcel if she/he has a legal document under her/his name in the households where at least one member has cultivated land.',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.a.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.a',
+            ],
+            indicator: [
+                '5.a.1',
+            ],
+            series: 'SP_GNP_WNOWNS',
+            seriesDescription: 'Share of women among owners or rights-bearers of agricultural land, by type of tenure (%)',
+            seriesCount: '316',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2015,
+            value: '49.77185',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Demographic and Health Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Number of women/men who own any land either alone or jointly households where any one of its members owns livestock and poultry or owns agricultural land, or at least one of the working adults is self-employed in agriculture ',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.a.1',
+            ],
+        },
+    ],
+}

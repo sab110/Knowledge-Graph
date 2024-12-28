@@ -1,0 +1,125 @@
+{
+    size: 2104,
+    totalElements: 2104,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.5',
+            ],
+            indicator: [
+                '9.5.1',
+            ],
+            series: 'GB_XPD_RSDV',
+            seriesDescription: 'Research and development expenditure as a proportion of GDP (%)',
+            seriesCount: '2104',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2007,
+            value: '0.08757',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics.  Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Partial data',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '9.5.1',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.5',
+            ],
+            indicator: [
+                '9.5.1',
+            ],
+            series: 'GB_XPD_RSDV',
+            seriesDescription: 'Research and development expenditure as a proportion of GDP (%)',
+            seriesCount: '2104',
+            geoAreaCode: '428',
+            geoAreaName: 'Latvia',
+            timePeriodStart: 2011,
+            value: '0.69606',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics.  Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '9.5.1',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.5',
+            ],
+            indicator: [
+                '9.5.1',
+            ],
+            series: 'GB_XPD_RSDV',
+            seriesDescription: 'Research and development expenditure as a proportion of GDP (%)',
+            seriesCount: '2104',
+            geoAreaCode: '894',
+            geoAreaName: 'Zambia',
+            timePeriodStart: 2008,
+            value: '0.27819',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: Regional Publication Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Break in series with previous year for which data are available',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '9.5.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,128 @@
+{
+    size: 1745,
+    totalElements: 1745,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.2',
+            ],
+            indicator: [
+                '10.2.1',
+            ],
+            series: 'SI_POV_50MI',
+            seriesDescription: 'Proportion of people living below 50 percent of median income (%)',
+            seriesCount: '1745',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 1996,
+            value: '8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: "World Bank's Poverty and Inequality Platform",
+            geoInfoUrl: null,
+            footnotes: [
+                'Based on data from EWS. Estimated from unit-record consumption data. ',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Quantile: 'B50',
+            },
+            key: [
+                '10.2.1',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.2',
+            ],
+            indicator: [
+                '10.2.1',
+            ],
+            series: 'SI_POV_50MI',
+            seriesDescription: 'Proportion of people living below 50 percent of median income (%)',
+            seriesCount: '1745',
+            geoAreaCode: '400',
+            geoAreaName: 'Jordan',
+            timePeriodStart: 2002,
+            value: '11',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: "World Bank's Poverty and Inequality Platform",
+            geoInfoUrl: null,
+            footnotes: [
+                'Based on data from HEIS. Estimated from unit-record consumption data. ',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Quantile: 'B50',
+            },
+            key: [
+                '10.2.1',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.2',
+            ],
+            indicator: [
+                '10.2.1',
+            ],
+            series: 'SI_POV_50MI',
+            seriesDescription: 'Proportion of people living below 50 percent of median income (%)',
+            seriesCount: '1745',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '17',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: "World Bank's Poverty and Inequality Platform",
+            geoInfoUrl: null,
+            footnotes: [
+                'Based on data from PICES. Estimated from imputed unit-record consumption data. ',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Quantile: 'B50',
+            },
+            key: [
+                '10.2.1',
+            ],
+        },
+    ],
+}

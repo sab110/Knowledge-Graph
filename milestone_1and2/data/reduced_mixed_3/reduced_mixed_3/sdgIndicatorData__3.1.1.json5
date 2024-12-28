@@ -1,0 +1,128 @@
+{
+    size: 4815,
+    totalElements: 4815,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.1',
+            ],
+            indicator: [
+                '3.1.1',
+            ],
+            series: 'SH_STA_MORT',
+            seriesDescription: 'Maternal mortality ratio',
+            seriesCount: '4815',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '1450',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '1840',
+            lowerBound: '1030',
+            basePeriod: null,
+            source: 'Trends in maternal mortality: 2000 to 2017: estimates by WHO, UNICEF, UNFPA, World Bank Group and the United Nations Population Division. Geneva: World Health Organization; 2019 ',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100000_LIVE_BIRTHS',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.1.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.1',
+            ],
+            indicator: [
+                '3.1.1',
+            ],
+            series: 'SH_STA_MORT',
+            seriesDescription: 'Maternal mortality ratio',
+            seriesCount: '4815',
+            geoAreaCode: '434',
+            geoAreaName: 'Libya',
+            timePeriodStart: 2004,
+            value: '61',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '124',
+            lowerBound: '30',
+            basePeriod: null,
+            source: 'Trends in maternal mortality: 2000 to 2017: estimates by WHO, UNICEF, UNFPA, World Bank Group and the United Nations Population Division. Geneva: World Health Organization; 2019 ',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100000_LIVE_BIRTHS',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.1.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.1',
+            ],
+            indicator: [
+                '3.1.1',
+            ],
+            series: 'SH_STA_MORT',
+            seriesDescription: 'Maternal mortality ratio',
+            seriesCount: '4815',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2017,
+            value: '458',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '577',
+            lowerBound: '360',
+            basePeriod: null,
+            source: 'Trends in maternal mortality: 2000 to 2017: estimates by WHO, UNICEF, UNFPA, World Bank Group and the United Nations Population Division. Geneva: World Health Organization; 2019 ',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100000_LIVE_BIRTHS',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.1.1',
+            ],
+        },
+    ],
+}

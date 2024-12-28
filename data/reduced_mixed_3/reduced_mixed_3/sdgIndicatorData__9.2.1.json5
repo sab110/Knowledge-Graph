@@ -1,0 +1,131 @@
+{
+    size: 16054,
+    totalElements: 16054,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.2',
+            ],
+            indicator: [
+                '9.2.1',
+            ],
+            series: 'NV_IND_MANFPC',
+            seriesDescription: 'Manufacturing value added per capita (constant 2015 United States dollars)',
+            seriesCount: '5434',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '45.66',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2015',
+            source: 'UNIDO MVA 2022 Database. Available at https://stat.unido.org',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'CON_USD',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_C',
+            },
+            key: [
+                '9.2.1',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.2',
+            ],
+            indicator: [
+                '9.2.1',
+            ],
+            series: 'NV_IND_MANF',
+            seriesDescription: 'Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%)',
+            seriesCount: '5434',
+            geoAreaCode: '418',
+            geoAreaName: "Lao People's Democratic Republic",
+            timePeriodStart: 2007,
+            value: '8.01',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2015',
+            source: 'UNIDO MVA 2022 Database. Available at https://stat.unido.org',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_C',
+            },
+            key: [
+                '9.2.1',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.2',
+            ],
+            indicator: [
+                '9.2.1',
+            ],
+            series: 'NV_IND_MANF_CD',
+            seriesDescription: 'Manufacturing value added (current United States dollars) as a proportion of GDP (%)',
+            seriesCount: '5186',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '10.89',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNIDO MVA 2022 Database. Available at https://stat.unido.org',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_C',
+            },
+            key: [
+                '9.2.1',
+            ],
+        },
+    ],
+}

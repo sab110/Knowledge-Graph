@@ -1,0 +1,129 @@
+{
+    size: 431,
+    totalElements: 431,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.1',
+            ],
+            indicator: [
+                '12.1.1',
+            ],
+            series: 'SG_SCP_CNTRY',
+            seriesDescription: 'Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO)',
+            seriesCount: '116',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2019,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: '10YFP / WESR ',
+            geoInfoUrl: null,
+            footnotes: [
+                'Official reporting (2019-2021)',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.1.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.1',
+            ],
+            indicator: [
+                '12.1.1',
+            ],
+            series: 'SG_SCP_POLINS',
+            seriesDescription: 'Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO)',
+            seriesCount: '199',
+            geoAreaCode: '400',
+            geoAreaName: 'Jordan',
+            timePeriodStart: 2021,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: '10YFP / WESR ',
+            geoInfoUrl: null,
+            footnotes: [
+                'Official reporting (2019-2021)',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Policy instruments': 'POLICY_MACRO',
+            },
+            key: [
+                '12.1.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.1',
+            ],
+            indicator: [
+                '12.1.1',
+            ],
+            series: 'SG_SCP_TOTLN',
+            seriesDescription: 'Number of policies, instruments and mechanism in place for sustainable consumption and production (Number)',
+            seriesCount: '116',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2017,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: '10YFP / WESR ',
+            geoInfoUrl: null,
+            footnotes: [
+                'Pilot reporting (2017)',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.1.1',
+            ],
+        },
+    ],
+}

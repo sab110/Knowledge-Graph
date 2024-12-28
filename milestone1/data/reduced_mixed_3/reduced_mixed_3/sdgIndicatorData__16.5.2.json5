@@ -1,0 +1,125 @@
+{
+    size: 354,
+    totalElements: 354,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.5',
+            ],
+            indicator: [
+                '16.5.2',
+            ],
+            series: 'IC_FRM_BRIB',
+            seriesDescription: 'Bribery incidence (% of firms experiencing at least one bribe payment request)',
+            seriesCount: '354',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2008,
+            value: '36.75',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WDI',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.5.2',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.5',
+            ],
+            indicator: [
+                '16.5.2',
+            ],
+            series: 'IC_FRM_BRIB',
+            seriesDescription: 'Bribery incidence (% of firms experiencing at least one bribe payment request)',
+            seriesCount: '354',
+            geoAreaCode: '426',
+            geoAreaName: 'Lesotho',
+            timePeriodStart: 2009,
+            value: '14.57',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WDI',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.5.2',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.5',
+            ],
+            indicator: [
+                '16.5.2',
+            ],
+            series: 'IC_FRM_BRIB',
+            seriesDescription: 'Bribery incidence (% of firms experiencing at least one bribe payment request)',
+            seriesCount: '354',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2016,
+            value: '17.48',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WDI',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.5.2',
+            ],
+        },
+    ],
+}

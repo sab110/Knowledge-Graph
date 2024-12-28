@@ -1,0 +1,131 @@
+{
+    size: 2394,
+    totalElements: 2394,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.5',
+            ],
+            indicator: [
+                '6.5.1',
+            ],
+            series: 'ER_H2O_IWRMD',
+            seriesDescription: 'Degree of integrated water resources management implementation (%)',
+            seriesCount: '416',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2017,
+            value: '12',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IWRM Data Portal, UNEP',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Level/Status': '_T',
+            },
+            key: [
+                '6.5.1',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.5',
+            ],
+            indicator: [
+                '6.5.1',
+            ],
+            series: 'ER_H2O_IWRMD_IP',
+            seriesDescription: 'Degree of integrated water resources management implementation, institutions and participation (%)',
+            seriesCount: '438',
+            geoAreaCode: '14',
+            geoAreaName: 'Eastern Africa',
+            timePeriodStart: 2017,
+            value: '49',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IWRM Data Portal, UNEP',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Level/Status': '_T',
+            },
+            key: [
+                '6.5.1',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.5',
+            ],
+            indicator: [
+                '6.5.1',
+            ],
+            series: 'ER_H2O_IWRMD_FI',
+            seriesDescription: 'Degree of integrated water resources management implementation, financing (%)',
+            seriesCount: '437',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '53',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IWRM Data Portal, UNEP',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Level/Status': '_T',
+            },
+            key: [
+                '6.5.1',
+            ],
+        },
+    ],
+}

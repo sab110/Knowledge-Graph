@@ -1,0 +1,122 @@
+{
+    size: 5880,
+    totalElements: 5880,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.7',
+            ],
+            indicator: [
+                '14.7.1',
+            ],
+            series: 'EN_SCP_FSHGDP',
+            seriesDescription: 'Sustainable fisheries as a proportion of GDP',
+            seriesCount: '5880',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Official country reported data (UNSD and OECD national accounts). FAO Yearbook of Fishery Statistics and Review of the State of World Marine Fishery Resources.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Obs_Value = NaN;  Not Available',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {},
+            key: [
+                '14.7.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.7',
+            ],
+            indicator: [
+                '14.7.1',
+            ],
+            series: 'EN_SCP_FSHGDP',
+            seriesDescription: 'Sustainable fisheries as a proportion of GDP',
+            seriesCount: '5880',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2019,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Official country reported data (UNSD and OECD national accounts). FAO Yearbook of Fishery Statistics and Review of the State of World Marine Fishery Resources.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Obs_Value = NaN;  Not Available',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {},
+            key: [
+                '14.7.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.7',
+            ],
+            indicator: [
+                '14.7.1',
+            ],
+            series: 'EN_SCP_FSHGDP',
+            seriesDescription: 'Sustainable fisheries as a proportion of GDP',
+            seriesCount: '5880',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Official country reported data (UNSD and OECD national accounts). FAO Yearbook of Fishery Statistics and Review of the State of World Marine Fishery Resources.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Obs_Value = NaN;  Not Available',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {},
+            key: [
+                '14.7.1',
+            ],
+        },
+    ],
+}

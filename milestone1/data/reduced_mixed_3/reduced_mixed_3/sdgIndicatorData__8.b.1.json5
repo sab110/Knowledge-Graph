@@ -1,0 +1,128 @@
+{
+    size: 290,
+    totalElements: 290,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.b',
+            ],
+            indicator: [
+                '8.b.1',
+            ],
+            series: 'SL_CPA_YEMP',
+            seriesDescription: 'Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy',
+            seriesCount: '290',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2019,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ILO estimates based on information collected directly from national governments.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Legend: 0 - The country has not developed any national strategy for youth employment or taken steps to develop or adopt one.; 1 - The country is in the process of developing a national strategy for youth employment.; 2 - The country has developed and adopted a national strategy for youth employment; 3 - The country has operationalized a national strategy for youth employment.\n\n',
+            ],
+            attributes: {
+                Nature: 'G',
+                'Observation Status': 'A',
+                Units: 'SCORE',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.b.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.b',
+            ],
+            indicator: [
+                '8.b.1',
+            ],
+            series: 'SL_CPA_YEMP',
+            seriesDescription: 'Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy',
+            seriesCount: '290',
+            geoAreaCode: '400',
+            geoAreaName: 'Jordan',
+            timePeriodStart: 2019,
+            value: '2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ILO estimates based on information collected directly from national governments.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Legend: 0 - The country has not developed any national strategy for youth employment or taken steps to develop or adopt one.; 1 - The country is in the process of developing a national strategy for youth employment.; 2 - The country has developed and adopted a national strategy for youth employment; 3 - The country has operationalized a national strategy for youth employment.\n\n',
+            ],
+            attributes: {
+                Nature: 'G',
+                'Observation Status': 'A',
+                Units: 'SCORE',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.b.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.b',
+            ],
+            indicator: [
+                '8.b.1',
+            ],
+            series: 'SL_CPA_YEMP',
+            seriesDescription: 'Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy',
+            seriesCount: '290',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ILO estimates based on information collected directly from national governments.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Legend: 0 - The country has not developed any national strategy for youth employment or taken steps to develop or adopt one.; 1 - The country is in the process of developing a national strategy for youth employment.; 2 - The country has developed and adopted a national strategy for youth employment; 3 - The country has operationalized a national strategy for youth employment.\n\n',
+            ],
+            attributes: {
+                Nature: 'G',
+                'Observation Status': 'A',
+                Units: 'SCORE',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.b.1',
+            ],
+        },
+    ],
+}

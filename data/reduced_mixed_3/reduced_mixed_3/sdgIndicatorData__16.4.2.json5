@@ -1,0 +1,125 @@
+{
+    size: 14,
+    totalElements: 14,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.4',
+            ],
+            indicator: [
+                '16.4.2',
+            ],
+            series: 'VC_ARM_SZTRACE',
+            seriesDescription: 'Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments',
+            seriesCount: '14',
+            geoAreaCode: '28',
+            geoAreaName: 'Antigua and Barbuda',
+            timePeriodStart: 2017,
+            value: '8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNODC - IAFQ',
+            geoInfoUrl: null,
+            footnotes: [
+                '2016-2017 average based on available data',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.4.2',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.4',
+            ],
+            indicator: [
+                '16.4.2',
+            ],
+            series: 'VC_ARM_SZTRACE',
+            seriesDescription: 'Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments',
+            seriesCount: '14',
+            geoAreaCode: '308',
+            geoAreaName: 'Grenada',
+            timePeriodStart: 2017,
+            value: '65',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNODC - IAFQ',
+            geoInfoUrl: null,
+            footnotes: [
+                '2016-2017 average based on available data',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.4.2',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.4',
+            ],
+            indicator: [
+                '16.4.2',
+            ],
+            series: 'VC_ARM_SZTRACE',
+            seriesDescription: 'Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments',
+            seriesCount: '14',
+            geoAreaCode: '826',
+            geoAreaName: 'United Kingdom of Great Britain and Northern Ireland',
+            timePeriodStart: 2017,
+            value: '15',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNODC - IAFQ',
+            geoInfoUrl: null,
+            footnotes: [
+                '2016-2017 average based on available data',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.4.2',
+            ],
+        },
+    ],
+}

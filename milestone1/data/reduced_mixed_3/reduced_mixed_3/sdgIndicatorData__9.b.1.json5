@@ -1,0 +1,131 @@
+{
+    size: 3960,
+    totalElements: 3960,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.b',
+            ],
+            indicator: [
+                '9.b.1',
+            ],
+            series: 'NV_IND_TECH',
+            seriesDescription: 'Proportion of medium and high-tech manufacturing value added in total value added (%)',
+            seriesCount: '3960',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '13.59',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNIDO CIP 2021 Database. Available at https://stat.unido.org',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_C',
+            },
+            key: [
+                '9.b.1',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.b',
+            ],
+            indicator: [
+                '9.b.1',
+            ],
+            series: 'NV_IND_TECH',
+            seriesDescription: 'Proportion of medium and high-tech manufacturing value added in total value added (%)',
+            seriesCount: '3960',
+            geoAreaCode: '428',
+            geoAreaName: 'Latvia',
+            timePeriodStart: 2019,
+            value: '21.91',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNIDO CIP 2021 Database. Available at https://stat.unido.org',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_C',
+            },
+            key: [
+                '9.b.1',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.b',
+            ],
+            indicator: [
+                '9.b.1',
+            ],
+            series: 'NV_IND_TECH',
+            seriesDescription: 'Proportion of medium and high-tech manufacturing value added in total value added (%)',
+            seriesCount: '3960',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '21.39',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNIDO CIP 2021 Database. Available at https://stat.unido.org',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_C',
+            },
+            key: [
+                '9.b.1',
+            ],
+        },
+    ],
+}

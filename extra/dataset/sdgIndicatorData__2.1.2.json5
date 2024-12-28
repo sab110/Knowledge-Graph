@@ -1,0 +1,134 @@
+{
+    size: 18324,
+    totalElements: 18324,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.1',
+            ],
+            indicator: [
+                '2.1.2',
+            ],
+            series: 'AG_PRD_FIESMS',
+            seriesDescription: 'Prevalence of moderate or severe food insecurity in the adult population (%)',
+            seriesCount: '4581',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2015,
+            value: '42.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '49',
+            lowerBound: '36.4',
+            basePeriod: null,
+            source: 'Food and Agriculture Organization of the United Nations (FAO)',
+            geoInfoUrl: null,
+            footnotes: [
+                'The observation value represents the 3-year average of the period 2014-2016',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.1.2',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.1',
+            ],
+            indicator: [
+                '2.1.2',
+            ],
+            series: 'AG_PRD_FIESMSN',
+            seriesDescription: 'Total population in moderate or severe food insecurity (thousands of people)',
+            seriesCount: '4581',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '257.2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '276.6',
+            lowerBound: '237.8',
+            basePeriod: null,
+            source: 'Food and Agriculture Organization of the United Nations (FAO)',
+            geoInfoUrl: null,
+            footnotes: [
+                'The observation value represents the 3-year average of the period 2018-2020',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUM_TH',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.1.2',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.1',
+            ],
+            indicator: [
+                '2.1.2',
+            ],
+            series: 'AG_PRD_FIESSN',
+            seriesDescription: 'Total population in severe food insecurity (thousands of people)',
+            seriesCount: '4581',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '113.5',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '130.7',
+            lowerBound: '96.4',
+            basePeriod: null,
+            source: 'Food and Agriculture Organization of the United Nations (FAO)',
+            geoInfoUrl: null,
+            footnotes: [
+                'The observation value represents the 3-year average of the period 2018-2020',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUM_TH',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.1.2',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,134 @@
+{
+    size: 6831,
+    totalElements: 6831,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.6',
+            ],
+            indicator: [
+                '8.6.1',
+            ],
+            series: 'SL_TLF_NEET',
+            seriesDescription: 'Proportion of youth not in education, employment or training, by sex and age (%)',
+            seriesCount: '6831',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2017,
+            value: '65.89',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: HIES - Living Conditions Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: ILO-STATISTICS - Micro data processing',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15-24',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.6.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.6',
+            ],
+            indicator: [
+                '8.6.1',
+            ],
+            series: 'SL_TLF_NEET',
+            seriesDescription: 'Proportion of youth not in education, employment or training, by sex and age (%)',
+            seriesCount: '6831',
+            geoAreaCode: '199',
+            geoAreaName: 'Least Developed Countries (LDCs)',
+            timePeriodStart: 2012,
+            value: '29.55',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: ILO modelled estimates, November 2021, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15-24',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.6.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.6',
+            ],
+            indicator: [
+                '8.6.1',
+            ],
+            series: 'SL_TLF_NEET',
+            seriesDescription: 'Proportion of youth not in education, employment or training, by sex and age (%)',
+            seriesCount: '6831',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '36.57',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: LFS - Labour Force Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15-24',
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.6.1',
+            ],
+        },
+    ],
+}

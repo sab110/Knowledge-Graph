@@ -1,0 +1,125 @@
+{
+    size: 792,
+    totalElements: 792,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.a',
+            ],
+            indicator: [
+                '5.a.2',
+            ],
+            series: 'SG_LGL_LNDFEMOD',
+            seriesDescription: 'Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees)',
+            seriesCount: '792',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2019,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'NA',
+            geoInfoUrl: null,
+            footnotes: [
+                'NaN = A figure was not provided',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'SCORE',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.a.2',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.a',
+            ],
+            indicator: [
+                '5.a.2',
+            ],
+            series: 'SG_LGL_LNDFEMOD',
+            seriesDescription: 'Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees)',
+            seriesCount: '792',
+            geoAreaCode: '426',
+            geoAreaName: 'Lesotho',
+            timePeriodStart: 2021,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'NA',
+            geoInfoUrl: null,
+            footnotes: [
+                'NaN = A figure was not provided',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'SCORE',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.a.2',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.a',
+            ],
+            indicator: [
+                '5.a.2',
+            ],
+            series: 'SG_LGL_LNDFEMOD',
+            seriesDescription: 'Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees)',
+            seriesCount: '792',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2021,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'NA',
+            geoInfoUrl: null,
+            footnotes: [
+                'NaN = A figure was not provided',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'SCORE',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.a.2',
+            ],
+        },
+    ],
+}

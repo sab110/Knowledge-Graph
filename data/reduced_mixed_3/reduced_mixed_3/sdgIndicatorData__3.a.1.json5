@@ -1,0 +1,131 @@
+{
+    size: 3633,
+    totalElements: 3633,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.a',
+            ],
+            indicator: [
+                '3.a.1',
+            ],
+            series: 'SH_PRV_SMOK',
+            seriesDescription: 'Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%)',
+            seriesCount: '3633',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '36.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Health Organization (WHO) Department of the Prevention of Noncommunicable Diseases;  Secretariat of the WHO Framework Convention on Tobacco Control',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.a.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.a',
+            ],
+            indicator: [
+                '3.a.1',
+            ],
+            series: 'SH_PRV_SMOK',
+            seriesDescription: 'Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%)',
+            seriesCount: '3633',
+            geoAreaCode: '418',
+            geoAreaName: "Lao People's Democratic Republic",
+            timePeriodStart: 2015,
+            value: '13.3',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Health Organization (WHO) Department of the Prevention of Noncommunicable Diseases;  Secretariat of the WHO Framework Convention on Tobacco Control',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.a.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.a',
+            ],
+            indicator: [
+                '3.a.1',
+            ],
+            series: 'SH_PRV_SMOK',
+            seriesDescription: 'Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%)',
+            seriesCount: '3633',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '21.8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Health Organization (WHO) Department of the Prevention of Noncommunicable Diseases;  Secretariat of the WHO Framework Convention on Tobacco Control',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.a.1',
+            ],
+        },
+    ],
+}

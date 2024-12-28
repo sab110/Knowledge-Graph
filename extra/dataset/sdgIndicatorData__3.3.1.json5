@@ -1,0 +1,131 @@
+{
+    size: 40080,
+    totalElements: 40080,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.1',
+            ],
+            series: 'SH_HIV_INCD',
+            seriesDescription: 'Number of new HIV infections per 1,000 uninfected population, by sex and age (per 1,000 uninfected population)',
+            seriesCount: '40080',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '0.00',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNAIDS',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_1000_UNINFECTED_POP',
+            },
+            dimensions: {
+                Age: '<15Y',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.3.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.1',
+            ],
+            series: 'SH_HIV_INCD',
+            seriesDescription: 'Number of new HIV infections per 1,000 uninfected population, by sex and age (per 1,000 uninfected population)',
+            seriesCount: '40080',
+            geoAreaCode: '426',
+            geoAreaName: 'Lesotho',
+            timePeriodStart: 2010,
+            value: '6.45',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNAIDS',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_1000_UNINFECTED_POP',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+                Age: '50+',
+            },
+            key: [
+                '3.3.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.1',
+            ],
+            series: 'SH_HIV_INCD',
+            seriesDescription: 'Number of new HIV infections per 1,000 uninfected population, by sex and age (per 1,000 uninfected population)',
+            seriesCount: '40080',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '1.97',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNAIDS',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_1000_UNINFECTED_POP',
+            },
+            dimensions: {
+                Age: '15-49',
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.3.1',
+            ],
+        },
+    ],
+}

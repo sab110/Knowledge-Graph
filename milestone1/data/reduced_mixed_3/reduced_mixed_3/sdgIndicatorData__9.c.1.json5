@@ -1,0 +1,125 @@
+{
+    size: 7651,
+    totalElements: 7651,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.c',
+            ],
+            indicator: [
+                '9.c.1',
+            ],
+            series: 'IT_MOB_2GNTWK',
+            seriesDescription: 'Proportion of population covered by at least a 2G mobile network (%)',
+            seriesCount: '3699',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2007,
+            value: '72',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Ministry of Communications & Information Technology',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '9.c.1',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.c',
+            ],
+            indicator: [
+                '9.c.1',
+            ],
+            series: 'IT_MOB_3GNTWK',
+            seriesDescription: 'Proportion of population covered by at least a 3G mobile network (%)',
+            seriesCount: '2278',
+            geoAreaCode: '40',
+            geoAreaName: 'Austria',
+            timePeriodStart: 2012,
+            value: '96',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Rundfunk und Telekom Regulierungs-GmbH',
+            geoInfoUrl: null,
+            footnotes: [
+                '3G coverage',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '9.c.1',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.c',
+            ],
+            indicator: [
+                '9.c.1',
+            ],
+            series: 'IT_MOB_4GNTWK',
+            seriesDescription: 'Proportion of population covered by at least a 4G mobile network (%)',
+            seriesCount: '1674',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '35',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'POTRAZ',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '9.c.1',
+            ],
+        },
+    ],
+}

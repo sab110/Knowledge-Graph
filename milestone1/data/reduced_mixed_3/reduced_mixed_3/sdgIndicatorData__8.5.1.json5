@@ -1,0 +1,134 @@
+{
+    size: 19530,
+    totalElements: 19530,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.5',
+            ],
+            indicator: [
+                '8.5.1',
+            ],
+            series: 'SL_EMP_EARN',
+            seriesDescription: 'Average hourly earnings of employees by sex and occupation (local currency)',
+            seriesCount: '19530',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2014,
+            value: '67.62',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: HIES - Living Conditions Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: ILO-STATISTICS - Micro data processing | Local currency: AFG - Afghani(AFN)',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CUR_LCU',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Type of occupation': 'isco08-0',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.5.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.5',
+            ],
+            indicator: [
+                '8.5.1',
+            ],
+            series: 'SL_EMP_EARN',
+            seriesDescription: 'Average hourly earnings of employees by sex and occupation (local currency)',
+            seriesCount: '19530',
+            geoAreaCode: '480',
+            geoAreaName: 'Mauritius',
+            timePeriodStart: 2004,
+            value: '38.01',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: LFS - Continuous Multi-Purpose Household Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old | Local currency: MUS - Mauritian rupee(MUR)',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CUR_LCU',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Type of occupation': 'isco88-9',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.5.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.5',
+            ],
+            indicator: [
+                '8.5.1',
+            ],
+            series: 'SL_EMP_EARN',
+            seriesDescription: 'Average hourly earnings of employees by sex and occupation (local currency)',
+            seriesCount: '19530',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2014,
+            value: '2.29',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: LFS - Labour Force Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: ILO-STATISTICS - Micro data processing | Local currency: ZWE - Zimbabwean dollar(ZWL)',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CUR_LCU',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+                'Type of occupation': '_T',
+            },
+            key: [
+                '8.5.1',
+            ],
+        },
+    ],
+}

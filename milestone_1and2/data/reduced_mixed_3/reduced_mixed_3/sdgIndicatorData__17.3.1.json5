@@ -1,0 +1,125 @@
+{
+    size: 7424,
+    totalElements: 7424,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.3',
+            ],
+            indicator: [
+                '17.3.1',
+            ],
+            series: 'GF_FRN_FDI',
+            seriesDescription: 'Foreign direct investment (FDI) inflows (millions of US dollars)',
+            seriesCount: '7424',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 1990,
+            value: '1.00E-05',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNCTAD, FDI/MNE database (www.unctad.org/fdistatistics).',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CU_USD_M',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.3.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.3',
+            ],
+            indicator: [
+                '17.3.1',
+            ],
+            series: 'GF_FRN_FDI',
+            seriesDescription: 'Foreign direct investment (FDI) inflows (millions of US dollars)',
+            seriesCount: '7424',
+            geoAreaCode: '426',
+            geoAreaName: 'Lesotho',
+            timePeriodStart: 1991,
+            value: '7.24291',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNCTAD, FDI/MNE database (www.unctad.org/fdistatistics).',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CU_USD_M',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.3.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.3',
+            ],
+            indicator: [
+                '17.3.1',
+            ],
+            series: 'GF_FRN_FDI',
+            seriesDescription: 'Foreign direct investment (FDI) inflows (millions of US dollars)',
+            seriesCount: '7424',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '194.36',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNCTAD, FDI/MNE database (www.unctad.org/fdistatistics).',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CU_USD_M',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.3.1',
+            ],
+        },
+    ],
+}

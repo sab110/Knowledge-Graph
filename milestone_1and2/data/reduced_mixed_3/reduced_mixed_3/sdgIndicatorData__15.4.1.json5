@@ -1,0 +1,128 @@
+{
+    size: 5654,
+    totalElements: 5654,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.4',
+            ],
+            indicator: [
+                '15.4.1',
+            ],
+            series: 'ER_PTD_MTN',
+            seriesDescription: 'Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%)',
+            seriesCount: '5654',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '0.00000',
+            lowerBound: '0.00000',
+            basePeriod: null,
+            source: 'BirdLife International, IUCN and UNEP-WCMC (2021). Based on spatial overlap between polygons for Key Biodiversity Areas from the World Database of Key Biodiveristy Areas (www.keybiodiversityareas.org) and polygons for protected areas from the World Database on Protected Areas and (where available) for Other Effective area-based Conservation Measures and from the World Database on OECMs (www.protectedplanet.net)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.4.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.4',
+            ],
+            indicator: [
+                '15.4.1',
+            ],
+            series: 'ER_PTD_MTN',
+            seriesDescription: 'Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%)',
+            seriesCount: '5654',
+            geoAreaCode: '426',
+            geoAreaName: 'Lesotho',
+            timePeriodStart: 2010,
+            value: '16.48896',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '16.48896',
+            lowerBound: '16.48896',
+            basePeriod: null,
+            source: 'BirdLife International, IUCN and UNEP-WCMC (2021). Based on spatial overlap between polygons for Key Biodiversity Areas from the World Database of Key Biodiveristy Areas (www.keybiodiversityareas.org) and polygons for protected areas from the World Database on Protected Areas and (where available) for Other Effective area-based Conservation Measures and from the World Database on OECMs (www.protectedplanet.net)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.4.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.4',
+            ],
+            indicator: [
+                '15.4.1',
+            ],
+            series: 'ER_PTD_MTN',
+            seriesDescription: 'Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%)',
+            seriesCount: '5654',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2021,
+            value: '81.74512',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '81.74512',
+            lowerBound: '81.74512',
+            basePeriod: null,
+            source: 'BirdLife International, IUCN and UNEP-WCMC (2021). Based on spatial overlap between polygons for Key Biodiversity Areas from the World Database of Key Biodiveristy Areas (www.keybiodiversityareas.org) and polygons for protected areas from the World Database on Protected Areas and (where available) for Other Effective area-based Conservation Measures and from the World Database on OECMs (www.protectedplanet.net)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.4.1',
+            ],
+        },
+    ],
+}

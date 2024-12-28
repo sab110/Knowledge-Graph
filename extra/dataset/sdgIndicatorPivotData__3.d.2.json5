@@ -1,0 +1,965 @@
+{
+    size: 202,
+    totalElements: 202,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: '3',
+            target: '3.d',
+            indicator: '3.d.2',
+            series: 'SH_BLD_ECOLI',
+            seriesDescription: 'Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested (%)',
+            seriesCount: '253',
+            geoAreaCode: '2',
+            geoAreaName: 'Africa',
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: null,
+            geoInfoUrl: null,
+            age: null,
+            freq: null,
+            sex: null,
+            location: null,
+            units: 'PERCENT',
+            level_status: null,
+            name_of_international_agreement: null,
+            education_level: null,
+            type_of_product: null,
+            type_of_facilities: null,
+            name_of_international_institution: null,
+            type_of_occupation: null,
+            tariff_regime_status: null,
+            mode_of_transportation: null,
+            type_of_mobile_technology: null,
+            name_of_non_communicable_disease: null,
+            type_of_skill: null,
+            type_of_speed: null,
+            migratory_status: null,
+            disability_status: null,
+            hazard_type: null,
+            ihr_capacity: null,
+            reporting_type: null,
+            cities: null,
+            activity: null,
+            policy_domains: null,
+            years: [
+                {
+                    year: '[1962]',
+                    value: '',
+                },
+                {
+                    year: '[1963]',
+                    value: '',
+                },
+                {
+                    year: '[1968]',
+                    value: '',
+                },
+                {
+                    year: '[1974]',
+                    value: '',
+                },
+                {
+                    year: '[1980]',
+                    value: '',
+                },
+                {
+                    year: '[1985]',
+                    value: '',
+                },
+                {
+                    year: '[1986]',
+                    value: '',
+                },
+                {
+                    year: '[1991]',
+                    value: '',
+                },
+                {
+                    year: '[1992]',
+                    value: '',
+                },
+                {
+                    year: '[1997]',
+                    value: '',
+                },
+                {
+                    year: '[2003]',
+                    value: '',
+                },
+                {
+                    year: '[2008]',
+                    value: '',
+                },
+                {
+                    year: '[2009]',
+                    value: '',
+                },
+                {
+                    year: '[2014]',
+                    value: '',
+                },
+                {
+                    year: '[2015]',
+                    value: '',
+                },
+                {
+                    year: '[2020]',
+                    value: '',
+                },
+                {
+                    year: '[1959]',
+                    value: '',
+                },
+                {
+                    year: '[1960]',
+                    value: '',
+                },
+                {
+                    year: '[1965]',
+                    value: '',
+                },
+                {
+                    year: '[1971]',
+                    value: '',
+                },
+                {
+                    year: '[1977]',
+                    value: '',
+                },
+                {
+                    year: '[1982]',
+                    value: '',
+                },
+                {
+                    year: '[1983]',
+                    value: '',
+                },
+                {
+                    year: '[1988]',
+                    value: '',
+                },
+                {
+                    year: '[1989]',
+                    value: '',
+                },
+                {
+                    year: '[1994]',
+                    value: '',
+                },
+                {
+                    year: '[2000]',
+                    value: '',
+                },
+                {
+                    year: '[2006]',
+                    value: '',
+                },
+                {
+                    year: '[2011]',
+                    value: '',
+                },
+                {
+                    year: '[2012]',
+                    value: '',
+                },
+                {
+                    year: '[2017]',
+                    value: '',
+                },
+                {
+                    year: '[2018]',
+                    value: '',
+                },
+                {
+                    year: '[1964]',
+                    value: '',
+                },
+                {
+                    year: '[1969]',
+                    value: '',
+                },
+                {
+                    year: '[1970]',
+                    value: '',
+                },
+                {
+                    year: '[1975]',
+                    value: '',
+                },
+                {
+                    year: '[1976]',
+                    value: '',
+                },
+                {
+                    year: '[1981]',
+                    value: '',
+                },
+                {
+                    year: '[1987]',
+                    value: '',
+                },
+                {
+                    year: '[1993]',
+                    value: '',
+                },
+                {
+                    year: '[1998]',
+                    value: '',
+                },
+                {
+                    year: '[1999]',
+                    value: '',
+                },
+                {
+                    year: '[2004]',
+                    value: '',
+                },
+                {
+                    year: '[2005]',
+                    value: '',
+                },
+                {
+                    year: '[2010]',
+                    value: '',
+                },
+                {
+                    year: '[2016]',
+                    value: '',
+                },
+                {
+                    year: '[2021]',
+                    value: '',
+                },
+                {
+                    year: '[2022]',
+                    value: '',
+                },
+                {
+                    year: '[1961]',
+                    value: '',
+                },
+                {
+                    year: '[1966]',
+                    value: '',
+                },
+                {
+                    year: '[1967]',
+                    value: '',
+                },
+                {
+                    year: '[1972]',
+                    value: '',
+                },
+                {
+                    year: '[1973]',
+                    value: '',
+                },
+                {
+                    year: '[1978]',
+                    value: '',
+                },
+                {
+                    year: '[1979]',
+                    value: '',
+                },
+                {
+                    year: '[1984]',
+                    value: '',
+                },
+                {
+                    year: '[1990]',
+                    value: '',
+                },
+                {
+                    year: '[1995]',
+                    value: '',
+                },
+                {
+                    year: '[1996]',
+                    value: '',
+                },
+                {
+                    year: '[2001]',
+                    value: '',
+                },
+                {
+                    year: '[2002]',
+                    value: '',
+                },
+                {
+                    year: '[2007]',
+                    value: '',
+                },
+                {
+                    year: '[2013]',
+                    value: '',
+                },
+                {
+                    year: '[2019]',
+                    value: '40.14',
+                    valueType: 'Float',
+                    footnotes: 'Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested.',
+                    Nature: 'CA',
+                    'Source Type': '',
+                    UnitMultiplier: '',
+                    Units: 'PERCENT',
+                    'Management Level': '',
+                    'Observation Status': '',
+                    'Geo Info Type': '',
+                },
+            ],
+            key: '3.d.2',
+        },
+        {
+            goal: '3',
+            target: '3.d',
+            indicator: '3.d.2',
+            series: 'SH_BLD_ECOLI',
+            seriesDescription: 'Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested (%)',
+            seriesCount: '253',
+            geoAreaCode: '155',
+            geoAreaName: 'Western Europe',
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: null,
+            geoInfoUrl: null,
+            age: null,
+            freq: null,
+            sex: null,
+            location: null,
+            units: 'PERCENT',
+            level_status: null,
+            name_of_international_agreement: null,
+            education_level: null,
+            type_of_product: null,
+            type_of_facilities: null,
+            name_of_international_institution: null,
+            type_of_occupation: null,
+            tariff_regime_status: null,
+            mode_of_transportation: null,
+            type_of_mobile_technology: null,
+            name_of_non_communicable_disease: null,
+            type_of_skill: null,
+            type_of_speed: null,
+            migratory_status: null,
+            disability_status: null,
+            hazard_type: null,
+            ihr_capacity: null,
+            reporting_type: null,
+            cities: null,
+            activity: null,
+            policy_domains: null,
+            years: [
+                {
+                    year: '[1962]',
+                    value: '',
+                },
+                {
+                    year: '[1963]',
+                    value: '',
+                },
+                {
+                    year: '[1968]',
+                    value: '',
+                },
+                {
+                    year: '[1974]',
+                    value: '',
+                },
+                {
+                    year: '[1980]',
+                    value: '',
+                },
+                {
+                    year: '[1985]',
+                    value: '',
+                },
+                {
+                    year: '[1986]',
+                    value: '',
+                },
+                {
+                    year: '[1991]',
+                    value: '',
+                },
+                {
+                    year: '[1992]',
+                    value: '',
+                },
+                {
+                    year: '[1997]',
+                    value: '',
+                },
+                {
+                    year: '[2003]',
+                    value: '',
+                },
+                {
+                    year: '[2008]',
+                    value: '',
+                },
+                {
+                    year: '[2009]',
+                    value: '',
+                },
+                {
+                    year: '[2014]',
+                    value: '',
+                },
+                {
+                    year: '[2015]',
+                    value: '',
+                },
+                {
+                    year: '[2020]',
+                    value: '',
+                },
+                {
+                    year: '[1959]',
+                    value: '',
+                },
+                {
+                    year: '[1960]',
+                    value: '',
+                },
+                {
+                    year: '[1965]',
+                    value: '',
+                },
+                {
+                    year: '[1971]',
+                    value: '',
+                },
+                {
+                    year: '[1977]',
+                    value: '',
+                },
+                {
+                    year: '[1982]',
+                    value: '',
+                },
+                {
+                    year: '[1983]',
+                    value: '',
+                },
+                {
+                    year: '[1988]',
+                    value: '',
+                },
+                {
+                    year: '[1989]',
+                    value: '',
+                },
+                {
+                    year: '[1994]',
+                    value: '',
+                },
+                {
+                    year: '[2000]',
+                    value: '',
+                },
+                {
+                    year: '[2006]',
+                    value: '',
+                },
+                {
+                    year: '[2011]',
+                    value: '',
+                },
+                {
+                    year: '[2012]',
+                    value: '',
+                },
+                {
+                    year: '[2017]',
+                    value: '',
+                },
+                {
+                    year: '[2018]',
+                    value: '',
+                },
+                {
+                    year: '[1964]',
+                    value: '',
+                },
+                {
+                    year: '[1969]',
+                    value: '',
+                },
+                {
+                    year: '[1970]',
+                    value: '',
+                },
+                {
+                    year: '[1975]',
+                    value: '',
+                },
+                {
+                    year: '[1976]',
+                    value: '',
+                },
+                {
+                    year: '[1981]',
+                    value: '',
+                },
+                {
+                    year: '[1987]',
+                    value: '',
+                },
+                {
+                    year: '[1993]',
+                    value: '',
+                },
+                {
+                    year: '[1998]',
+                    value: '',
+                },
+                {
+                    year: '[1999]',
+                    value: '',
+                },
+                {
+                    year: '[2004]',
+                    value: '',
+                },
+                {
+                    year: '[2005]',
+                    value: '',
+                },
+                {
+                    year: '[2010]',
+                    value: '',
+                },
+                {
+                    year: '[2016]',
+                    value: '',
+                },
+                {
+                    year: '[2021]',
+                    value: '',
+                },
+                {
+                    year: '[2022]',
+                    value: '',
+                },
+                {
+                    year: '[1961]',
+                    value: '',
+                },
+                {
+                    year: '[1966]',
+                    value: '',
+                },
+                {
+                    year: '[1967]',
+                    value: '',
+                },
+                {
+                    year: '[1972]',
+                    value: '',
+                },
+                {
+                    year: '[1973]',
+                    value: '',
+                },
+                {
+                    year: '[1978]',
+                    value: '',
+                },
+                {
+                    year: '[1979]',
+                    value: '',
+                },
+                {
+                    year: '[1984]',
+                    value: '',
+                },
+                {
+                    year: '[1990]',
+                    value: '',
+                },
+                {
+                    year: '[1995]',
+                    value: '',
+                },
+                {
+                    year: '[1996]',
+                    value: '',
+                },
+                {
+                    year: '[2001]',
+                    value: '',
+                },
+                {
+                    year: '[2002]',
+                    value: '',
+                },
+                {
+                    year: '[2007]',
+                    value: '',
+                },
+                {
+                    year: '[2013]',
+                    value: '',
+                },
+                {
+                    year: '[2019]',
+                    value: '9.67',
+                    valueType: 'Float',
+                    footnotes: 'Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested.',
+                    Nature: 'CA',
+                    'Source Type': '',
+                    UnitMultiplier: '',
+                    Units: 'PERCENT',
+                    'Management Level': '',
+                    'Observation Status': '',
+                    'Geo Info Type': '',
+                },
+            ],
+            key: '3.d.2',
+        },
+        {
+            goal: '3',
+            target: '3.d',
+            indicator: '3.d.2',
+            series: 'SH_BLD_MRSA',
+            seriesDescription: 'Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested (%)',
+            seriesCount: '237',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: null,
+            geoInfoUrl: null,
+            age: null,
+            freq: null,
+            sex: null,
+            location: null,
+            units: 'PERCENT',
+            level_status: null,
+            name_of_international_agreement: null,
+            education_level: null,
+            type_of_product: null,
+            type_of_facilities: null,
+            name_of_international_institution: null,
+            type_of_occupation: null,
+            tariff_regime_status: null,
+            mode_of_transportation: null,
+            type_of_mobile_technology: null,
+            name_of_non_communicable_disease: null,
+            type_of_skill: null,
+            type_of_speed: null,
+            migratory_status: null,
+            disability_status: null,
+            hazard_type: null,
+            ihr_capacity: null,
+            reporting_type: null,
+            cities: null,
+            activity: null,
+            policy_domains: null,
+            years: [
+                {
+                    year: '[1962]',
+                    value: '',
+                },
+                {
+                    year: '[1963]',
+                    value: '',
+                },
+                {
+                    year: '[1968]',
+                    value: '',
+                },
+                {
+                    year: '[1974]',
+                    value: '',
+                },
+                {
+                    year: '[1980]',
+                    value: '',
+                },
+                {
+                    year: '[1985]',
+                    value: '',
+                },
+                {
+                    year: '[1986]',
+                    value: '',
+                },
+                {
+                    year: '[1991]',
+                    value: '',
+                },
+                {
+                    year: '[1992]',
+                    value: '',
+                },
+                {
+                    year: '[1997]',
+                    value: '',
+                },
+                {
+                    year: '[2003]',
+                    value: '',
+                },
+                {
+                    year: '[2008]',
+                    value: '',
+                },
+                {
+                    year: '[2009]',
+                    value: '',
+                },
+                {
+                    year: '[2014]',
+                    value: '',
+                },
+                {
+                    year: '[2015]',
+                    value: '',
+                },
+                {
+                    year: '[2020]',
+                    value: '',
+                },
+                {
+                    year: '[1959]',
+                    value: '',
+                },
+                {
+                    year: '[1960]',
+                    value: '',
+                },
+                {
+                    year: '[1965]',
+                    value: '',
+                },
+                {
+                    year: '[1971]',
+                    value: '',
+                },
+                {
+                    year: '[1977]',
+                    value: '',
+                },
+                {
+                    year: '[1982]',
+                    value: '',
+                },
+                {
+                    year: '[1983]',
+                    value: '',
+                },
+                {
+                    year: '[1988]',
+                    value: '',
+                },
+                {
+                    year: '[1989]',
+                    value: '',
+                },
+                {
+                    year: '[1994]',
+                    value: '',
+                },
+                {
+                    year: '[2000]',
+                    value: '',
+                },
+                {
+                    year: '[2006]',
+                    value: '',
+                },
+                {
+                    year: '[2011]',
+                    value: '',
+                },
+                {
+                    year: '[2012]',
+                    value: '',
+                },
+                {
+                    year: '[2017]',
+                    value: '19.7',
+                    valueType: 'Float',
+                    footnotes: 'Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested.',
+                    Nature: 'CA',
+                    'Source Type': '',
+                    UnitMultiplier: '',
+                    Units: 'PERCENT',
+                    'Management Level': '',
+                    'Observation Status': '',
+                    'Geo Info Type': '',
+                },
+                {
+                    year: '[2018]',
+                    value: '23.7',
+                    valueType: 'Float',
+                    footnotes: 'Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested.',
+                    Nature: 'CA',
+                    'Source Type': '',
+                    UnitMultiplier: '',
+                    Units: 'PERCENT',
+                    'Management Level': '',
+                    'Observation Status': '',
+                    'Geo Info Type': '',
+                },
+                {
+                    year: '[1964]',
+                    value: '',
+                },
+                {
+                    year: '[1969]',
+                    value: '',
+                },
+                {
+                    year: '[1970]',
+                    value: '',
+                },
+                {
+                    year: '[1975]',
+                    value: '',
+                },
+                {
+                    year: '[1976]',
+                    value: '',
+                },
+                {
+                    year: '[1981]',
+                    value: '',
+                },
+                {
+                    year: '[1987]',
+                    value: '',
+                },
+                {
+                    year: '[1993]',
+                    value: '',
+                },
+                {
+                    year: '[1998]',
+                    value: '',
+                },
+                {
+                    year: '[1999]',
+                    value: '',
+                },
+                {
+                    year: '[2004]',
+                    value: '',
+                },
+                {
+                    year: '[2005]',
+                    value: '',
+                },
+                {
+                    year: '[2010]',
+                    value: '',
+                },
+                {
+                    year: '[2016]',
+                    value: '20.6',
+                    valueType: 'Float',
+                    footnotes: 'Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested.',
+                    Nature: 'CA',
+                    'Source Type': '',
+                    UnitMultiplier: '',
+                    Units: 'PERCENT',
+                    'Management Level': '',
+                    'Observation Status': '',
+                    'Geo Info Type': '',
+                },
+                {
+                    year: '[2021]',
+                    value: '',
+                },
+                {
+                    year: '[2022]',
+                    value: '',
+                },
+                {
+                    year: '[1961]',
+                    value: '',
+                },
+                {
+                    year: '[1966]',
+                    value: '',
+                },
+                {
+                    year: '[1967]',
+                    value: '',
+                },
+                {
+                    year: '[1972]',
+                    value: '',
+                },
+                {
+                    year: '[1973]',
+                    value: '',
+                },
+                {
+                    year: '[1978]',
+                    value: '',
+                },
+                {
+                    year: '[1979]',
+                    value: '',
+                },
+                {
+                    year: '[1984]',
+                    value: '',
+                },
+                {
+                    year: '[1990]',
+                    value: '',
+                },
+                {
+                    year: '[1995]',
+                    value: '',
+                },
+                {
+                    year: '[1996]',
+                    value: '',
+                },
+                {
+                    year: '[2001]',
+                    value: '',
+                },
+                {
+                    year: '[2002]',
+                    value: '',
+                },
+                {
+                    year: '[2007]',
+                    value: '',
+                },
+                {
+                    year: '[2013]',
+                    value: '',
+                },
+                {
+                    year: '[2019]',
+                    value: '24.9',
+                    valueType: 'Float',
+                    footnotes: 'Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested.',
+                    Nature: 'CA',
+                    'Source Type': '',
+                    UnitMultiplier: '',
+                    Units: 'PERCENT',
+                    'Management Level': '',
+                    'Observation Status': '',
+                    'Geo Info Type': '',
+                },
+            ],
+            key: '3.d.2',
+        },
+    ],
+}

@@ -1,0 +1,131 @@
+{
+    size: 6079,
+    totalElements: 6079,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.7',
+            ],
+            indicator: [
+                '3.7.2',
+            ],
+            series: 'SP_DYN_ADKL',
+            seriesDescription: 'Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)',
+            seriesCount: '6079',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2001,
+            value: '167.2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Afghanistan 2007-2008 National Risk and Vulnerability Assessment',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PER_1000_POP',
+            },
+            dimensions: {
+                Age: '15-19',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.7.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.7',
+            ],
+            indicator: [
+                '3.7.2',
+            ],
+            series: 'SP_DYN_ADKL',
+            seriesDescription: 'Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)',
+            seriesCount: '6079',
+            geoAreaCode: '428',
+            geoAreaName: 'Latvia',
+            timePeriodStart: 2004,
+            value: '16.3',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Registration National Statistics',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_1000_POP',
+            },
+            dimensions: {
+                Age: '15-19',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.7.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.7',
+            ],
+            indicator: [
+                '3.7.2',
+            ],
+            series: 'SP_DYN_ADKL',
+            seriesDescription: 'Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)',
+            seriesCount: '6079',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2017,
+            value: '107.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Zimbabwe 2019 Multiple Indicator Cluster Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_1000_POP',
+            },
+            dimensions: {
+                Age: '15-19',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.7.2',
+            ],
+        },
+    ],
+}

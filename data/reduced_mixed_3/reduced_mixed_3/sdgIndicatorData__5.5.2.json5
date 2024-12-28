@@ -1,0 +1,131 @@
+{
+    size: 4272,
+    totalElements: 4272,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.5',
+            ],
+            indicator: [
+                '5.5.2',
+            ],
+            series: 'IC_GEN_MGTL',
+            seriesDescription: 'Proportion of women in managerial positions (%)',
+            seriesCount: '2984',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2014,
+            value: '6.37',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'HIES - Living Conditions Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: ILO-STATISTICS - Micro data processing',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.5.2',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.5',
+            ],
+            indicator: [
+                '5.5.2',
+            ],
+            series: 'IC_GEN_MGTL',
+            seriesDescription: 'Proportion of women in managerial positions (%)',
+            seriesCount: '2984',
+            geoAreaCode: '634',
+            geoAreaName: 'Qatar',
+            timePeriodStart: 2019,
+            value: '13.95',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'LFS - Labor Force Sample Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Employment definition: Excluding own-use production workers | Data reference period: September',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.5.2',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.5',
+            ],
+            indicator: [
+                '5.5.2',
+            ],
+            series: 'IC_GEN_MGTN',
+            seriesDescription: 'Proportion of women in senior and middle management positions (%)',
+            seriesCount: '1288',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '28.1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'LFS - Labour Force Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.5.2',
+            ],
+        },
+    ],
+}

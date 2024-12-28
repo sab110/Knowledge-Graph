@@ -1,0 +1,125 @@
+{
+    size: 5195,
+    totalElements: 5195,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.4',
+            ],
+            indicator: [
+                '17.4.1',
+            ],
+            series: 'DT_TDS_DECT',
+            seriesDescription: 'Debt service as a proportion of exports of goods and services (%)',
+            seriesCount: '5195',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2008,
+            value: '0.40282',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank, International Debt Statistics.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.4.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.4',
+            ],
+            indicator: [
+                '17.4.1',
+            ],
+            series: 'DT_TDS_DECT',
+            seriesDescription: 'Debt service as a proportion of exports of goods and services (%)',
+            seriesCount: '5195',
+            geoAreaCode: '199',
+            geoAreaName: 'Least Developed Countries (LDCs)',
+            timePeriodStart: 1992,
+            value: '12.24384',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank, International Debt Statistics.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.4.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.4',
+            ],
+            indicator: [
+                '17.4.1',
+            ],
+            series: 'DT_TDS_DECT',
+            seriesDescription: 'Debt service as a proportion of exports of goods and services (%)',
+            seriesCount: '5195',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '0.74804',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank, International Debt Statistics.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.4.1',
+            ],
+        },
+    ],
+}

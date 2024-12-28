@@ -1,0 +1,125 @@
+{
+    size: 9101,
+    totalElements: 9101,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.5',
+            ],
+            indicator: [
+                '11.5.3',
+            ],
+            series: 'VC_DSR_CDAN',
+            seriesDescription: 'Number of damaged critical infrastructure attributed to disasters (number)',
+            seriesCount: '1043',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2017,
+            value: '48',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Office for Disaster Risk Reduction (2022)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.5.3',
+            ],
+        },
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.5',
+            ],
+            indicator: [
+                '11.5.3',
+            ],
+            series: 'VC_DSR_BSDN',
+            seriesDescription: 'Number of disruptions to basic services attributed to disasters (number)',
+            seriesCount: '1826',
+            geoAreaCode: '450',
+            geoAreaName: 'Madagascar',
+            timePeriodStart: 2017,
+            value: '30',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Office for Disaster Risk Reduction (2022)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.5.3',
+            ],
+        },
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.5',
+            ],
+            indicator: [
+                '11.5.3',
+            ],
+            series: 'VC_DSR_OBDN',
+            seriesDescription: 'Number of disruptions to other basic services attributed to disasters (number)',
+            seriesCount: '1826',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Office for Disaster Risk Reduction (2022)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Disclaimer: The data being submitted by UNDRR has been extracted from two sources: (a) the Sendai Framework Monitoring System as provided by designated national focal points; and (b) DesInventar disaster loss databases. Some of the data has not followed an official validation process and may be subject to revision at a later date.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.5.3',
+            ],
+        },
+    ],
+}

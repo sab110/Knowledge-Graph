@@ -1,0 +1,129 @@
+{
+    size: 11079,
+    totalElements: 11079,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.c',
+            ],
+            indicator: [
+                '3.c.1',
+            ],
+            series: 'SH_MED_DEN',
+            seriesDescription: 'Health worker density, by type of occupation (per 10,000 population)',
+            seriesCount: '8229',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2001,
+            value: '0.24',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Health Workforce Statistics database, Global Health Observatory, WHO .  Available at http://www.who.int/hrh/statistics/hwfstats/en/. For the specific sources and metadata by country, refer to database directly.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_10000_POP',
+            },
+            dimensions: {
+                'Type of occupation': 'PHAR',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.c.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.c',
+            ],
+            indicator: [
+                '3.c.1',
+            ],
+            series: 'SH_MED_DEN',
+            seriesDescription: 'Health worker density, by type of occupation (per 10,000 population)',
+            seriesCount: '8229',
+            geoAreaCode: '512',
+            geoAreaName: 'Oman',
+            timePeriodStart: 2009,
+            value: '19.34',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Health Workforce Statistics database, Global Health Observatory, WHO .  Available at http://www.who.int/hrh/statistics/hwfstats/en/. For the specific sources and metadata by country, refer to database directly.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_10000_POP',
+            },
+            dimensions: {
+                'Type of occupation': 'PHYS',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.c.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.c',
+            ],
+            indicator: [
+                '3.c.1',
+            ],
+            series: 'SH_MED_HWRKDIS',
+            seriesDescription: 'Health worker distribution, by sex and type of occupation (%)',
+            seriesCount: '2850',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2018,
+            value: '71.85',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Health Workforce Statistics database, Global Health Observatory, WHO .  Available at http://www.who.int/hrh/statistics/hwfstats/en/. For the specific sources and metadata by country, refer to database directly.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Type of occupation': 'PHYS',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.c.1',
+            ],
+        },
+    ],
+}

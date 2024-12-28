@@ -1,0 +1,131 @@
+{
+    size: 903,
+    totalElements: 903,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.3',
+            ],
+            indicator: [
+                '14.3.1',
+            ],
+            series: 'ER_OAW_MNACD',
+            seriesDescription: 'Average marine acidity (pH) measured at agreed suite of representative sampling stations',
+            seriesCount: '903',
+            geoAreaCode: '24',
+            geoAreaName: 'Angola',
+            timePeriodStart: 2012,
+            value: '8.080',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '10.890',
+            lowerBound: '5.400',
+            basePeriod: null,
+            source: 'Intergovernmental Oceanographic Commission (IOC) of UNESCO',
+            geoInfoUrl: null,
+            footnotes: [
+                'Mooring Name: Ferrovia | LATITUDE: -12.180 | LONGITUDE: 13.340',
+            ],
+            attributes: {
+                Nature: 'C',
+                'Observation Status': 'A',
+                Units: 'PH',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Sampling Stations': 'FERROVIA',
+            },
+            key: [
+                '14.3.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.3',
+            ],
+            indicator: [
+                '14.3.1',
+            ],
+            series: 'ER_OAW_MNACD',
+            seriesDescription: 'Average marine acidity (pH) measured at agreed suite of representative sampling stations',
+            seriesCount: '903',
+            geoAreaCode: '554',
+            geoAreaName: 'New Zealand',
+            timePeriodStart: 2017,
+            value: '8.007',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '8.145',
+            lowerBound: '7.906',
+            basePeriod: null,
+            source: 'Intergovernmental Oceanographic Commission (IOC) of UNESCO',
+            geoInfoUrl: null,
+            footnotes: [
+                'Mooring Name: Wellington | LATITUDE: -41.301 | LONGITUDE: 174.81',
+            ],
+            attributes: {
+                Nature: 'C',
+                'Observation Status': 'A',
+                Units: 'PH',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Sampling Stations': 'WELLINGTON',
+            },
+            key: [
+                '14.3.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.3',
+            ],
+            indicator: [
+                '14.3.1',
+            ],
+            series: 'ER_OAW_MNACD',
+            seriesDescription: 'Average marine acidity (pH) measured at agreed suite of representative sampling stations',
+            seriesCount: '903',
+            geoAreaCode: '704',
+            geoAreaName: 'Viet Nam',
+            timePeriodStart: 2020,
+            value: '8.050',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '8.114',
+            lowerBound: '7.971',
+            basePeriod: null,
+            source: 'Intergovernmental Oceanographic Commission (IOC) of UNESCO',
+            geoInfoUrl: null,
+            footnotes: [
+                'Mooring Name: Viet Nam | LATITUDE: 11.705 | LONGITUDE: 109.21',
+            ],
+            attributes: {
+                Nature: 'C',
+                'Observation Status': 'A',
+                Units: 'PH',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Sampling Stations': 'VIETNAM2_20',
+            },
+            key: [
+                '14.3.1',
+            ],
+        },
+    ],
+}

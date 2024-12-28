@@ -1,0 +1,134 @@
+{
+    size: 30967,
+    totalElements: 30967,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.5',
+            ],
+            indicator: [
+                '8.5.2',
+            ],
+            series: 'SL_TLF_UEM',
+            seriesDescription: 'Unemployment rate, by sex and age (%)',
+            seriesCount: '28773',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2008,
+            value: '2.1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: HIES - Living Conditions Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: ILO-STATISTICS - Micro data processing | Unemployment definition: Two criteria (not in employment and seeking) | Break in series: Methodology revised',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '25+',
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.5.2',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.5',
+            ],
+            indicator: [
+                '8.5.2',
+            ],
+            series: 'SL_TLF_UEM',
+            seriesDescription: 'Unemployment rate, by sex and age (%)',
+            seriesCount: '28773',
+            geoAreaCode: '54',
+            geoAreaName: 'Melanesia',
+            timePeriodStart: 2002,
+            value: '3.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: ILO modelled estimates, November 2021, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.5.2',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.5',
+            ],
+            indicator: [
+                '8.5.2',
+            ],
+            series: 'SL_TLF_UEMDIS',
+            seriesDescription: 'Unemployment rate, by sex and disability (%)',
+            seriesCount: '2194',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '14.1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: LFS - Labour Force Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Disability status': 'PD',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.5.2',
+            ],
+        },
+    ],
+}

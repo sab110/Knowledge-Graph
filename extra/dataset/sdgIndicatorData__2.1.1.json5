@@ -1,0 +1,125 @@
+{
+    size: 11360,
+    totalElements: 11360,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.1',
+            ],
+            indicator: [
+                '2.1.1',
+            ],
+            series: 'SN_ITK_DEFC',
+            seriesDescription: 'Prevalence of undernourishment (%)',
+            seriesCount: '5680',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2001,
+            value: '47.8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'FAO, Statistics Division',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.1.1',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.1',
+            ],
+            indicator: [
+                '2.1.1',
+            ],
+            series: 'SN_ITK_DEFC',
+            seriesDescription: 'Prevalence of undernourishment (%)',
+            seriesCount: '5680',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'FAO, Statistics Division',
+            geoInfoUrl: null,
+            footnotes: [
+                'Estimates are based on projected values',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.1.1',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.1',
+            ],
+            indicator: [
+                '2.1.1',
+            ],
+            series: 'SN_ITK_DEFCN',
+            seriesDescription: 'Number of undernourish people (millions)',
+            seriesCount: '5680',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'FAO, Statistics Division',
+            geoInfoUrl: null,
+            footnotes: [
+                'Estimates are based on projected values',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'NUM_M',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.1.1',
+            ],
+        },
+    ],
+}

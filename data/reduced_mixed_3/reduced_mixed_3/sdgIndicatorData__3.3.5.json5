@@ -1,0 +1,125 @@
+{
+    size: 2060,
+    totalElements: 2060,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.5',
+            ],
+            series: 'SH_TRP_INTVN',
+            seriesDescription: 'Number of people requiring interventions against neglected tropical diseases (number)',
+            seriesCount: '2060',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2010,
+            value: '12246738',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO Global Health Observatory',
+            geoInfoUrl: null,
+            footnotes: [
+                'Aggregation across diseases',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.3.5',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.5',
+            ],
+            series: 'SH_TRP_INTVN',
+            seriesDescription: 'Number of people requiring interventions against neglected tropical diseases (number)',
+            seriesCount: '2060',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2019,
+            value: '2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO Global Health Observatory',
+            geoInfoUrl: null,
+            footnotes: [
+                'Aggregation across diseases',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.3.5',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.5',
+            ],
+            series: 'SH_TRP_INTVN',
+            seriesDescription: 'Number of people requiring interventions against neglected tropical diseases (number)',
+            seriesCount: '2060',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '10660813',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO Global Health Observatory',
+            geoInfoUrl: null,
+            footnotes: [
+                'Aggregation across diseases',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.3.5',
+            ],
+        },
+    ],
+}

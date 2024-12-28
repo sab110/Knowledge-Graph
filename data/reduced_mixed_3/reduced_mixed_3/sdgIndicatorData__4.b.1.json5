@@ -1,0 +1,125 @@
+{
+    size: 2459,
+    totalElements: 2459,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.b',
+            ],
+            indicator: [
+                '4.b.1',
+            ],
+            series: 'DC_TOF_SCHIPSL',
+            seriesDescription: 'Total official flows for scholarships, by recipient countries (millions of constant 2019 United States dollars)',
+            seriesCount: '2459',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2006,
+            value: '0.4',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Gross disbursements; Based on OECD, CRS databased, 2021; Constant 2019 USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.b.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.b',
+            ],
+            indicator: [
+                '4.b.1',
+            ],
+            series: 'DC_TOF_SCHIPSL',
+            seriesDescription: 'Total official flows for scholarships, by recipient countries (millions of constant 2019 United States dollars)',
+            seriesCount: '2459',
+            geoAreaCode: '450',
+            geoAreaName: 'Madagascar',
+            timePeriodStart: 2011,
+            value: '1.0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Gross disbursements; Based on OECD, CRS databased, 2021; Constant 2019 USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.b.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.b',
+            ],
+            indicator: [
+                '4.b.1',
+            ],
+            series: 'DC_TOF_SCHIPSL',
+            seriesDescription: 'Total official flows for scholarships, by recipient countries (millions of constant 2019 United States dollars)',
+            seriesCount: '2459',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '3.5',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Gross disbursements; Based on OECD, CRS databased, 2021; Constant 2019 USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.b.1',
+            ],
+        },
+    ],
+}

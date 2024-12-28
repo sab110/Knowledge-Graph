@@ -1,0 +1,125 @@
+{
+    size: 2085,
+    totalElements: 2085,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.a',
+            ],
+            indicator: [
+                '16.a.1',
+            ],
+            series: 'SG_NHR_IMPL',
+            seriesDescription: 'Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%)',
+            seriesCount: '195',
+            geoAreaCode: '53',
+            geoAreaName: 'Australia and New Zealand',
+            timePeriodStart: 2000,
+            value: '100.0000',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: The Office of the United Nations High Commissioner for Human Rights (OHCHR) in collaboration with Global Alliance of National Human Rights Institutions (GANHRI).',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.a.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.a',
+            ],
+            indicator: [
+                '16.a.1',
+            ],
+            series: 'SG_NHR_NOSTUSN',
+            seriesDescription: 'Countries with National Human Rights Institutions and no status with the Paris Principles, C status (1 = YES; 0 = NO)',
+            seriesCount: '69',
+            geoAreaCode: '450',
+            geoAreaName: 'Madagascar',
+            timePeriodStart: 2018,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: The Office of the United Nations High Commissioner for Human Rights (OHCHR) in collaboration with Global Alliance of National Human Rights Institutions (GANHRI).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Name of National Human Rights Institution: Commission fédérale pour les questions féminines (CFQF) (Mar 2009); Federal Commission against Racism (FCR) .',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.a.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.a',
+            ],
+            indicator: [
+                '16.a.1',
+            ],
+            series: 'SG_NHR_NOAPPLN',
+            seriesDescription: 'Countries with no application for accreditation with the Paris Principles, D status  (1 = YES; 0 = NO)',
+            seriesCount: '800',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2015,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: The Office of the United Nations High Commissioner for Human Rights (OHCHR) in collaboration with Global Alliance of National Human Rights Institutions (GANHRI).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Name of National Human Rights Institution: Zimbabwe Human Rights Commission.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.a.1',
+            ],
+        },
+    ],
+}

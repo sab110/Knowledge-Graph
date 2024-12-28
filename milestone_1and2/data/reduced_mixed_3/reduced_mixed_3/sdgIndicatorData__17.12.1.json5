@@ -1,0 +1,128 @@
+{
+    size: 42962,
+    totalElements: 42962,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.12',
+            ],
+            indicator: [
+                '17.12.1',
+            ],
+            series: 'TM_TAX_DMFN',
+            seriesDescription: 'Average tariff applied by developed countries, most-favored nation status, by type of product (%)',
+            seriesCount: '21481',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '20.84457',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD) and World Trade Organisation (WTO).',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Type of product': 'TEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.12.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.12',
+            ],
+            indicator: [
+                '17.12.1',
+            ],
+            series: 'TM_TAX_DMFN',
+            seriesDescription: 'Average tariff applied by developed countries, most-favored nation status, by type of product (%)',
+            seriesCount: '21481',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '6.04474',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD) and World Trade Organisation (WTO).',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Type of product': 'ALP',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.12.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.12',
+            ],
+            indicator: [
+                '17.12.1',
+            ],
+            series: 'TM_TAX_DPRF',
+            seriesDescription: 'Average tariff applied by developed countries, preferential status, by type of product (%)',
+            seriesCount: '21481',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '2.63068',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD) and World Trade Organisation (WTO).',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Type of product': 'ALP',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.12.1',
+            ],
+        },
+    ],
+}

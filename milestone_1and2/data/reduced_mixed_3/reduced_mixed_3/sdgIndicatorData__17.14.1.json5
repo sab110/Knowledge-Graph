@@ -1,0 +1,125 @@
+{
+    size: 27,
+    totalElements: 27,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.14',
+            ],
+            indicator: [
+                '17.14.1',
+            ],
+            series: 'SG_CPA_SDEVP',
+            seriesDescription: 'Mechanisms in place to enhance policy coherence for sustainable development (%)',
+            seriesCount: '27',
+            geoAreaCode: '68',
+            geoAreaName: 'Bolivia (Plurinational State of)',
+            timePeriodStart: 2020,
+            value: '76.25',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.14.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.14',
+            ],
+            indicator: [
+                '17.14.1',
+            ],
+            series: 'SG_CPA_SDEVP',
+            seriesDescription: 'Mechanisms in place to enhance policy coherence for sustainable development (%)',
+            seriesCount: '27',
+            geoAreaCode: '434',
+            geoAreaName: 'Libya',
+            timePeriodStart: 2020,
+            value: '71.25',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.14.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.14',
+            ],
+            indicator: [
+                '17.14.1',
+            ],
+            series: 'SG_CPA_SDEVP',
+            seriesDescription: 'Mechanisms in place to enhance policy coherence for sustainable development (%)',
+            seriesCount: '27',
+            geoAreaCode: '704',
+            geoAreaName: 'Viet Nam',
+            timePeriodStart: 2020,
+            value: '72.5',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.14.1',
+            ],
+        },
+    ],
+}

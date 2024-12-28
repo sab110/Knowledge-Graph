@@ -1,0 +1,128 @@
+{
+    size: 15429,
+    totalElements: 15429,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.a',
+            ],
+            indicator: [
+                '4.a.1',
+            ],
+            series: 'SE_ACS_CMPTR',
+            seriesDescription: 'Proportion of schools with access to computers for pedagogical purposes, by education level (%)',
+            seriesCount: '2667',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2019,
+            value: '23.47119',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics.  Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Education level': 'UPPSEC',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.a.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.a',
+            ],
+            indicator: [
+                '4.a.1',
+            ],
+            series: 'SE_ACS_ELECT',
+            seriesDescription: 'Proportion of schools with access to electricity, by education level (%)',
+            seriesCount: '2900',
+            geoAreaCode: '780',
+            geoAreaName: 'Trinidad and Tobago',
+            timePeriodStart: 2009,
+            value: '100',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics.  Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Education level': 'PRIMAR',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.a.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.a',
+            ],
+            indicator: [
+                '4.a.1',
+            ],
+            series: 'SE_INF_DSBL',
+            seriesDescription: 'Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%)',
+            seriesCount: '697',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '18.71609',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics.  Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Education level': 'UPPSEC',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.a.1',
+            ],
+        },
+    ],
+}

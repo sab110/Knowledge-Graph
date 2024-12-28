@@ -1,0 +1,128 @@
+{
+    size: 240,
+    totalElements: 240,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.1',
+            ],
+            indicator: [
+                '10.1.1',
+            ],
+            series: 'SI_HEI_TOTL',
+            seriesDescription: 'Growth rates of household expenditure or income per capita (%)',
+            seriesCount: '240',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2017,
+            value: '6.96',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank',
+            geoInfoUrl: null,
+            footnotes: [
+                'Estimated from consumption data. Growth rates are for the period of 2014-2017.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Quantile: '_T',
+            },
+            key: [
+                '10.1.1',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.1',
+            ],
+            indicator: [
+                '10.1.1',
+            ],
+            series: 'SI_HEI_TOTL',
+            seriesDescription: 'Growth rates of household expenditure or income per capita (%)',
+            seriesCount: '240',
+            geoAreaCode: '440',
+            geoAreaName: 'Lithuania',
+            timePeriodStart: 2019,
+            value: '8.2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank',
+            geoInfoUrl: null,
+            footnotes: [
+                'Estimated from income data. Growth rates are for the period of 2014-2019.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Quantile: '_T',
+            },
+            key: [
+                '10.1.1',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.1',
+            ],
+            indicator: [
+                '10.1.1',
+            ],
+            series: 'SI_HEI_TOTL',
+            seriesDescription: 'Growth rates of household expenditure or income per capita (%)',
+            seriesCount: '240',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2017,
+            value: '-3.5',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank',
+            geoInfoUrl: null,
+            footnotes: [
+                'Estimated from consumption data. Growth rates are for the period of 2011-2017.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Quantile: '_T',
+            },
+            key: [
+                '10.1.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,125 @@
+{
+    size: 644,
+    totalElements: 644,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.1',
+            ],
+            indicator: [
+                '5.1.1',
+            ],
+            series: 'SG_LGL_GENEQLFP',
+            seriesDescription: 'Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life',
+            seriesCount: '161',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2018,
+            value: '100',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UN Women',
+            geoInfoUrl: null,
+            footnotes: [
+                "Data are derived from an assessment of country's legal frameworks completed by National Statistical Offices and/or National Women’s Machinery, and legal practitioners/researchers on gender equality, using a questionnaire. ",
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.1.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.1',
+            ],
+            indicator: [
+                '5.1.1',
+            ],
+            series: 'SG_LGL_GENEQVAW',
+            seriesDescription: 'Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) --  Area 2: violence against women',
+            seriesCount: '161',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '66.66666',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UN Women',
+            geoInfoUrl: null,
+            footnotes: [
+                "Data are derived from an assessment of country's legal frameworks completed by National Statistical Offices and/or National Women’s Machinery, and legal practitioners/researchers on gender equality, using a questionnaire. ",
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.1.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.1',
+            ],
+            indicator: [
+                '5.1.1',
+            ],
+            series: 'SG_LGL_GENEQMAR',
+            seriesDescription: 'Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 4: marriage and family',
+            seriesCount: '161',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '81.81818',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UN Women',
+            geoInfoUrl: null,
+            footnotes: [
+                "Data are derived from an assessment of country's legal frameworks completed by National Statistical Offices and/or National Women’s Machinery, and legal practitioners/researchers on gender equality, using a questionnaire. ",
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.1.1',
+            ],
+        },
+    ],
+}

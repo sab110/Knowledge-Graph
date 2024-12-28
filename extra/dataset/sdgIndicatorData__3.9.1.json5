@@ -1,0 +1,125 @@
+{
+    size: 1241,
+    totalElements: 1241,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.9',
+            ],
+            indicator: [
+                '3.9.1',
+            ],
+            series: 'SH_HAP_ASMORT',
+            seriesDescription: 'Age-standardized mortality rate attributed to household air pollution (deaths per 100,000 population)',
+            seriesCount: '183',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2016,
+            value: '133',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Health Observatory (GHO), World Health Organisation (WHO)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.9.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.9',
+            ],
+            indicator: [
+                '3.9.1',
+            ],
+            series: 'SH_AAP_MORT',
+            seriesDescription: 'Crude death rate attributed to ambient air pollution (deaths per 100,000 population)',
+            seriesCount: '219',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2016,
+            value: '49',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Health Observatory (GHO), World Health Organisation (WHO)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.9.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.9',
+            ],
+            indicator: [
+                '3.9.1',
+            ],
+            series: 'SH_HAP_MORT',
+            seriesDescription: 'Crude death rate attributed to household air pollution (deaths per 100,000 population)',
+            seriesCount: '184',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2016,
+            value: '52',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Health Observatory (GHO), World Health Organisation (WHO)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.9.1',
+            ],
+        },
+    ],
+}

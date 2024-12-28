@@ -1,0 +1,128 @@
+{
+    size: 25486,
+    totalElements: 25486,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.d',
+            ],
+            indicator: [
+                '3.d.1',
+            ],
+            series: 'SH_IHR_CAPS',
+            seriesDescription: 'International Health Regulations (IHR) capacity, by type of IHR capacity (%)',
+            seriesCount: '25486',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2010,
+            value: '53',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IHR National Self-Assessment and reports received and available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ), WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and  the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )',
+            geoInfoUrl: null,
+            footnotes: [
+                'WHO standard questionaire for IHR Annual reporting from years 2010 to 2017,  data collected available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ), WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'IHR Capacity': 'IHR04',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.d.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.d',
+            ],
+            indicator: [
+                '3.d.1',
+            ],
+            series: 'SH_IHR_CAPS',
+            seriesDescription: 'International Health Regulations (IHR) capacity, by type of IHR capacity (%)',
+            seriesCount: '25486',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2010,
+            value: '78',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IHR National Self-Assessment and reports received and available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ), WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and  the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )',
+            geoInfoUrl: null,
+            footnotes: [
+                'WHO standard questionaire for IHR Annual reporting from years 2010 to 2017,  data collected available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ), WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'IHR Capacity': 'IHR04',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.d.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.d',
+            ],
+            indicator: [
+                '3.d.1',
+            ],
+            series: 'SH_IHR_CAPS',
+            seriesDescription: 'International Health Regulations (IHR) capacity, by type of IHR capacity (%)',
+            seriesCount: '25486',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '40',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IHR National Self-Assessment and reports received and registered at WHO e-SPAR database (https://extranet.who.int/e-spar/ ) ',
+            geoInfoUrl: null,
+            footnotes: [
+                'SPAR new questionaire for IHR Annual reporting from year 2018, the capacities had changed and available at WHO e-SPAR database (https://extranet.who.int/e-spar/ ) and disseminated to WHO Global Health Observatory (https://www.who.int/data/gho/data/themes/international-health-regulations-(2005)-monitoring-framework ) and the WHO Strategic Partnership for Health Security and Emergency Preparedness (SPH) Portal (https://extranet.who.int/sph/home )',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'IHR Capacity': 'SPAR02',
+            },
+            key: [
+                '3.d.1',
+            ],
+        },
+    ],
+}

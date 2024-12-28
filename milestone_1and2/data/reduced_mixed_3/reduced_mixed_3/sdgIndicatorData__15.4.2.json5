@@ -1,0 +1,131 @@
+{
+    size: 5002,
+    totalElements: 5002,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.4',
+            ],
+            indicator: [
+                '15.4.2',
+            ],
+            series: 'ER_MTN_GRNCVI',
+            seriesDescription: 'Mountain Green Cover Index',
+            seriesCount: '5002',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '72.14',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Food and Agriculture Organisation of United Nations (FAO)',
+            geoInfoUrl: null,
+            footnotes: [
+                'FAO estimate',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Mountain Elevation': '4',
+            },
+            key: [
+                '15.4.2',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.4',
+            ],
+            indicator: [
+                '15.4.2',
+            ],
+            series: 'ER_MTN_GRNCVI',
+            seriesDescription: 'Mountain Green Cover Index',
+            seriesCount: '5002',
+            geoAreaCode: '430',
+            geoAreaName: 'Liberia',
+            timePeriodStart: 2010,
+            value: '99.89',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Food and Agriculture Organisation of United Nations (FAO)',
+            geoInfoUrl: null,
+            footnotes: [
+                'FAO estimate',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Mountain Elevation': 'ALL',
+            },
+            key: [
+                '15.4.2',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.4',
+            ],
+            indicator: [
+                '15.4.2',
+            ],
+            series: 'ER_MTN_GRNCVI',
+            seriesDescription: 'Mountain Green Cover Index',
+            seriesCount: '5002',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2018,
+            value: '100',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Food and Agriculture Organisation of United Nations (FAO)',
+            geoInfoUrl: null,
+            footnotes: [
+                'FAO estimate',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Mountain Elevation': '3',
+            },
+            key: [
+                '15.4.2',
+            ],
+        },
+    ],
+}

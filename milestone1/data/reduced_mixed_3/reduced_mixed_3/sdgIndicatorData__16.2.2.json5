@@ -1,0 +1,130 @@
+{
+    size: 6136,
+    totalElements: 6136,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.2',
+            ],
+            indicator: [
+                '16.2.2',
+            ],
+            series: 'VC_HTF_DETVFL',
+            seriesDescription: 'Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (number)',
+            seriesCount: '1945',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2003,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'GLOTIP Database',
+            geoInfoUrl: null,
+            footnotes: [
+                'Data in reference to one country but derived from different types of sources should not be compared between them.\n',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Age: 'ALLAGE',
+                Sex: 'FEMALE',
+            },
+            key: [
+                '16.2.2',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.2',
+            ],
+            indicator: [
+                '16.2.2',
+            ],
+            series: 'VC_HTF_DETVOP',
+            seriesDescription: 'Detected victims of human trafficking for other purposes, by age and sex (number)',
+            seriesCount: '1664',
+            geoAreaCode: '430',
+            geoAreaName: 'Liberia',
+            timePeriodStart: 2006,
+            value: '6',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'GLOTIP Database',
+            geoInfoUrl: null,
+            footnotes: [
+                'Data in reference to one country but derived from different types of sources should not be compared between them.\n',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Age: 'ALLAGE',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.2.2',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.2',
+            ],
+            indicator: [
+                '16.2.2',
+            ],
+            series: 'VC_HTF_DETV',
+            seriesDescription: 'Detected victims of human trafficking, by age and sex (number)',
+            seriesCount: '998',
+            geoAreaCode: '894',
+            geoAreaName: 'Zambia',
+            timePeriodStart: 2009,
+            value: '30',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'GLOTIP Database',
+            geoInfoUrl: null,
+            footnotes: [
+                'Data in reference to one country but derived from different types of sources should not be compared between them.\n',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Age: 'ALLAGE',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.2.2',
+            ],
+        },
+    ],
+}

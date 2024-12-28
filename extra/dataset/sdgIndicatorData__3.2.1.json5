@@ -1,0 +1,131 @@
+{
+    size: 54180,
+    totalElements: 54180,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.2',
+            ],
+            indicator: [
+                '3.2.1',
+            ],
+            series: 'SH_DYN_IMRTN',
+            seriesDescription: 'Infant deaths (number)',
+            seriesCount: '12285',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '48906',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Inter-agency Group for Child Mortality Estimation (UN IGME), 2021.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Age: '<1Y',
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.2.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.2',
+            ],
+            indicator: [
+                '3.2.1',
+            ],
+            series: 'SH_DYN_MORT',
+            seriesDescription: 'Under-five mortality rate, by sex (deaths per 1,000 live births)',
+            seriesCount: '14805',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '53.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Inter-agency Group for Child Mortality Estimation (UN IGME), 2021.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_1000_LIVE_BIRTHS',
+            },
+            dimensions: {
+                Age: '<5Y',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.2.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.2',
+            ],
+            indicator: [
+                '3.2.1',
+            ],
+            series: 'SH_DYN_MORTN',
+            seriesDescription: 'Under-five deaths (number)',
+            seriesCount: '12285',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '10621',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Inter-agency Group for Child Mortality Estimation (UN IGME), 2021.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Age: '<5Y',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.2.1',
+            ],
+        },
+    ],
+}

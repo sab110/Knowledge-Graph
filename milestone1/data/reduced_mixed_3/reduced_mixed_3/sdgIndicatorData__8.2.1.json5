@@ -1,0 +1,128 @@
+{
+    size: 5170,
+    totalElements: 5170,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.2',
+            ],
+            indicator: [
+                '8.2.1',
+            ],
+            series: 'SL_EMP_PCAP',
+            seriesDescription: 'Annual growth rate of real GDP per employed person (%)',
+            seriesCount: '5170',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '-7.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ILO modelled estimates, November 2021, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Based on GDP per person engaged, constant 2010 US dollar',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.2.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.2',
+            ],
+            indicator: [
+                '8.2.1',
+            ],
+            series: 'SL_EMP_PCAP',
+            seriesDescription: 'Annual growth rate of real GDP per employed person (%)',
+            seriesCount: '5170',
+            geoAreaCode: '426',
+            geoAreaName: 'Lesotho',
+            timePeriodStart: 2010,
+            value: '3.8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ILO modelled estimates, November 2021, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Based on GDP per person engaged, constant 2010 US dollar',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.2.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.2',
+            ],
+            indicator: [
+                '8.2.1',
+            ],
+            series: 'SL_EMP_PCAP',
+            seriesDescription: 'Annual growth rate of real GDP per employed person (%)',
+            seriesCount: '5170',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2021,
+            value: '2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ILO modelled estimates, November 2021, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Based on GDP per person engaged, constant 2010 US dollar',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.2.1',
+            ],
+        },
+    ],
+}

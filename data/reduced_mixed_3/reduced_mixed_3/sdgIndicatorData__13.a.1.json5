@@ -1,0 +1,127 @@
+{
+    size: 104,
+    totalElements: 104,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '13',
+            ],
+            target: [
+                '13.a',
+            ],
+            indicator: [
+                '13.a.1',
+            ],
+            series: 'DC_FIN_CLIMB',
+            seriesDescription: 'Climate-specific financial support provided via bilateral, regional and other channels, by type of support (Billions of current United States dollars)',
+            seriesCount: '40',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2011,
+            value: '2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Biennial Reports by Annex I Parties to the Convention',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'CU_USD_B',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Type of support': 'CROSS_CUTTING',
+            },
+            key: [
+                '13.a.1',
+            ],
+        },
+        {
+            goal: [
+                '13',
+            ],
+            target: [
+                '13.a',
+            ],
+            indicator: [
+                '13.a.1',
+            ],
+            series: 'DC_FIN_CLIMM',
+            seriesDescription: 'Climate-specific financial support provided via multilateral channels, by type of support (Billions of current United States dollars)',
+            seriesCount: '40',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2013,
+            value: '2.27',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Biennial Reports by Annex I Parties to the Convention',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'CU_USD_B',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Type of support': 'TOTAL',
+            },
+            key: [
+                '13.a.1',
+            ],
+        },
+        {
+            goal: [
+                '13',
+            ],
+            target: [
+                '13.a',
+            ],
+            indicator: [
+                '13.a.1',
+            ],
+            series: 'DC_FIN_TOT',
+            seriesDescription: 'Total financial support provided (Billions of current United States dollars)',
+            seriesCount: '8',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2018,
+            value: '51.93',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Biennial Reports by Annex I Parties to the Convention',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'CU_USD_B',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '13.a.1',
+            ],
+        },
+    ],
+}

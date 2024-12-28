@@ -1,0 +1,128 @@
+{
+    size: 3637,
+    totalElements: 3637,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.1',
+            ],
+            indicator: [
+                '17.1.2',
+            ],
+            series: 'GC_GOB_TAXD',
+            seriesDescription: 'Proportion of domestic budget funded by domestic taxes (% of GDP)',
+            seriesCount: '3637',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2003,
+            value: '17.86127',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IMF',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.1.2',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.1',
+            ],
+            indicator: [
+                '17.1.2',
+            ],
+            series: 'GC_GOB_TAXD',
+            seriesDescription: 'Proportion of domestic budget funded by domestic taxes (% of GDP)',
+            seriesCount: '3637',
+            geoAreaCode: '199',
+            geoAreaName: 'Least Developed Countries (LDCs)',
+            timePeriodStart: 2005,
+            value: '54.48157',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IMF',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.1.2',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.1',
+            ],
+            indicator: [
+                '17.1.2',
+            ],
+            series: 'GC_GOB_TAXD',
+            seriesDescription: 'Proportion of domestic budget funded by domestic taxes (% of GDP)',
+            seriesCount: '3637',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2018,
+            value: '61.45072',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IMF',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.1.2',
+            ],
+        },
+    ],
+}

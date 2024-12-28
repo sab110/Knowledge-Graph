@@ -1,0 +1,128 @@
+{
+    size: 21042,
+    totalElements: 21042,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.3',
+            ],
+            indicator: [
+                '2.3.2',
+            ],
+            series: 'SI_AGR_SSFP',
+            seriesDescription: 'Average income of small-scale food producers, PPP (constant 2011 international $)',
+            seriesCount: '10527',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2004,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2011',
+            source: 'NA',
+            geoInfoUrl: null,
+            footnotes: [
+                'NaN = A figure was not provided',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'CON_PPP_USD',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.3.2',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.3',
+            ],
+            indicator: [
+                '2.3.2',
+            ],
+            series: 'SI_AGR_SSFP',
+            seriesDescription: 'Average income of small-scale food producers, PPP (constant 2011 international $)',
+            seriesCount: '10527',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2014,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2011',
+            source: 'NA',
+            geoInfoUrl: null,
+            footnotes: [
+                'NaN = A figure was not provided',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'CON_PPP_USD',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.3.2',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.3',
+            ],
+            indicator: [
+                '2.3.2',
+            ],
+            series: 'SI_AGR_LSFP',
+            seriesDescription: 'Average income of large-scale food producers, PPP (constant 2011 international $)',
+            seriesCount: '10515',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2016,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2011',
+            source: 'NA',
+            geoInfoUrl: null,
+            footnotes: [
+                'NaN = A figure was not provided',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'CON_PPP_USD',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.3.2',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,128 @@
+{
+    size: 834,
+    totalElements: 834,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.b',
+            ],
+            indicator: [
+                '5.b.1',
+            ],
+            series: 'IT_MOB_OWN',
+            seriesDescription: 'Proportion of individuals who own a mobile telephone, by sex (%)',
+            seriesCount: '834',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2016,
+            value: '46.82207',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'NSIA',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.b.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.b',
+            ],
+            indicator: [
+                '5.b.1',
+            ],
+            series: 'IT_MOB_OWN',
+            seriesDescription: 'Proportion of individuals who own a mobile telephone, by sex (%)',
+            seriesCount: '834',
+            geoAreaCode: '392',
+            geoAreaName: 'Japan',
+            timePeriodStart: 2015,
+            value: '80.27758',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Ministry of Internal Affairs and Communications',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.b.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.b',
+            ],
+            indicator: [
+                '5.b.1',
+            ],
+            series: 'IT_MOB_OWN',
+            seriesDescription: 'Proportion of individuals who own a mobile telephone, by sex (%)',
+            seriesCount: '834',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '47.8351',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Zimbabwe National Statistics Agency (ZIMSTAT)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.b.1',
+            ],
+        },
+    ],
+}

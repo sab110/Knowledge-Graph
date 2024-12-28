@@ -1,0 +1,128 @@
+{
+    size: 2809,
+    totalElements: 2809,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.11',
+            ],
+            indicator: [
+                '17.11.1',
+            ],
+            series: 'TX_IMP_GBMRCH',
+            seriesDescription: 'Developing countries’ and least developed countries’ share of global merchandise imports (%)',
+            seriesCount: '798',
+            geoAreaCode: '2',
+            geoAreaName: 'Africa',
+            timePeriodStart: 2000,
+            value: '1.95222',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNCTADstat. Data compiled by UNCTAD and WTO.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.11.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.11',
+            ],
+            indicator: [
+                '17.11.1',
+            ],
+            series: 'TX_EXP_GBMRCH',
+            seriesDescription: 'Developing countries’ and least developed countries’ share of global merchandise exports (%)',
+            seriesCount: '798',
+            geoAreaCode: '5',
+            geoAreaName: 'South America',
+            timePeriodStart: 2018,
+            value: '2.82167',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNCTADstat. Data compiled by UNCTAD and WTO.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Including Bouvet Island.',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.11.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.11',
+            ],
+            indicator: [
+                '17.11.1',
+            ],
+            series: 'TX_IMP_GBSVR',
+            seriesDescription: 'Developing countries’ and least developed countries’ share of global services imports (%)',
+            seriesCount: '607',
+            geoAreaCode: '155',
+            geoAreaName: 'Western Europe',
+            timePeriodStart: 2020,
+            value: '23.10452',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNCTADstat. Data compiled by UNCTAD and WTO.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.11.1',
+            ],
+        },
+    ],
+}

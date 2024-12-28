@@ -1,0 +1,131 @@
+{
+    size: 340,
+    totalElements: 340,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.3',
+            ],
+            indicator: [
+                '9.3.2',
+            ],
+            series: 'FC_ACC_SSID',
+            seriesDescription: 'Proportion of small-scale industries with a loan or line of credit (%)',
+            seriesCount: '340',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2008,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank Enterprise Surveys 2022',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_C',
+            },
+            key: [
+                '9.3.2',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.3',
+            ],
+            indicator: [
+                '9.3.2',
+            ],
+            series: 'FC_ACC_SSID',
+            seriesDescription: 'Proportion of small-scale industries with a loan or line of credit (%)',
+            seriesCount: '340',
+            geoAreaCode: '426',
+            geoAreaName: 'Lesotho',
+            timePeriodStart: 2009,
+            value: '16.01',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank Enterprise Surveys 2022',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_C',
+            },
+            key: [
+                '9.3.2',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.3',
+            ],
+            indicator: [
+                '9.3.2',
+            ],
+            series: 'FC_ACC_SSID',
+            seriesDescription: 'Proportion of small-scale industries with a loan or line of credit (%)',
+            seriesCount: '340',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2016,
+            value: '5.69',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank Enterprise Surveys 2022',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_C',
+            },
+            key: [
+                '9.3.2',
+            ],
+        },
+    ],
+}

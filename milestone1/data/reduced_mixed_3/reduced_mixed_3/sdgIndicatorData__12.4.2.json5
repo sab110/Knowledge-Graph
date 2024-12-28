@@ -1,0 +1,129 @@
+{
+    size: 13453,
+    totalElements: 13453,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.4',
+            ],
+            indicator: [
+                '12.4.2',
+            ],
+            series: 'EN_EWT_GENV',
+            seriesDescription: 'Electronic waste generated (Tonnes)',
+            seriesCount: '782',
+            geoAreaCode: '2',
+            geoAreaName: 'Africa',
+            timePeriodStart: 2000,
+            value: '620085.60918',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNSD / UNITAR / WESR',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'TONNES',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.4.2',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.4',
+            ],
+            indicator: [
+                '12.4.2',
+            ],
+            series: 'EN_MWT_TREATR',
+            seriesDescription: 'Municipal waste treated, by type of treatment (%)',
+            seriesCount: '1926',
+            geoAreaCode: '112',
+            geoAreaName: 'Belarus',
+            timePeriodStart: 2005,
+            value: '100',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNSD/UNEP Questionnaire on Environment Statistics',
+            geoInfoUrl: null,
+            footnotes: [
+                'The data is collected in thousands of cubic meters. A coefficient of 0.18 tonnes per cubic meter was used to convert the tonnes.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Type of waste treatment': 'LANDFIL',
+            },
+            key: [
+                '12.4.2',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.4',
+            ],
+            indicator: [
+                '12.4.2',
+            ],
+            series: 'EN_HAZ_IMP',
+            seriesDescription: 'Hazardous waste imported, (Tonnes)',
+            seriesCount: '375',
+            geoAreaCode: '894',
+            geoAreaName: 'Zambia',
+            timePeriodStart: 2005,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNSD/UNEP Questionnaire on Environment Statistics',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'TONNES',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.4.2',
+            ],
+        },
+    ],
+}

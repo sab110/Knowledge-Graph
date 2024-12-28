@@ -1,0 +1,140 @@
+{
+    size: 268311,
+    totalElements: 268311,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '12',
+                '8',
+            ],
+            target: [
+                '12.2',
+                '8.4',
+            ],
+            indicator: [
+                '12.2.2',
+                '8.4.2',
+            ],
+            series: 'EN_MAT_DOMCMPT',
+            seriesDescription: 'Domestic material consumption, by type of raw material (tonnes)',
+            seriesCount: '89932',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WESR / Global Material Flows Database',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'TONNES',
+            },
+            dimensions: {
+                'Type of product': 'PET',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.2.2',
+                '8.4.2',
+            ],
+        },
+        {
+            goal: [
+                '12',
+                '8',
+            ],
+            target: [
+                '12.2',
+                '8.4',
+            ],
+            indicator: [
+                '12.2.2',
+                '8.4.2',
+            ],
+            series: 'EN_MAT_DOMCMPG',
+            seriesDescription: 'Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)',
+            seriesCount: '89099',
+            geoAreaCode: '426',
+            geoAreaName: 'Lesotho',
+            timePeriodStart: 2002,
+            value: '0.09917',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2015',
+            source: 'WESR / Global Material Flows Database',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'KG_PER_CON_USD',
+            },
+            dimensions: {
+                'Type of product': 'NMA',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.2.2',
+                '8.4.2',
+            ],
+        },
+        {
+            goal: [
+                '12',
+                '8',
+            ],
+            target: [
+                '12.2',
+                '8.4',
+            ],
+            indicator: [
+                '12.2.2',
+                '8.4.2',
+            ],
+            series: 'EN_MAT_DOMCMPC',
+            seriesDescription: 'Domestic material consumption per capita, by type of raw material (tonnes)',
+            seriesCount: '89280',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '2.11337',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WESR / Global Material Flows Database',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'TONNES',
+            },
+            dimensions: {
+                'Type of product': 'BIM',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.2.2',
+                '8.4.2',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,125 @@
+{
+    size: 1488,
+    totalElements: 1488,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.5',
+            ],
+            indicator: [
+                '6.5.2',
+            ],
+            series: 'EG_TBA_H2CO',
+            seriesDescription: 'Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation (%)',
+            seriesCount: '496',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2017,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: Relevant country authority; ',
+            geoInfoUrl: null,
+            footnotes: [
+                'No data provided for transboundary aquifers',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.5.2',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.5',
+            ],
+            indicator: [
+                '6.5.2',
+            ],
+            series: 'EG_TBA_H2COAQ',
+            seriesDescription: 'Proportion of transboundary aquifers with an operational arrangement for water cooperation (%)',
+            seriesCount: '496',
+            geoAreaCode: '428',
+            geoAreaName: 'Latvia',
+            timePeriodStart: 2020,
+            value: '94.52',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: Relevant country authority; ',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.5.2',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.5',
+            ],
+            indicator: [
+                '6.5.2',
+            ],
+            series: 'EG_TBA_H2CORL',
+            seriesDescription: 'Proportion of transboundary river and lake basins with an operational arrangement for water cooperation (%)',
+            seriesCount: '496',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '72.76',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: Relevant country authority; ',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.5.2',
+            ],
+        },
+    ],
+}

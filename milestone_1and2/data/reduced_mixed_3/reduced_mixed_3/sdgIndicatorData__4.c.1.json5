@@ -1,0 +1,131 @@
+{
+    size: 16439,
+    totalElements: 16439,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.c',
+            ],
+            indicator: [
+                '4.c.1',
+            ],
+            series: 'SE_TRA_GRDL',
+            seriesDescription: 'Proportion of teachers with the minimum required qualifications, by education level and sex (%)',
+            seriesCount: '16439',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2018,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics.  Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                'This data point is NOT APPLICABLE for the submitting nation.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Education level': 'PREPRI',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.c.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.c',
+            ],
+            indicator: [
+                '4.c.1',
+            ],
+            series: 'SE_TRA_GRDL',
+            seriesDescription: 'Proportion of teachers with the minimum required qualifications, by education level and sex (%)',
+            seriesCount: '16439',
+            geoAreaCode: '417',
+            geoAreaName: 'Kyrgyzstan',
+            timePeriodStart: 2017,
+            value: '74.76755',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics.  Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Education level': 'SECOND',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.c.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.c',
+            ],
+            indicator: [
+                '4.c.1',
+            ],
+            series: 'SE_TRA_GRDL',
+            seriesDescription: 'Proportion of teachers with the minimum required qualifications, by education level and sex (%)',
+            seriesCount: '16439',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '82.86621',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics.  Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Education level': 'PREPRI',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.c.1',
+            ],
+        },
+    ],
+}

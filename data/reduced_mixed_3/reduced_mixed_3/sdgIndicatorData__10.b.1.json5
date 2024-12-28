@@ -1,0 +1,125 @@
+{
+    size: 4486,
+    totalElements: 4486,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.b',
+            ],
+            indicator: [
+                '10.b.1',
+            ],
+            series: 'DC_TRF_TOTDL',
+            seriesDescription: 'Total assistance for development, by donor countries (millions of current United States dollars)',
+            seriesCount: '851',
+            geoAreaCode: '36',
+            geoAreaName: 'Australia',
+            timePeriodStart: 2000,
+            value: '1891',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Net Disbursements; Based on OECD, DAC database, 2021; Current USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CU_USD_M',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.b.1',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.b',
+            ],
+            indicator: [
+                '10.b.1',
+            ],
+            series: 'DC_TRF_TOTL',
+            seriesDescription: 'Total assistance for development, by recipient countries (millions of current United States dollars)',
+            seriesCount: '2975',
+            geoAreaCode: '418',
+            geoAreaName: "Lao People's Democratic Republic",
+            timePeriodStart: 2017,
+            value: '627',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Net Disbursements; Based on OECD, DAC database, 2021; Current USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CU_USD_M',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.b.1',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.b',
+            ],
+            indicator: [
+                '10.b.1',
+            ],
+            series: 'DC_TRF_TFDV',
+            seriesDescription: 'Total resource flows for development, by recipient and donor countries (millions of current United States dollars)',
+            seriesCount: '660',
+            geoAreaCode: '145',
+            geoAreaName: 'Western Asia',
+            timePeriodStart: 2019,
+            value: '25253',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Net Disbursements; Based on OECD, DAC database, 2021; Current USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CU_USD_M',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.b.1',
+            ],
+        },
+    ],
+}

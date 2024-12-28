@@ -1,0 +1,131 @@
+{
+    size: 5765,
+    totalElements: 5765,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.10',
+            ],
+            indicator: [
+                '8.10.1',
+            ],
+            series: 'FB_ATM_TOTL',
+            seriesDescription: 'Number of automated teller machines (ATMs) per 100,000 adults',
+            seriesCount: '2821',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2004,
+            value: '0.0156',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IMF',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PER_100000_POP',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15+',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.10.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.10',
+            ],
+            indicator: [
+                '8.10.1',
+            ],
+            series: 'FB_CBK_BRCH',
+            seriesDescription: 'Number of commercial bank branches per 100,000 adults',
+            seriesCount: '2944',
+            geoAreaCode: '24',
+            geoAreaName: 'Angola',
+            timePeriodStart: 2015,
+            value: '10.43508',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IMF',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PER_100000_POP',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15+',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.10.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.10',
+            ],
+            indicator: [
+                '8.10.1',
+            ],
+            series: 'FB_CBK_BRCH',
+            seriesDescription: 'Number of commercial bank branches per 100,000 adults',
+            seriesCount: '2944',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '4.1697',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IMF',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PER_100000_POP',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15+',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.10.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,125 @@
+{
+    size: 4065,
+    totalElements: 4065,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.c',
+            ],
+            indicator: [
+                '12.c.1',
+            ],
+            series: 'ER_FFS_CMPT_GDP',
+            seriesDescription: 'Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%)',
+            seriesCount: '1353',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2015,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.c.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.c',
+            ],
+            indicator: [
+                '12.c.1',
+            ],
+            series: 'ER_FFS_CMPT_CD',
+            seriesDescription: 'Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars)',
+            seriesCount: '1359',
+            geoAreaCode: '426',
+            geoAreaName: 'Lesotho',
+            timePeriodStart: 2016,
+            value: '0.0021',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'CU_USD_B',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.c.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.c',
+            ],
+            indicator: [
+                '12.c.1',
+            ],
+            series: 'ER_FFS_CMPT_PC_CD',
+            seriesDescription: 'Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars)',
+            seriesCount: '1353',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'CU_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.c.1',
+            ],
+        },
+    ],
+}

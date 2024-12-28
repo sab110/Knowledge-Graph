@@ -1,0 +1,128 @@
+{
+    size: 11241,
+    totalElements: 11241,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.5',
+            ],
+            indicator: [
+                '5.5.1',
+            ],
+            series: 'SG_GEN_PARLN',
+            seriesDescription: 'Number of seats held by women in national parliaments (number)',
+            seriesCount: '5250',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2006,
+            value: '68',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Inter-Parliamentary Union (IPU), the database on Women in National Parliament, accessed February 1 of given year for annual data.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Annual data as of 1 Feb of given year.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.5.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.5',
+            ],
+            indicator: [
+                '5.5.1',
+            ],
+            series: 'SG_GEN_PARLNT',
+            seriesDescription: 'Current number of seats in national parliaments (number)',
+            seriesCount: '474',
+            geoAreaCode: '690',
+            geoAreaName: 'Seychelles',
+            timePeriodStart: 2022,
+            value: '35',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Inter-Parliamentary Union (IPU), Parline Database',
+            geoInfoUrl: null,
+            footnotes: [
+                'Unicameral: (National Assembly), Data valid as of 1 Jan of given year',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.5.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.5',
+            ],
+            indicator: [
+                '5.5.1',
+            ],
+            series: 'SG_GEN_LOCGELS',
+            seriesDescription: 'Proportion of elected seats held by women in deliberative bodies of local government (%)',
+            seriesCount: '267',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2018,
+            value: '11.98428',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Compiled by UNECA African Centre for Statistics and UN Women',
+            geoInfoUrl: null,
+            footnotes: [
+                'Administrative data based on most recent election results (2018). Data cover only election results for contested seats (98% of all positions).',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.5.1',
+            ],
+        },
+    ],
+}

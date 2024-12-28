@@ -1,0 +1,128 @@
+{
+    size: 7700,
+    totalElements: 7700,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.1',
+            ],
+            indicator: [
+                '9.1.2',
+            ],
+            series: 'IS_RDP_FRGVOL',
+            seriesDescription: 'Freight volume, by mode of transport (tonne kilometres)',
+            seriesCount: '3075',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2017,
+            value: '21462557',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ICAO',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'T_KM',
+            },
+            dimensions: {
+                'Mode of transportation': 'AIR',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '9.1.2',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.1',
+            ],
+            indicator: [
+                '9.1.2',
+            ],
+            series: 'IS_RDP_PFVOL',
+            seriesDescription: 'Passenger volume (passenger kilometres), by mode of transport',
+            seriesCount: '2542',
+            geoAreaCode: '232',
+            geoAreaName: 'Eritrea',
+            timePeriodStart: 2019,
+            value: '75017341',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ICAO',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'P_KM',
+            },
+            dimensions: {
+                'Mode of transportation': 'AIR',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '9.1.2',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.1',
+            ],
+            indicator: [
+                '9.1.2',
+            ],
+            series: 'IS_RDP_LULFRG',
+            seriesDescription: 'Freight loaded and unloaded, maritime transport (metric tons)',
+            seriesCount: '147',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2020,
+            value: '21279342105.6688',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: UNCTAD Review of Maritime Transport, 2021 and UNCTADstat (https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx?ReportId=32363).',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'METONS',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Mode of transportation': 'SEA',
+            },
+            key: [
+                '9.1.2',
+            ],
+        },
+    ],
+}

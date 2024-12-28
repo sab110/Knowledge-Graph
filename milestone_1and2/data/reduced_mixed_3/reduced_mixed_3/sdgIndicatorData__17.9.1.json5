@@ -1,0 +1,125 @@
+{
+    size: 3627,
+    totalElements: 3627,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.9',
+            ],
+            indicator: [
+                '17.9.1',
+            ],
+            series: 'DC_FTA_TOTAL',
+            seriesDescription: 'Total official development assistance (gross disbursement) for technical cooperation (millions of 2019 United States dollars)',
+            seriesCount: '3627',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '3.0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Commitments; Based on OECD, CRS databased, 2021; Constant 2019 USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.9.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.9',
+            ],
+            indicator: [
+                '17.9.1',
+            ],
+            series: 'DC_FTA_TOTAL',
+            seriesDescription: 'Total official development assistance (gross disbursement) for technical cooperation (millions of 2019 United States dollars)',
+            seriesCount: '3627',
+            geoAreaCode: '454',
+            geoAreaName: 'Malawi',
+            timePeriodStart: 2004,
+            value: '55.99303',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Gross disbursements; Based on OECD, CRS databased, 2021; Constant 2019 USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.9.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.9',
+            ],
+            indicator: [
+                '17.9.1',
+            ],
+            series: 'DC_FTA_TOTAL',
+            seriesDescription: 'Total official development assistance (gross disbursement) for technical cooperation (millions of 2019 United States dollars)',
+            seriesCount: '3627',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '29.42549',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Gross disbursements; Based on OECD, CRS databased, 2021; Constant 2019 USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.9.1',
+            ],
+        },
+    ],
+}

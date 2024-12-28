@@ -1,0 +1,137 @@
+{
+    size: 107151,
+    totalElements: 107151,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.1',
+            ],
+            indicator: [
+                '4.1.2',
+            ],
+            series: 'SE_TOT_CPLR',
+            seriesDescription: 'Completion rate, by sex, location, wealth quintile and education level (%)',
+            seriesCount: '107151',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '3',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Estimated using the Adjusted Bayesian Completion Rates estimation model using household survey data [https://osf.io/preprints/socarxiv/at368/]; Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'ALLAREA',
+                Sex: 'FEMALE',
+                'Education level': 'UPPSEC',
+                'Reporting Type': 'G',
+                Quantile: '_T',
+            },
+            key: [
+                '4.1.2',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.1',
+            ],
+            indicator: [
+                '4.1.2',
+            ],
+            series: 'SE_TOT_CPLR',
+            seriesDescription: 'Completion rate, by sex, location, wealth quintile and education level (%)',
+            seriesCount: '107151',
+            geoAreaCode: '398',
+            geoAreaName: 'Kazakhstan',
+            timePeriodStart: 2006,
+            value: '99.10319',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Kazakhstan MICS 2006. The survey collected data on school attendance for age 5-24 and educational attainment for age 5 and above.; Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'ALLAREA',
+                Sex: 'BOTHSEX',
+                'Education level': 'LOWSEC',
+                'Reporting Type': 'G',
+                Quantile: 'Q1',
+            },
+            key: [
+                '4.1.2',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.1',
+            ],
+            indicator: [
+                '4.1.2',
+            ],
+            series: 'SE_TOT_CPLR',
+            seriesDescription: 'Completion rate, by sex, location, wealth quintile and education level (%)',
+            seriesCount: '107151',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '8.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Estimated using the Adjusted Bayesian Completion Rates estimation model using household survey data [https://osf.io/preprints/socarxiv/at368/]; Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'ALLAREA',
+                Sex: 'BOTHSEX',
+                'Education level': 'UPPSEC',
+                'Reporting Type': 'G',
+                Quantile: '_T',
+            },
+            key: [
+                '4.1.2',
+            ],
+        },
+    ],
+}

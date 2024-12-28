@@ -1,0 +1,129 @@
+{
+    size: 1557,
+    totalElements: 1557,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.3',
+            ],
+            indicator: [
+                '12.3.1',
+            ],
+            series: 'AG_FLS_IDX',
+            seriesDescription: 'Food loss percentage (%)',
+            seriesCount: '39',
+            geoAreaCode: '53',
+            geoAreaName: 'Australia and New Zealand',
+            timePeriodStart: 2016,
+            value: '5.8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'FAO',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.3.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.3',
+            ],
+            indicator: [
+                '12.3.1',
+            ],
+            series: 'AG_FOOD_WST_PC',
+            seriesDescription: 'Food waste per capita (KG)',
+            seriesCount: '759',
+            geoAreaCode: '11',
+            geoAreaName: 'Western Africa',
+            timePeriodStart: 2019,
+            value: '27.04523',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Food Waste Index Report 2021 / WESR',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'KG',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Food Waste Sector': 'OOHC',
+            },
+            key: [
+                '12.3.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.3',
+            ],
+            indicator: [
+                '12.3.1',
+            ],
+            series: 'AG_FOOD_WST',
+            seriesDescription: 'Food waste (Tonnes)',
+            seriesCount: '759',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '229058.96789',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Food Waste Index Report 2021 / WESR',
+            geoInfoUrl: null,
+            footnotes: [
+                'Very Low Confidence',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'TONNES',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Food Waste Sector': 'RTL',
+            },
+            key: [
+                '12.3.1',
+            ],
+        },
+    ],
+}

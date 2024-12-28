@@ -1,0 +1,125 @@
+{
+    size: 149,
+    totalElements: 149,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.16',
+            ],
+            indicator: [
+                '17.16.1',
+            ],
+            series: 'SG_PLN_MSTKSDG_P',
+            seriesDescription: 'Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Provider (1 = YES; 0 = NO)',
+            seriesCount: '57',
+            geoAreaCode: '36',
+            geoAreaName: 'Australia',
+            timePeriodStart: 2018,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Provider',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.16.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.16',
+            ],
+            indicator: [
+                '17.16.1',
+            ],
+            series: 'SG_PLN_MSTKSDG_R',
+            seriesDescription: 'Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Recipient (1 = YES; 0 = NO)',
+            seriesCount: '92',
+            geoAreaCode: '384',
+            geoAreaName: "Côte d'Ivoire",
+            timePeriodStart: 2016,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Recipient',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.16.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.16',
+            ],
+            indicator: [
+                '17.16.1',
+            ],
+            series: 'SG_PLN_MSTKSDG_R',
+            seriesDescription: 'Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Recipient (1 = YES; 0 = NO)',
+            seriesCount: '92',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2018,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Recipient',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.16.1',
+            ],
+        },
+    ],
+}

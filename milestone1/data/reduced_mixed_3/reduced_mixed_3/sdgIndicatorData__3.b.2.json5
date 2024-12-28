@@ -1,0 +1,125 @@
+{
+    size: 5183,
+    totalElements: 5183,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.b',
+            ],
+            indicator: [
+                '3.b.2',
+            ],
+            series: 'DC_TOF_HLTHNT',
+            seriesDescription: 'Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2019 United States dollars)',
+            seriesCount: '1753',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2010,
+            value: '130',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Net Disbursements; Based on OECD, CRS databased, 2021; Constant 2019 USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.b.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.b',
+            ],
+            indicator: [
+                '3.b.2',
+            ],
+            series: 'DC_TOF_HLTHL',
+            seriesDescription: 'Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2019 United States dollars)',
+            seriesCount: '3430',
+            geoAreaCode: '515',
+            geoAreaName: 'Developing regions',
+            timePeriodStart: 2006,
+            value: '4510.78315',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Gross disbursements; Based on OECD, CRS databased, 2021; Constant 2019 USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.b.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.b',
+            ],
+            indicator: [
+                '3.b.2',
+            ],
+            series: 'DC_TOF_HLTHL',
+            seriesDescription: 'Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2019 United States dollars)',
+            seriesCount: '3430',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '117.77401',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Gross disbursements; Based on OECD, CRS databased, 2021; Constant 2019 USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.b.2',
+            ],
+        },
+    ],
+}

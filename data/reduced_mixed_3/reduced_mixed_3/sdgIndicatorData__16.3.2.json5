@@ -1,0 +1,125 @@
+{
+    size: 531,
+    totalElements: 531,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.3',
+            ],
+            indicator: [
+                '16.3.2',
+            ],
+            series: 'VC_PRS_UNSNT',
+            seriesDescription: 'Unsentenced detainees as a proportion of overall prison population (%)',
+            seriesCount: '531',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2005,
+            value: '81.0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Prison Brief - Institute for Crime and Justice Policy Research (WPB-ICPR)',
+            geoInfoUrl: null,
+            footnotes: [
+                '2005: Data refer to 3 year average 2003-2005',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.3.2',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.3',
+            ],
+            indicator: [
+                '16.3.2',
+            ],
+            series: 'VC_PRS_UNSNT',
+            seriesDescription: 'Unsentenced detainees as a proportion of overall prison population (%)',
+            seriesCount: '531',
+            geoAreaCode: '414',
+            geoAreaName: 'Kuwait',
+            timePeriodStart: 2015,
+            value: '8.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Prison Brief - Institute for Crime and Justice Policy Research (WPB-ICPR)',
+            geoInfoUrl: null,
+            footnotes: [
+                '2015: Data refer to 3 year average 2013-2015',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.3.2',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.3',
+            ],
+            indicator: [
+                '16.3.2',
+            ],
+            series: 'VC_PRS_UNSNT',
+            seriesDescription: 'Unsentenced detainees as a proportion of overall prison population (%)',
+            seriesCount: '531',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2018,
+            value: '16.5',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Survey on Crime Trends and Operations of Criminal Justice Systems and World Prison Brief-Institute for Crime and Justice Policy Research (WPB-ICPR)',
+            geoInfoUrl: null,
+            footnotes: [
+                '2018: Data refer to 3 year average 2016-2018',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.3.2',
+            ],
+        },
+    ],
+}

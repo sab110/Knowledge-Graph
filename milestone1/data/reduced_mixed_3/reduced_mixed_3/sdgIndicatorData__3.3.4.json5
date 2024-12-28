@@ -1,0 +1,128 @@
+{
+    size: 321,
+    totalElements: 321,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.4',
+            ],
+            series: 'SH_HAP_HBSAG',
+            seriesDescription: 'Prevalence of hepatitis B surface antigen (HBsAg) (%)',
+            seriesCount: '321',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2015,
+            value: '0.5',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '0.78',
+            lowerBound: '0.29',
+            basePeriod: null,
+            source: 'Based on serosurveys at city, subnational or national level. World Health Organisation (WHO).',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '<5Y',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.3.4',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.4',
+            ],
+            series: 'SH_HAP_HBSAG',
+            seriesDescription: 'Prevalence of hepatitis B surface antigen (HBsAg) (%)',
+            seriesCount: '321',
+            geoAreaCode: '199',
+            geoAreaName: 'Least Developed Countries (LDCs)',
+            timePeriodStart: 2018,
+            value: '2.09',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '2.54',
+            lowerBound: '1.74',
+            basePeriod: null,
+            source: 'Based on serosurveys at city, subnational or national level. World Health Organisation (WHO).',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '<5Y',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.3.4',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.4',
+            ],
+            series: 'SH_HAP_HBSAG',
+            seriesDescription: 'Prevalence of hepatitis B surface antigen (HBsAg) (%)',
+            seriesCount: '321',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '2.74',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '3.27',
+            lowerBound: '2.26',
+            basePeriod: null,
+            source: 'Based on serosurveys at city, subnational or national level. World Health Organisation (WHO).',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '<5Y',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.3.4',
+            ],
+        },
+    ],
+}

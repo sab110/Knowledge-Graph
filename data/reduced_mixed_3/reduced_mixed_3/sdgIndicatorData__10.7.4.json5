@@ -1,0 +1,125 @@
+{
+    size: 6468,
+    totalElements: 6468,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.7',
+            ],
+            indicator: [
+                '10.7.4',
+            ],
+            series: 'SM_POP_REFG_OR',
+            seriesDescription: 'Number of refugees per 100,000 population, by country of origin (per 100,000 population)',
+            seriesCount: '6468',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '14721.899',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNHCR based on National data on refugee populations, available at UNHCR refugee statistics (https://www.unhcr.org/refugee-statistics/), and National population estimates, available in the World Population Prospects (https://population.un.org/wpp/).',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.7.4',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.7',
+            ],
+            indicator: [
+                '10.7.4',
+            ],
+            series: 'SM_POP_REFG_OR',
+            seriesDescription: 'Number of refugees per 100,000 population, by country of origin (per 100,000 population)',
+            seriesCount: '6468',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2021,
+            value: '87.36441',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNHCR based on National data on refugee populations, available at UNHCR refugee statistics (https://www.unhcr.org/refugee-statistics/), and National population estimates, available in the World Population Prospects (https://population.un.org/wpp/).',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.7.4',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.7',
+            ],
+            indicator: [
+                '10.7.4',
+            ],
+            series: 'SM_POP_REFG_OR',
+            seriesDescription: 'Number of refugees per 100,000 population, by country of origin (per 100,000 population)',
+            seriesCount: '6468',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2021,
+            value: '56.01091',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNHCR based on National data on refugee populations, available at UNHCR refugee statistics (https://www.unhcr.org/refugee-statistics/), and National population estimates, available in the World Population Prospects (https://population.un.org/wpp/).',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.7.4',
+            ],
+        },
+    ],
+}

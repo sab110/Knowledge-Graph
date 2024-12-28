@@ -1,0 +1,125 @@
+{
+    size: 1407,
+    totalElements: 1407,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.b',
+            ],
+            indicator: [
+                '2.b.1',
+            ],
+            series: 'AG_PRD_XSUBDY',
+            seriesDescription: 'Agricultural export subsidies (millions of current United States dollars)',
+            seriesCount: '1407',
+            geoAreaCode: '2',
+            geoAreaName: 'Africa',
+            timePeriodStart: 1995,
+            value: '40.66342',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Trade Organization',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CU_USD_M',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.b.1',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.b',
+            ],
+            indicator: [
+                '2.b.1',
+            ],
+            series: 'AG_PRD_XSUBDY',
+            seriesDescription: 'Agricultural export subsidies (millions of current United States dollars)',
+            seriesCount: '1407',
+            geoAreaCode: '554',
+            geoAreaName: 'New Zealand',
+            timePeriodStart: 1998,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Trade Organization',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CU_USD_M',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.b.1',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.b',
+            ],
+            indicator: [
+                '2.b.1',
+            ],
+            series: 'AG_PRD_XSUBDY',
+            seriesDescription: 'Agricultural export subsidies (millions of current United States dollars)',
+            seriesCount: '1407',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2019,
+            value: '58.42272',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Trade Organization',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CU_USD_M',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.b.1',
+            ],
+        },
+    ],
+}

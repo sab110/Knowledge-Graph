@@ -1,0 +1,134 @@
+{
+    size: 267,
+    totalElements: 267,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.6',
+            ],
+            indicator: [
+                '4.6.1',
+            ],
+            series: 'SE_ADT_FUNS',
+            seriesDescription: 'Proportion of population achieving at least a fixed level of proficiency in functional skills, by sex, age and type of skill (%)',
+            seriesCount: '267',
+            geoAreaCode: '51',
+            geoAreaName: 'Armenia',
+            timePeriodStart: 2013,
+            value: '98.9712',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Skills Towards Employability and Productivity (STEP) of World Bank Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '16-65',
+                Sex: 'BOTHSEX',
+                'Type of skill': 'LITE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.6.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.6',
+            ],
+            indicator: [
+                '4.6.1',
+            ],
+            series: 'SE_ADT_FUNS',
+            seriesDescription: 'Proportion of population achieving at least a fixed level of proficiency in functional skills, by sex, age and type of skill (%)',
+            seriesCount: '267',
+            geoAreaCode: '440',
+            geoAreaName: 'Lithuania',
+            timePeriodStart: 2015,
+            value: '83.18726',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Programme for the International Assessment of Adult Competencies (PIAAC) Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '16-65',
+                Sex: 'MALE',
+                'Type of skill': 'LITE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.6.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.6',
+            ],
+            indicator: [
+                '4.6.1',
+            ],
+            series: 'SE_ADT_FUNS',
+            seriesDescription: 'Proportion of population achieving at least a fixed level of proficiency in functional skills, by sex, age and type of skill (%)',
+            seriesCount: '267',
+            geoAreaCode: '704',
+            geoAreaName: 'Viet Nam',
+            timePeriodStart: 2012,
+            value: '95.1204',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Skills Towards Employability and Productivity (STEP) of World Bank Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '16-65',
+                Sex: 'BOTHSEX',
+                'Type of skill': 'LITE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.6.1',
+            ],
+        },
+    ],
+}

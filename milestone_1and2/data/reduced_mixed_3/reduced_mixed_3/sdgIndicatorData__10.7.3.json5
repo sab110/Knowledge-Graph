@@ -1,0 +1,125 @@
+{
+    size: 2538,
+    totalElements: 2538,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.7',
+            ],
+            indicator: [
+                '10.7.3',
+            ],
+            series: 'SM_DTH_MIGR',
+            seriesDescription: 'Total deaths and disappearances recorded during migration (number)',
+            seriesCount: '2538',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2014,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IOM Missing Migrant Project',
+            geoInfoUrl: null,
+            footnotes: [
+                'Not provided or not available',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.7.3',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.7',
+            ],
+            indicator: [
+                '10.7.3',
+            ],
+            series: 'SM_DTH_MIGR',
+            seriesDescription: 'Total deaths and disappearances recorded during migration (number)',
+            seriesCount: '2538',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2022,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IOM Missing Migrant Project',
+            geoInfoUrl: null,
+            footnotes: [
+                'Not provided or not available',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.7.3',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.7',
+            ],
+            indicator: [
+                '10.7.3',
+            ],
+            series: 'SM_DTH_MIGR',
+            seriesDescription: 'Total deaths and disappearances recorded during migration (number)',
+            seriesCount: '2538',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2022,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IOM Missing Migrant Project',
+            geoInfoUrl: null,
+            footnotes: [
+                'Not provided or not available',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.7.3',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,134 @@
+{
+    size: 8336,
+    totalElements: 8336,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.8',
+            ],
+            indicator: [
+                '8.8.1',
+            ],
+            series: 'SL_EMP_FTLINJUR',
+            seriesDescription: 'Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)',
+            seriesCount: '4199',
+            geoAreaCode: '12',
+            geoAreaName: 'Algeria',
+            timePeriodStart: 2000,
+            value: '27.3',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: ADM-IR - Insurance Records',
+            geoInfoUrl: null,
+            footnotes: [
+                "Coverage of occupational injuries: Compensated injuries | Type of rate: Incidence rate (per 100'000 persons insured)",
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_100000_EMP',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Migratory status': '_T',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.8.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.8',
+            ],
+            indicator: [
+                '8.8.1',
+            ],
+            series: 'SL_EMP_FTLINJUR',
+            seriesDescription: 'Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)',
+            seriesCount: '4199',
+            geoAreaCode: '860',
+            geoAreaName: 'Uzbekistan',
+            timePeriodStart: 2017,
+            value: '10',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: OE - Official Estimates',
+            geoInfoUrl: null,
+            footnotes: [
+                'Coverage of occupational injuries: Reported injuries | Type of cases of occupational injuries: Cases of occupational injury',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_100000_EMP',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Migratory status': '_T',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.8.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.8',
+            ],
+            indicator: [
+                '8.8.1',
+            ],
+            series: 'SL_EMP_INJUR',
+            seriesDescription: 'Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)',
+            seriesCount: '4137',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2012,
+            value: '250.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Source: ADM-IR - Records of the National Social Security',
+            geoInfoUrl: null,
+            footnotes: [
+                'Data reference period: End of the year | Coverage of occupational injuries: Compensated injuries | Type of cases of occupational injuries: Cases of occupational injury | Minimum period of absence from work: No minimum period of absence',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_100000_EMP',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Migratory status': '_T',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.8.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,125 @@
+{
+    size: 6555,
+    totalElements: 6555,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.5',
+            ],
+            indicator: [
+                '2.5.2',
+            ],
+            series: 'ER_RSK_LBREDS',
+            seriesDescription: 'Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%)',
+            seriesCount: '6555',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'DAD-IS 1.2.2022 http://www.fao.org/dad-is/',
+            geoInfoUrl: null,
+            footnotes: [
+                'No information on local breeds',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.5.2',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.5',
+            ],
+            indicator: [
+                '2.5.2',
+            ],
+            series: 'ER_RSK_LBREDS',
+            seriesDescription: 'Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%)',
+            seriesCount: '6555',
+            geoAreaCode: '426',
+            geoAreaName: 'Lesotho',
+            timePeriodStart: 2011,
+            value: '100',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'DAD-IS 1.2.2022 http://www.fao.org/dad-is/',
+            geoInfoUrl: null,
+            footnotes: [
+                'Out of 10 local breeds, 90% are of unknown status',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.5.2',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.5',
+            ],
+            indicator: [
+                '2.5.2',
+            ],
+            series: 'ER_RSK_LBREDS',
+            seriesDescription: 'Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%)',
+            seriesCount: '6555',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2022,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'DAD-IS 1.2.2022 http://www.fao.org/dad-is/',
+            geoInfoUrl: null,
+            footnotes: [
+                'Out of 4 local breeds, 100% are of unknown status',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.5.2',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,128 @@
+{
+    size: 495,
+    totalElements: 495,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.4',
+            ],
+            indicator: [
+                '10.4.2',
+            ],
+            series: 'SI_DST_FISP',
+            seriesDescription: 'Redistributive impact of fiscal policy, Gini index (%)',
+            seriesCount: '495',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2015,
+            value: '34.52',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank (collection agencies specified in footnote)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Source: World Bank. Based on data from: Household Budget Survey 2015; Contributory pensions are treated as deferred income; Main welfare variable: Consumption; it excludes imputed rent for owner-occupied housing.',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Fiscal intervention stage': 'POSTFIS_DIS_INC',
+            },
+            key: [
+                '10.4.2',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.4',
+            ],
+            indicator: [
+                '10.4.2',
+            ],
+            series: 'SI_DST_FISP',
+            seriesDescription: 'Redistributive impact of fiscal policy, Gini index (%)',
+            seriesCount: '495',
+            geoAreaCode: '392',
+            geoAreaName: 'Japan',
+            timePeriodStart: 2016,
+            value: '40.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank (collection agencies specified in footnote)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Source: OECD. Based on data from: Comprehensive Survey of Living Conditions. National Institute of Population and Social Security Research (IPSS); Contributory pensions are treated as deferred income; Main welfare variable: Income, equivalized; it excludes imputed rent for owner-occupied housing but includes consumption from own-production.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Fiscal intervention stage': 'PREFIS_INC',
+            },
+            key: [
+                '10.4.2',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.4',
+            ],
+            indicator: [
+                '10.4.2',
+            ],
+            series: 'SI_DST_FISP',
+            seriesDescription: 'Redistributive impact of fiscal policy, Gini index (%)',
+            seriesCount: '495',
+            geoAreaCode: '894',
+            geoAreaName: 'Zambia',
+            timePeriodStart: 2015,
+            value: '54.27924',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank (collection agencies specified in footnote)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Source: World Bank & International Monetary Fund. Based on data from: Living Conditions Monitoring Survey (LCMS) 2015; Contributory pensions are treated as deferred income; Main welfare variable: Consumption, per capita; it includes imputed rent for owner-occupied housing and consumption from own-production.',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Fiscal intervention stage': 'POSTFIS_CON_INC',
+            },
+            key: [
+                '10.4.2',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,125 @@
+{
+    size: 4928,
+    totalElements: 4928,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.2',
+            ],
+            series: 'SH_TBS_INCD',
+            seriesDescription: 'Tuberculosis incidence (per 100,000 population)',
+            seriesCount: '4928',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '190',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '271',
+            lowerBound: '122',
+            basePeriod: null,
+            source: 'WHO Global Tuberculosis Report 2021 (https://www.who.int/teams/global-tuberculosis-programme/data)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Data extracted as of 5 January 2022, based on data originally compiled for the 2021 WHO Global TB Report',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.3.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.2',
+            ],
+            series: 'SH_TBS_INCD',
+            seriesDescription: 'Tuberculosis incidence (per 100,000 population)',
+            seriesCount: '4928',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2016,
+            value: '11',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '13',
+            lowerBound: '9.7',
+            basePeriod: null,
+            source: 'WHO Global Tuberculosis Report 2021 (https://www.who.int/teams/global-tuberculosis-programme/data)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Data extracted as of 5 January 2022, based on data originally compiled for the 2021 WHO Global TB Report',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.3.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.2',
+            ],
+            series: 'SH_TBS_INCD',
+            seriesDescription: 'Tuberculosis incidence (per 100,000 population)',
+            seriesCount: '4928',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '193',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '251',
+            lowerBound: '142',
+            basePeriod: null,
+            source: 'WHO Global Tuberculosis Report 2021 (https://www.who.int/teams/global-tuberculosis-programme/data)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Data extracted as of 5 January 2022, based on data originally compiled for the 2021 WHO Global TB Report',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.3.2',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,128 @@
+{
+    size: 3241,
+    totalElements: 3241,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.2',
+            ],
+            indicator: [
+                '9.2.2',
+            ],
+            series: 'SL_TLF_MANF',
+            seriesDescription: 'Manufacturing employment as a proportion of total employment (%)',
+            seriesCount: '3241',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2008,
+            value: '4.6',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'AFG - HIES - Living Conditions Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_C',
+            },
+            key: [
+                '9.2.2',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.2',
+            ],
+            indicator: [
+                '9.2.2',
+            ],
+            series: 'SL_TLF_MANF',
+            seriesDescription: 'Manufacturing employment as a proportion of total employment (%)',
+            seriesCount: '3241',
+            geoAreaCode: '440',
+            geoAreaName: 'Lithuania',
+            timePeriodStart: 2000,
+            value: '18.2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'LTU - LFS - EU Labour Force Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: Eurostat special tabulation',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_C',
+            },
+            key: [
+                '9.2.2',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.2',
+            ],
+            indicator: [
+                '9.2.2',
+            ],
+            series: 'SL_TLF_MANF',
+            seriesDescription: 'Manufacturing employment as a proportion of total employment (%)',
+            seriesCount: '3241',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '7.6',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ZWE - LFS - Labour Force Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_C',
+            },
+            key: [
+                '9.2.2',
+            ],
+        },
+    ],
+}

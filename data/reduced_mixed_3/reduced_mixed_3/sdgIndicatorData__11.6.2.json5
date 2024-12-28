@@ -1,0 +1,128 @@
+{
+    size: 3618,
+    totalElements: 3618,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.6',
+            ],
+            indicator: [
+                '11.6.2',
+            ],
+            series: 'EN_ATM_PM25',
+            seriesDescription: 'Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)',
+            seriesCount: '3618',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2011,
+            value: '50.30384',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'mgr/m^3',
+            },
+            dimensions: {
+                Location: 'ALLAREA',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.6.2',
+            ],
+        },
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.6',
+            ],
+            indicator: [
+                '11.6.2',
+            ],
+            series: 'EN_ATM_PM25',
+            seriesDescription: 'Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)',
+            seriesCount: '3618',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2015,
+            value: '32.27046',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'mgr/m^3',
+            },
+            dimensions: {
+                Location: 'ALLAREA',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.6.2',
+            ],
+        },
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.6',
+            ],
+            indicator: [
+                '11.6.2',
+            ],
+            series: 'EN_ATM_PM25',
+            seriesDescription: 'Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)',
+            seriesCount: '3618',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2016,
+            value: '24.56339',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'mgr/m^3',
+            },
+            dimensions: {
+                Location: 'URBAN',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.6.2',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,125 @@
+{
+    size: 252,
+    totalElements: 252,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.5',
+            ],
+            indicator: [
+                '17.5.1',
+            ],
+            series: 'SG_CPA_SIGN_BIT',
+            seriesDescription: 'Number of countries with a signed bilateral investment treaty (BIT) (Number)',
+            seriesCount: '126',
+            geoAreaCode: '515',
+            geoAreaName: 'Developing regions',
+            timePeriodStart: 1959,
+            value: '2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'https://investmentpolicy.unctad.org/international-investment-agreements#',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.5.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.5',
+            ],
+            indicator: [
+                '17.5.1',
+            ],
+            series: 'SG_CPA_SIGN_BIT',
+            seriesDescription: 'Number of countries with a signed bilateral investment treaty (BIT) (Number)',
+            seriesCount: '126',
+            geoAreaCode: '199',
+            geoAreaName: 'Least Developed Countries (LDCs)',
+            timePeriodStart: 2021,
+            value: '120',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'https://investmentpolicy.unctad.org/international-investment-agreements#',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.5.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.5',
+            ],
+            indicator: [
+                '17.5.1',
+            ],
+            series: 'SG_CPA_INFORCE_BIT',
+            seriesDescription: 'Number of countries with an inforce bilateral investment treaty (BIT) (Number)',
+            seriesCount: '126',
+            geoAreaCode: '199',
+            geoAreaName: 'Least Developed Countries (LDCs)',
+            timePeriodStart: 2021,
+            value: '102',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'https://investmentpolicy.unctad.org/international-investment-agreements#',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.5.1',
+            ],
+        },
+    ],
+}

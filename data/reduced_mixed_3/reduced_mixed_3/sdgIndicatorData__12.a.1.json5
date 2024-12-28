@@ -1,0 +1,140 @@
+{
+    size: 17894,
+    totalElements: 17894,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '7',
+                '12',
+            ],
+            target: [
+                '7.b',
+                '12.a',
+            ],
+            indicator: [
+                '7.b.1',
+                '12.a.1',
+            ],
+            series: 'EG_EGY_RNEW',
+            seriesDescription: 'Installed renewable electricity-generating capacity (watts per capita)',
+            seriesCount: '17894',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: "Renewable electricity generating capacity from IRENA's electricity capacity database. Population data from the United Nations World Population Prospects.",
+            geoInfoUrl: null,
+            footnotes: [
+                'Year-end value for installed capacity (watts) and mid-year for population ',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'W_PER_CAPITA',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Type of renewable technology': 'SOLAR',
+            },
+            key: [
+                '7.b.1',
+                '12.a.1',
+            ],
+        },
+        {
+            goal: [
+                '7',
+                '12',
+            ],
+            target: [
+                '7.b',
+                '12.a',
+            ],
+            indicator: [
+                '7.b.1',
+                '12.a.1',
+            ],
+            series: 'EG_EGY_RNEW',
+            seriesDescription: 'Installed renewable electricity-generating capacity (watts per capita)',
+            seriesCount: '17894',
+            geoAreaCode: '450',
+            geoAreaName: 'Madagascar',
+            timePeriodStart: 2004,
+            value: '0.006',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: "Renewable electricity generating capacity from IRENA's electricity capacity database. Population data from the United Nations World Population Prospects.",
+            geoInfoUrl: null,
+            footnotes: [
+                'Year-end value for installed capacity (watts) and mid-year for population ',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'W_PER_CAPITA',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Type of renewable technology': 'SOLAR',
+            },
+            key: [
+                '7.b.1',
+                '12.a.1',
+            ],
+        },
+        {
+            goal: [
+                '7',
+                '12',
+            ],
+            target: [
+                '7.b',
+                '12.a',
+            ],
+            indicator: [
+                '7.b.1',
+                '12.a.1',
+            ],
+            series: 'EG_EGY_RNEW',
+            seriesDescription: 'Installed renewable electricity-generating capacity (watts per capita)',
+            seriesCount: '17894',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '1.143',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: "Renewable electricity generating capacity from IRENA's electricity capacity database. Population data from the United Nations World Population Prospects.",
+            geoInfoUrl: null,
+            footnotes: [
+                'Year-end value for installed capacity (watts) and mid-year for population ',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'W_PER_CAPITA',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Type of renewable technology': 'SOLAR',
+            },
+            key: [
+                '7.b.1',
+                '12.a.1',
+            ],
+        },
+    ],
+}

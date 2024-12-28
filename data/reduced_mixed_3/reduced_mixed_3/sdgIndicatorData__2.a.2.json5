@@ -1,0 +1,125 @@
+{
+    size: 3563,
+    totalElements: 3563,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.a',
+            ],
+            indicator: [
+                '2.a.2',
+            ],
+            series: 'DC_TOF_AGRL',
+            seriesDescription: 'Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2019 United States dollars)',
+            seriesCount: '3563',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '4.4',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Commitments; Based on OECD, CRS databased, 2021; Constant 2019 USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.a.2',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.a',
+            ],
+            indicator: [
+                '2.a.2',
+            ],
+            series: 'DC_TOF_AGRL',
+            seriesDescription: 'Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2019 United States dollars)',
+            seriesCount: '3563',
+            geoAreaCode: '450',
+            geoAreaName: 'Madagascar',
+            timePeriodStart: 2013,
+            value: '46.6',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Gross disbursements; Based on OECD, CRS databased, 2021; Constant 2019 USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.a.2',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.a',
+            ],
+            indicator: [
+                '2.a.2',
+            ],
+            series: 'DC_TOF_AGRL',
+            seriesDescription: 'Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2019 United States dollars)',
+            seriesCount: '3563',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '53.0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'The Organisation for Economic Co-operation and Development (OECD).',
+            geoInfoUrl: null,
+            footnotes: [
+                'Gross disbursements; Based on OECD, CRS databased, 2021; Constant 2019 USD million',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'CON_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.a.2',
+            ],
+        },
+    ],
+}

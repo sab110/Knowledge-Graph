@@ -1,0 +1,125 @@
+{
+    size: 1866,
+    totalElements: 1866,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '13',
+            ],
+            target: [
+                '13.2',
+            ],
+            indicator: [
+                '13.2.2',
+            ],
+            series: 'EN_ATM_GHGT_AIP',
+            seriesDescription: 'Total greenhouse gas emissions without LULUCF for Annex I Parties (Mt CO₂ equivalent)',
+            seriesCount: '1290',
+            geoAreaCode: '36',
+            geoAreaName: 'Australia',
+            timePeriodStart: 1990,
+            value: '423.67222',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNFCCC',
+            geoInfoUrl: null,
+            footnotes: [
+                'Party included in Annex I to the Convention (UNFCCC)',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'MT_CO2E',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '13.2.2',
+            ],
+        },
+        {
+            goal: [
+                '13',
+            ],
+            target: [
+                '13.2',
+            ],
+            indicator: [
+                '13.2.2',
+            ],
+            series: 'EN_ATM_GHGT_AIP',
+            seriesDescription: 'Total greenhouse gas emissions without LULUCF for Annex I Parties (Mt CO₂ equivalent)',
+            seriesCount: '1290',
+            geoAreaCode: '620',
+            geoAreaName: 'Portugal',
+            timePeriodStart: 1992,
+            value: '64.53604',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNFCCC',
+            geoInfoUrl: null,
+            footnotes: [
+                'Party included in Annex I to the Convention (UNFCCC)',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'MT_CO2E',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '13.2.2',
+            ],
+        },
+        {
+            goal: [
+                '13',
+            ],
+            target: [
+                '13.2',
+            ],
+            indicator: [
+                '13.2.2',
+            ],
+            series: 'EN_ATM_GHGT_NAIP',
+            seriesDescription: 'Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent)',
+            seriesCount: '576',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2006,
+            value: '21.18472',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNFCCC',
+            geoInfoUrl: null,
+            footnotes: [
+                'Party not included in Annex I to the Convention (UNFCCC)',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'MT_CO2E',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '13.2.2',
+            ],
+        },
+    ],
+}

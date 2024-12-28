@@ -1,0 +1,128 @@
+{
+    size: 7641,
+    totalElements: 7641,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.1',
+            ],
+            indicator: [
+                '6.1.1',
+            ],
+            series: 'SH_H2O_SAFE',
+            seriesDescription: 'Proportion of population using safely managed drinking water services, by urban/rural (%)',
+            seriesCount: '7641',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '11',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2021)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'ALLAREA',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.1.1',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.1',
+            ],
+            indicator: [
+                '6.1.1',
+            ],
+            series: 'SH_H2O_SAFE',
+            seriesDescription: 'Proportion of population using safely managed drinking water services, by urban/rural (%)',
+            seriesCount: '7641',
+            geoAreaCode: '450',
+            geoAreaName: 'Madagascar',
+            timePeriodStart: 2002,
+            value: '21',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2021)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'URBAN',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.1.1',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.1',
+            ],
+            indicator: [
+                '6.1.1',
+            ],
+            series: 'SH_H2O_SAFE',
+            seriesDescription: 'Proportion of population using safely managed drinking water services, by urban/rural (%)',
+            seriesCount: '7641',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '65',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2021)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'URBAN',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.1.1',
+            ],
+        },
+    ],
+}

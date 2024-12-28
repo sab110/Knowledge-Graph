@@ -1,0 +1,134 @@
+{
+    size: 7132,
+    totalElements: 7132,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.4',
+            ],
+            indicator: [
+                '5.4.1',
+            ],
+            series: 'SL_DOM_TSPDCW',
+            seriesDescription: 'Proportion of time spent on unpaid care work, by sex, age and location (%)',
+            seriesCount: '2290',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2011,
+            value: '0.34722',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Calculated by UNSD based on available country data from the Albanian time use survey (ATUS) 2010-2011 to apply ICATUS.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '10+',
+                Location: 'RURAL',
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.4.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.4',
+            ],
+            indicator: [
+                '5.4.1',
+            ],
+            series: 'SL_DOM_TSPDDC',
+            seriesDescription: 'Proportion of time spent on unpaid domestic chores, by sex, age and location (%)',
+            seriesCount: '2317',
+            geoAreaCode: '604',
+            geoAreaName: 'Peru',
+            timePeriodStart: 2010,
+            value: '23.12598',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Instituto Nacional de Estadística e Informática based on National Survey of Time Use 2010',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15+',
+                Location: 'RURAL',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.4.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.4',
+            ],
+            indicator: [
+                '5.4.1',
+            ],
+            series: 'SL_DOM_TSPD',
+            seriesDescription: 'Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%)',
+            seriesCount: '2525',
+            geoAreaCode: '858',
+            geoAreaName: 'Uruguay',
+            timePeriodStart: 2013,
+            value: '9.52425',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Data provided by the Economic Commission for Latin America and the Caribbean (ECLAC), on the basis of special tabulations from time-use survey.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'ALLAREA',
+                Sex: 'MALE',
+                Age: '65+',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.4.1',
+            ],
+        },
+    ],
+}

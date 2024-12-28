@@ -1,0 +1,128 @@
+{
+    size: 18916,
+    totalElements: 18916,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.4',
+            ],
+            indicator: [
+                '6.4.1',
+            ],
+            series: 'ER_H2O_WUEYST',
+            seriesDescription: 'Water Use Efficiency (United States dollars per cubic meter)',
+            seriesCount: '18916',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '0.06492',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Food and Agriculture Organisation of United Nations (FAO)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'USD/m3',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_A01_A0210_A0322',
+            },
+            key: [
+                '6.4.1',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.4',
+            ],
+            indicator: [
+                '6.4.1',
+            ],
+            series: 'ER_H2O_WUEYST',
+            seriesDescription: 'Water Use Efficiency (United States dollars per cubic meter)',
+            seriesCount: '18916',
+            geoAreaCode: '428',
+            geoAreaName: 'Latvia',
+            timePeriodStart: 2007,
+            value: '112.85805',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Food and Agriculture Organisation of United Nations (FAO)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'USD/m3',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'TOTAL',
+            },
+            key: [
+                '6.4.1',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.4',
+            ],
+            indicator: [
+                '6.4.1',
+            ],
+            series: 'ER_H2O_WUEYST',
+            seriesDescription: 'Water Use Efficiency (United States dollars per cubic meter)',
+            seriesCount: '18916',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '0.03872',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Food and Agriculture Organisation of United Nations (FAO)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'USD/m3',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_A01_A0210_A0322',
+            },
+            key: [
+                '6.4.1',
+            ],
+        },
+    ],
+}

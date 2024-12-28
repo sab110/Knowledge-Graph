@@ -1,0 +1,130 @@
+{
+    size: 72,
+    totalElements: 72,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.7',
+            ],
+            indicator: [
+                '12.7.1',
+            ],
+            series: 'SG_SCP_PROCN',
+            seriesDescription: 'Number of countries implementing sustainable public procurement policies and action plans',
+            seriesCount: '33',
+            geoAreaCode: '56',
+            geoAreaName: 'Belgium',
+            timePeriodStart: 2020,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Level/Status': 'MHIGIMP',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.7.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.7',
+            ],
+            indicator: [
+                '12.7.1',
+            ],
+            series: 'SG_SCP_PROCN_HS',
+            seriesDescription: 'Number of countries implementing sustainable public procurement policies and action plans at higher subnational level by level of implementation (1 = YES; 0 = NO)',
+            seriesCount: '30',
+            geoAreaCode: '616',
+            geoAreaName: 'Poland',
+            timePeriodStart: 2020,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Level/Status': 'MLOWIMP',
+                'Reporting Type': 'G',
+                Government_Name: 'SILESIAN_VOIVODESHIP',
+            },
+            key: [
+                '12.7.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.7',
+            ],
+            indicator: [
+                '12.7.1',
+            ],
+            series: 'SG_SCP_PROCN_LS',
+            seriesDescription: 'Number of countries implementing sustainable public procurement policies and action plans at lower subnational level by level of implementation (1 = YES; 0 = NO)',
+            seriesCount: '9',
+            geoAreaCode: '840',
+            geoAreaName: 'United States of America',
+            timePeriodStart: 2020,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Level/Status': 'MHIGIMP',
+                'Reporting Type': 'G',
+                Government_Name: 'KING_COUNTY_WASHINGTON',
+            },
+            key: [
+                '12.7.1',
+            ],
+        },
+    ],
+}

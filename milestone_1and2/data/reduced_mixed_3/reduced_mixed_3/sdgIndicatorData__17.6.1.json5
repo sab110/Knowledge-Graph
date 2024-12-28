@@ -1,0 +1,128 @@
+{
+    size: 15366,
+    totalElements: 15366,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.6',
+            ],
+            indicator: [
+                '17.6.1',
+            ],
+            series: 'IT_NET_BBNDN',
+            seriesDescription: 'Number of fixed Internet broadband subscriptions, by speed (number)',
+            seriesCount: '7343',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2004,
+            value: '200',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Ministry of Communications.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Type of speed': 'ANYS',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.6.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.6',
+            ],
+            indicator: [
+                '17.6.1',
+            ],
+            series: 'IT_NET_BBND',
+            seriesDescription: 'Fixed Internet broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants)',
+            seriesCount: '8023',
+            geoAreaCode: '51',
+            geoAreaName: 'Armenia',
+            timePeriodStart: 2020,
+            value: '5.69791',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100_POP',
+            },
+            dimensions: {
+                'Type of speed': '2MT10MBPS',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.6.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.6',
+            ],
+            indicator: [
+                '17.6.1',
+            ],
+            series: 'IT_NET_BBND',
+            seriesDescription: 'Fixed Internet broadband subscriptions per 100 inhabitants, by speed (per 100 inhabitants)',
+            seriesCount: '8023',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '1.36892',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100_POP',
+            },
+            dimensions: {
+                'Type of speed': 'ANYS',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.6.1',
+            ],
+        },
+    ],
+}

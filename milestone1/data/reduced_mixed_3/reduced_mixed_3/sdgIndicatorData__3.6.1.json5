@@ -1,0 +1,128 @@
+{
+    size: 2865,
+    totalElements: 2865,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.6',
+            ],
+            indicator: [
+                '3.6.1',
+            ],
+            series: 'SH_STA_TRAF',
+            seriesDescription: 'Death rate due to road traffic injuries, by sex (per 100,000 population)',
+            seriesCount: '2865',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '14.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '17.2',
+            lowerBound: '12.1',
+            basePeriod: null,
+            source: 'Global Health Estimates 2019: Deaths by Cause, Age, Sex, by Country and by Region, 2000-2019. Geneva, World Health Organization, 2020',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.6.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.6',
+            ],
+            indicator: [
+                '3.6.1',
+            ],
+            series: 'SH_STA_TRAF',
+            seriesDescription: 'Death rate due to road traffic injuries, by sex (per 100,000 population)',
+            seriesCount: '2865',
+            geoAreaCode: '419',
+            geoAreaName: 'Latin America and the Caribbean',
+            timePeriodStart: 2010,
+            value: '19.1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '21.1',
+            lowerBound: '17.3',
+            basePeriod: null,
+            source: 'Global Health Estimates 2019: Deaths by Cause, Age, Sex, by Country and by Region, 2000-2019. Geneva, World Health Organization, 2020',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.6.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.6',
+            ],
+            indicator: [
+                '3.6.1',
+            ],
+            series: 'SH_STA_TRAF',
+            seriesDescription: 'Death rate due to road traffic injuries, by sex (per 100,000 population)',
+            seriesCount: '2865',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '16.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '20.1',
+            lowerBound: '13.7',
+            basePeriod: null,
+            source: 'Global Health Estimates 2019: Deaths by Cause, Age, Sex, by Country and by Region, 2000-2019. Geneva, World Health Organization, 2020',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.6.1',
+            ],
+        },
+    ],
+}

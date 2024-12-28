@@ -1,0 +1,125 @@
+{
+    size: 3234,
+    totalElements: 3234,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.3',
+            ],
+            series: 'SH_STA_MALR',
+            seriesDescription: 'Malaria incidence per 1,000 population at risk (per 1,000 population)',
+            seriesCount: '3234',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '81.96956',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '126.26156',
+            lowerBound: '52.64548',
+            basePeriod: null,
+            source: 'WMR',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_1000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.3.3',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.3',
+            ],
+            series: 'SH_STA_MALR',
+            seriesDescription: 'Malaria incidence per 1,000 population at risk (per 1,000 population)',
+            seriesCount: '3234',
+            geoAreaCode: '199',
+            geoAreaName: 'Least Developed Countries (LDCs)',
+            timePeriodStart: 2020,
+            value: '179.50501',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '199.55106',
+            lowerBound: '163.06922',
+            basePeriod: null,
+            source: 'WMR',
+            geoInfoUrl: null,
+            footnotes: [
+                'Nature of data for some countries in this region are either (M) modelled, E(Estimated), CA (Country adjusted ) or  (C) Country data',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PER_1000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.3.3',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.3',
+            ],
+            indicator: [
+                '3.3.3',
+            ],
+            series: 'SH_STA_MALR',
+            seriesDescription: 'Malaria incidence per 1,000 population at risk (per 1,000 population)',
+            seriesCount: '3234',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '98.50933',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '140.938',
+            lowerBound: '59.09461',
+            basePeriod: null,
+            source: 'WMR',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PER_1000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.3.3',
+            ],
+        },
+    ],
+}

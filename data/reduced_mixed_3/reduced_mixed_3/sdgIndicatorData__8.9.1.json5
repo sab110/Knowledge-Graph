@@ -1,0 +1,125 @@
+{
+    size: 809,
+    totalElements: 809,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.9',
+            ],
+            indicator: [
+                '8.9.1',
+            ],
+            series: 'ST_GDP_ZS',
+            seriesDescription: 'Tourism direct GDP as a proportion of total GDP (%)',
+            seriesCount: '809',
+            geoAreaCode: '533',
+            geoAreaName: 'Aruba',
+            timePeriodStart: 2013,
+            value: '19.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Central Bureau of Statistics Aruba: National Accounts (2013-2017 / TDS (preliminary results)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Provisional data.\nThe TSA has indeed been implemented in 2013 and is based on the Supply and Use Tables (SUT) of the National Accounts. The SUT will be implemented again for the year 2023. \nFor the years in between, the data is collected from the same data sources, and are published as soon as the GDP data is published. The data also becomes final when the GDP data is final.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.9.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.9',
+            ],
+            indicator: [
+                '8.9.1',
+            ],
+            series: 'ST_GDP_ZS',
+            seriesDescription: 'Tourism direct GDP as a proportion of total GDP (%)',
+            seriesCount: '809',
+            geoAreaCode: '419',
+            geoAreaName: 'Latin America and the Caribbean',
+            timePeriodStart: 2016,
+            value: '4.6',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNWTO',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.9.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.9',
+            ],
+            indicator: [
+                '8.9.1',
+            ],
+            series: 'ST_GDP_ZS',
+            seriesDescription: 'Tourism direct GDP as a proportion of total GDP (%)',
+            seriesCount: '809',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2020,
+            value: '2.3',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNWTO',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.9.1',
+            ],
+        },
+    ],
+}

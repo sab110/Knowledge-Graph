@@ -1,0 +1,134 @@
+{
+    size: 3495,
+    totalElements: 3495,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.5',
+            ],
+            indicator: [
+                '3.5.2',
+            ],
+            series: 'SH_ALC_CONSPT',
+            seriesDescription: 'Alcohol consumption per capita (aged 15 years and older) within a calendar year (litres of pure alcohol)',
+            seriesCount: '3495',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '0.03544',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '0.09595',
+            lowerBound: '0.02855',
+            basePeriod: null,
+            source: 'WHO Global Information System on Alcohol and Health (GISAH)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'LTPUREAL',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.5.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.5',
+            ],
+            indicator: [
+                '3.5.2',
+            ],
+            series: 'SH_ALC_CONSPT',
+            seriesDescription: 'Alcohol consumption per capita (aged 15 years and older) within a calendar year (litres of pure alcohol)',
+            seriesCount: '3495',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2010,
+            value: '2.91746',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '3.82961',
+            lowerBound: '2.21638',
+            basePeriod: null,
+            source: 'WHO Global Information System on Alcohol and Health (GISAH)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'LTPUREAL',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.5.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.5',
+            ],
+            indicator: [
+                '3.5.2',
+            ],
+            series: 'SH_ALC_CONSPT',
+            seriesDescription: 'Alcohol consumption per capita (aged 15 years and older) within a calendar year (litres of pure alcohol)',
+            seriesCount: '3495',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '4.51536',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '5.60313',
+            lowerBound: '3.6602',
+            basePeriod: null,
+            source: 'WHO Global Information System on Alcohol and Health (GISAH)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'LTPUREAL',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                Age: '15+',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.5.2',
+            ],
+        },
+    ],
+}

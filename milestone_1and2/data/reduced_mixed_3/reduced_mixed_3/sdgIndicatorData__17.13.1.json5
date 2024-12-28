@@ -1,0 +1,125 @@
+{
+    size: 131046,
+    totalElements: 131046,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.13',
+            ],
+            indicator: [
+                '17.13.1',
+            ],
+            series: 'FB_BNK_CAPA_ZS',
+            seriesDescription: 'Bank capital to assets ratio (%)',
+            seriesCount: '1919',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2011,
+            value: '8.24541',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'International Monetary Fund, Financial Soundness Indicators.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.13.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.13',
+            ],
+            indicator: [
+                '17.13.1',
+            ],
+            series: 'NY_GDP_MKTP_KD_ZG',
+            seriesDescription: 'Annual GDP growth (%)',
+            seriesCount: '9752',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2003,
+            value: '3.2271',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank national accounts data, and OECD National Accounts data files.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.13.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.13',
+            ],
+            indicator: [
+                '17.13.1',
+            ],
+            series: 'DP_DOD_DLD2_CR_CG_Z1',
+            seriesDescription: 'Gross public sector debt, Central Government, as a proportion of GDP (%)',
+            seriesCount: '1138',
+            geoAreaCode: '840',
+            geoAreaName: 'United States of America',
+            timePeriodStart: 2021,
+            value: '110.01378',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank, Quarterly Public Sector Debt database.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Quarter threefour data of the year in reference',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.13.1',
+            ],
+        },
+    ],
+}

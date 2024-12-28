@@ -1,0 +1,128 @@
+{
+    size: 6770,
+    totalElements: 6770,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.2',
+            ],
+            indicator: [
+                '2.2.2',
+            ],
+            series: 'SH_STA_WAST',
+            seriesDescription: 'Proportion of children moderately or severely wasted (%)',
+            seriesCount: '684',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2004,
+            value: '8.6',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: 'NaN',
+            lowerBound: 'NaN',
+            basePeriod: null,
+            source: 'Summary report of the national nutrition survey, 2004. Kabul, Islamic Republic of Afghanistan: Ministry of Public Health and UNICEF, 2005.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Reduced age range Age 0-5 months not covered; unadjusted',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PER_POP_U5',
+            },
+            dimensions: {
+                Age: '<5Y',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.2.2',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.2',
+            ],
+            indicator: [
+                '2.2.2',
+            ],
+            series: 'SN_STA_OVWGTN',
+            seriesDescription: 'Children moderately or severely overweight (thousands)',
+            seriesCount: '4011',
+            geoAreaCode: '124',
+            geoAreaName: 'Canada',
+            timePeriodStart: 2016,
+            value: '224.4',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '396.3',
+            lowerBound: '121.1',
+            basePeriod: null,
+            source: "Source: Joint Child Malnutrition Estimates (2021 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group.",
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'NUM_TH',
+            },
+            dimensions: {
+                Age: '<5Y',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.2.2',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.2',
+            ],
+            indicator: [
+                '2.2.2',
+            ],
+            series: 'SN_STA_OVWGTN',
+            seriesDescription: 'Children moderately or severely overweight (thousands)',
+            seriesCount: '4011',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '75.8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '102.0',
+            lowerBound: '56.1',
+            basePeriod: null,
+            source: "Source: Joint Child Malnutrition Estimates (2021 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group.",
+            geoInfoUrl: null,
+            footnotes: [
+                'The estimates for the year 2020 do not account for the full impact of COVID-19.  Household survey data on child height and age were not collected in 2020 due to physical distancing policies. One of the covariates used in the country model takes the impact of COVID-19 partially into account. ',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'NUM_TH',
+            },
+            dimensions: {
+                Age: '<5Y',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.2.2',
+            ],
+        },
+    ],
+}

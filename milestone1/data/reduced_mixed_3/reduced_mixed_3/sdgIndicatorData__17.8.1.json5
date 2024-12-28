@@ -1,0 +1,125 @@
+{
+    size: 4846,
+    totalElements: 4846,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.8',
+            ],
+            indicator: [
+                '17.8.1',
+            ],
+            series: 'IT_USE_ii99',
+            seriesDescription: 'Internet users per 100 inhabitants',
+            seriesCount: '4846',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2001,
+            value: '0.00472',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ITU estimate.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.8.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.8',
+            ],
+            indicator: [
+                '17.8.1',
+            ],
+            series: 'IT_USE_ii99',
+            seriesDescription: 'Internet users per 100 inhabitants',
+            seriesCount: '4846',
+            geoAreaCode: '419',
+            geoAreaName: 'Latin America and the Caribbean',
+            timePeriodStart: 2011,
+            value: '39.325',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Data based on the World Telecommunication/ICT Indicators Database, 2021, International Telecommunication Union (ITU)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.8.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.8',
+            ],
+            indicator: [
+                '17.8.1',
+            ],
+            series: 'IT_USE_ii99',
+            seriesDescription: 'Internet users per 100 inhabitants',
+            seriesCount: '4846',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '29.3',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Zimbabwe National Statistics Agency (ZIMSTAT)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_100_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.8.1',
+            ],
+        },
+    ],
+}

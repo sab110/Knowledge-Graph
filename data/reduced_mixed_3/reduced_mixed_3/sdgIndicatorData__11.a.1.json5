@@ -1,0 +1,125 @@
+{
+    size: 265,
+    totalElements: 265,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.a',
+            ],
+            indicator: [
+                '11.a.1',
+            ],
+            series: 'SD_CPA_UPRDP',
+            seriesDescription: 'Countries that have national urban policies or regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space (1 = YES; 0 = NO)',
+            seriesCount: '265',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2020,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'NUP 2020 Status',
+            geoInfoUrl: null,
+            footnotes: [
+                'UN-Habitat Global Survey on National Urban Policies 2018 & 2020',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.a.1',
+            ],
+        },
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.a',
+            ],
+            indicator: [
+                '11.a.1',
+            ],
+            series: 'SD_CPA_UPRDP',
+            seriesDescription: 'Countries that have national urban policies or regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space (1 = YES; 0 = NO)',
+            seriesCount: '265',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2020,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'NUP 2020 Status',
+            geoInfoUrl: null,
+            footnotes: [
+                'UN-Habitat Global Survey on National Urban Policies 2018 & 2020',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.a.1',
+            ],
+        },
+        {
+            goal: [
+                '11',
+            ],
+            target: [
+                '11.a',
+            ],
+            indicator: [
+                '11.a.1',
+            ],
+            series: 'SD_CPA_UPRDP',
+            seriesDescription: 'Countries that have national urban policies or regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space (1 = YES; 0 = NO)',
+            seriesCount: '265',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'NUP 2020 Status',
+            geoInfoUrl: null,
+            footnotes: [
+                'UN-Habitat Global Survey on National Urban Policies 2018 & 2020',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '11.a.1',
+            ],
+        },
+    ],
+}

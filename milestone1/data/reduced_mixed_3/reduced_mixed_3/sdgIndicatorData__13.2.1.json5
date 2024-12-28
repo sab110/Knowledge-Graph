@@ -1,0 +1,127 @@
+{
+    size: 17,
+    totalElements: 17,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '13',
+            ],
+            target: [
+                '13.2',
+            ],
+            indicator: [
+                '13.2.1',
+            ],
+            series: 'EN_NACOM_NAIP',
+            seriesDescription: 'Number of countries with national communications, non-Annex I Parties (Number)',
+            seriesCount: '6',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2021,
+            value: '154',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNFCCC based on national communications from non-Annex I Parties - https://unfccc.int/non-annex-I-NCs',
+            geoInfoUrl: null,
+            footnotes: [
+                'This figure considers only non-Annex I Parties to the UNFCCC as listed in https://unfccc.int/process/parties-non-party-stakeholders/parties-convention-and-observer-states?field_national_communications_target_id%5B514%5D=514. Reports as at 15 February 2021.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Report Ordinal': 'FIRST',
+            },
+            key: [
+                '13.2.1',
+            ],
+        },
+        {
+            goal: [
+                '13',
+            ],
+            target: [
+                '13.2',
+            ],
+            indicator: [
+                '13.2.1',
+            ],
+            series: 'EN_BIUREP_NAIP',
+            seriesDescription: 'Number of countries with biennial update reports, non-Annex I Parties (Number)',
+            seriesCount: '4',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2021,
+            value: '12',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNFCCC based on biennial update reports from non-Annex I Parties - https://unfccc.int/BURs',
+            geoInfoUrl: null,
+            footnotes: [
+                'This figure considers only non-Annex I Parties to the UNFCCC as listed in https://unfccc.int/process/parties-non-party-stakeholders/parties-convention-and-observer-states?field_national_communications_target_id%5B514%5D=514. Reports as at 15 February 2021.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Report Ordinal': 'THIRD',
+            },
+            key: [
+                '13.2.1',
+            ],
+        },
+        {
+            goal: [
+                '13',
+            ],
+            target: [
+                '13.2',
+            ],
+            indicator: [
+                '13.2.1',
+            ],
+            series: 'EN_NAA_PLAN',
+            seriesDescription: 'Number of countries with national adaptation plans (Number)',
+            seriesCount: '1',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2021,
+            value: '22',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNFCCC based on national adaptation plans - https://www4.unfccc.int/sites/NAPC/News/Pages/national_adaptation_plans.aspx',
+            geoInfoUrl: null,
+            footnotes: [
+                'This figure considers only Parties to the UNFCCC as listed in https://unfccc.int/process/parties-non-party-stakeholders/parties-convention-and-observer-states. Reports as at 15 February 2021.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '13.2.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,131 @@
+{
+    size: 624,
+    totalElements: 624,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.9',
+            ],
+            indicator: [
+                '15.9.1',
+            ],
+            series: 'ER_BDY_ABT2NP',
+            seriesDescription: 'Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO)',
+            seriesCount: '413',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2021,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'CHM / WESR ',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Level/Status': 'ABT2NONTLT',
+            },
+            key: [
+                '15.9.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.9',
+            ],
+            indicator: [
+                '15.9.1',
+            ],
+            series: 'ER_BDY_ABT2NP',
+            seriesDescription: 'Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO)',
+            seriesCount: '413',
+            geoAreaCode: '678',
+            geoAreaName: 'Sao Tome and Principe',
+            timePeriodStart: 2021,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'CHM / WESR ',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Level/Status': '_T',
+            },
+            key: [
+                '15.9.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.9',
+            ],
+            indicator: [
+                '15.9.1',
+            ],
+            series: 'ER_BDY_SEEA',
+            seriesDescription: 'Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO)',
+            seriesCount: '211',
+            geoAreaCode: '894',
+            geoAreaName: 'Zambia',
+            timePeriodStart: 2021,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNSD/UNEP Questionnaire on Environment Statistics',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Level/Status': '_T',
+            },
+            key: [
+                '15.9.1',
+            ],
+        },
+    ],
+}

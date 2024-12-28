@@ -1,0 +1,125 @@
+{
+    size: 1656,
+    totalElements: 1656,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.8',
+            ],
+            indicator: [
+                '3.8.2',
+            ],
+            series: 'SH_XPD_EARN25',
+            seriesDescription: 'Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income (%)',
+            seriesCount: '828',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2007,
+            value: '0.0656',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Afghanistan - National Risk and Vulnerability Assessment Survey 2007-2008',
+            geoInfoUrl: null,
+            footnotes: [
+                'Survey-based estimate, using household total consumption expenditure in the denominator',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.8.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.8',
+            ],
+            indicator: [
+                '3.8.2',
+            ],
+            series: 'SH_XPD_EARN25',
+            seriesDescription: 'Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income (%)',
+            seriesCount: '828',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2017,
+            value: '7.02518',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Poverty, Income, Consumption and Expenditure Survey 2017',
+            geoInfoUrl: null,
+            footnotes: [
+                'Survey-based estimate, using household total consumption expenditure in the denominator',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.8.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.8',
+            ],
+            indicator: [
+                '3.8.2',
+            ],
+            series: 'SH_XPD_EARN10',
+            seriesDescription: 'Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income (%)',
+            seriesCount: '828',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2017,
+            value: '11.8213',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Poverty, Income, Consumption and Expenditure Survey 2017',
+            geoInfoUrl: null,
+            footnotes: [
+                'Survey-based estimate, using household total consumption expenditure in the denominator',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.8.2',
+            ],
+        },
+    ],
+}

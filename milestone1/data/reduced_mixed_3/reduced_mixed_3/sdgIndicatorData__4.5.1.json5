@@ -1,0 +1,130 @@
+{
+    size: 81883,
+    totalElements: 81883,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.5',
+            ],
+            indicator: [
+                '4.5.1',
+            ],
+            series: 'SE_GPI_PTNPRE',
+            seriesDescription: 'Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)',
+            seriesCount: '2454',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2001,
+            value: '1.13489',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics.  Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'Ratio',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.5.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.5',
+            ],
+            indicator: [
+                '4.5.1',
+            ],
+            series: 'SE_ALP_CPLR',
+            seriesDescription: 'Adjusted location parity index for completion rate, by sex, wealth quintile and education level',
+            seriesCount: '25921',
+            geoAreaCode: '548',
+            geoAreaName: 'Vanuatu',
+            timePeriodStart: 2007,
+            value: '0.83053',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Vanuatu MICS 2007-08. The survey collected data on school attendance for age 5-24 and educatiol attainment for age 5 and above.; Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'Ratio',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Education level': 'PRIMAR',
+                'Reporting Type': 'G',
+                Quantile: '_T',
+            },
+            key: [
+                '4.5.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.5',
+            ],
+            indicator: [
+                '4.5.1',
+            ],
+            series: 'SE_TOT_SESPI_FS',
+            seriesDescription: 'Adjusted low to high socio-economic parity status index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio)',
+            seriesCount: '76',
+            geoAreaCode: '840',
+            geoAreaName: 'United States of America',
+            timePeriodStart: 2017,
+            value: '0.65725',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Programme for the International Assessment of Adult Competencies (PIAAC) Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'Ratio',
+            },
+            dimensions: {
+                Age: '16-65',
+                'Type of skill': 'LITE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.5.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,131 @@
+{
+    size: 13620,
+    totalElements: 13620,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.2',
+            ],
+            indicator: [
+                '2.2.3',
+            ],
+            series: 'SH_STA_ANEM',
+            seriesDescription: 'Proportion of women aged 15-49 years with anaemia (%)',
+            seriesCount: '4540',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '35.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '46.7',
+            lowerBound: '25.9',
+            basePeriod: null,
+            source: 'WHO Global Health Observatory (https://www.who.int/data/gho/)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15-49',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.2.3',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.2',
+            ],
+            indicator: [
+                '2.2.3',
+            ],
+            series: 'SH_STA_ANEM_PREG',
+            seriesDescription: 'Proportion of women aged 15-49 years with anaemia, pregnant (%)',
+            seriesCount: '4540',
+            geoAreaCode: '440',
+            geoAreaName: 'Lithuania',
+            timePeriodStart: 2009,
+            value: '21.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '42.6',
+            lowerBound: '8.0',
+            basePeriod: null,
+            source: 'WHO Global Health Observatory (https://www.who.int/data/gho/)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15-49',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.2.3',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.2',
+            ],
+            indicator: [
+                '2.2.3',
+            ],
+            series: 'SH_STA_ANEM_NPRG',
+            seriesDescription: 'Proportion of women aged 15-49 years with anaemia, non-pregnant (%)',
+            seriesCount: '4540',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '28.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '40.4',
+            lowerBound: '18.7',
+            basePeriod: null,
+            source: 'WHO Global Health Observatory (https://www.who.int/data/gho/)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '15-49',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.2.3',
+            ],
+        },
+    ],
+}

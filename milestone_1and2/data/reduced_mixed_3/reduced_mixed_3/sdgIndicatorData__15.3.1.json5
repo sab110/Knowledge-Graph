@@ -1,0 +1,125 @@
+{
+    size: 294,
+    totalElements: 294,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.3',
+            ],
+            indicator: [
+                '15.3.1',
+            ],
+            series: 'AG_LND_DGRD',
+            seriesDescription: 'Proportion of land that is degraded over total land area (%)',
+            seriesCount: '294',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2015,
+            value: '8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Ministry of Agriculture, Irrigation and Livestock',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.3.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.3',
+            ],
+            indicator: [
+                '15.3.1',
+            ],
+            series: 'AG_LND_DGRD',
+            seriesDescription: 'Proportion of land that is degraded over total land area (%)',
+            seriesCount: '294',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2015,
+            value: 'NaN',
+            valueType: 'String',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNCCD',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.3.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.3',
+            ],
+            indicator: [
+                '15.3.1',
+            ],
+            series: 'AG_LND_DGRD',
+            seriesDescription: 'Proportion of land that is degraded over total land area (%)',
+            seriesCount: '294',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2015,
+            value: '36',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Ministry of Environment, Water and Climate',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.3.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,128 @@
+{
+    size: 3760,
+    totalElements: 3760,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.4',
+            ],
+            indicator: [
+                '10.4.1',
+            ],
+            series: 'SL_EMP_GTOTL',
+            seriesDescription: 'Labour share of GDP (%)',
+            seriesCount: '3760',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2004,
+            value: '42.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ILO modelled estimates, November 2021, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.4.1',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.4',
+            ],
+            indicator: [
+                '10.4.1',
+            ],
+            series: 'SL_EMP_GTOTL',
+            seriesDescription: 'Labour share of GDP (%)',
+            seriesCount: '3760',
+            geoAreaCode: '426',
+            geoAreaName: 'Lesotho',
+            timePeriodStart: 2011,
+            value: '64.6',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ILO modelled estimates, November 2021, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.4.1',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.4',
+            ],
+            indicator: [
+                '10.4.1',
+            ],
+            series: 'SL_EMP_GTOTL',
+            seriesDescription: 'Labour share of GDP (%)',
+            seriesCount: '3760',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '42.4',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ILO modelled estimates, November 2021, available in ILOSTAT (https://ilostat.ilo.org/). For the specific sources by country and the estimation methodology refer to ILOSTAT directly.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'M',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.4.1',
+            ],
+        },
+    ],
+}

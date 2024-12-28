@@ -1,0 +1,125 @@
+{
+    size: 490,
+    totalElements: 490,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.d',
+            ],
+            indicator: [
+                '3.d.2',
+            ],
+            series: 'SH_BLD_MRSA',
+            seriesDescription: 'Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested (%)',
+            seriesCount: '237',
+            geoAreaCode: '2',
+            geoAreaName: 'Africa',
+            timePeriodStart: 2019,
+            value: '17.44',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'AMR Surveillance National Coordinating Center ',
+            geoInfoUrl: null,
+            footnotes: [
+                'Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested.',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.d.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.d',
+            ],
+            indicator: [
+                '3.d.2',
+            ],
+            series: 'SH_BLD_ECOLI',
+            seriesDescription: 'Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested (%)',
+            seriesCount: '253',
+            geoAreaCode: '53',
+            geoAreaName: 'Australia and New Zealand',
+            timePeriodStart: 2019,
+            value: '13.29',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'AMR Surveillance National Coordinating Center ',
+            geoInfoUrl: null,
+            footnotes: [
+                'Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested.',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.d.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.d',
+            ],
+            indicator: [
+                '3.d.2',
+            ],
+            series: 'SH_BLD_ECOLI',
+            seriesDescription: 'Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested (%)',
+            seriesCount: '253',
+            geoAreaCode: '894',
+            geoAreaName: 'Zambia',
+            timePeriodStart: 2019,
+            value: '63.38',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'AMR Surveillance National Coordinating Center ',
+            geoInfoUrl: null,
+            footnotes: [
+                'Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested.',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.d.2',
+            ],
+        },
+    ],
+}

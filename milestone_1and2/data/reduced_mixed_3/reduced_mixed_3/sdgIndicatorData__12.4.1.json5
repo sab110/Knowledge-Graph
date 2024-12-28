@@ -1,0 +1,126 @@
+{
+    size: 1835,
+    totalElements: 1835,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.4',
+            ],
+            indicator: [
+                '12.4.1',
+            ],
+            series: 'SG_HAZ_CMRMNTRL',
+            seriesDescription: 'Parties meeting their commitments and obligations in transmitting information as required by Montreal Protocol on hazardous waste, and other chemicals',
+            seriesCount: '469',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2015,
+            value: '100',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.4.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.4',
+            ],
+            indicator: [
+                '12.4.1',
+            ],
+            series: 'SG_HAZ_CMRBASEL',
+            seriesDescription: 'Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste, and other chemicals',
+            seriesCount: '439',
+            geoAreaCode: '140',
+            geoAreaName: 'Central African Republic',
+            timePeriodStart: 2015,
+            value: '66.67',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Environment Live',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.4.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.4',
+            ],
+            indicator: [
+                '12.4.1',
+            ],
+            series: 'SG_HAZ_CMRMNMT',
+            seriesDescription: 'Parties meeting their commitments and obligations in transmitting information as required by Minamata Convention on hazardous waste, and other chemicals (%)',
+            seriesCount: '111',
+            geoAreaCode: '155',
+            geoAreaName: 'Western Europe',
+            timePeriodStart: 2020,
+            value: '59.26',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Environment Live',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.4.1',
+            ],
+        },
+    ],
+}

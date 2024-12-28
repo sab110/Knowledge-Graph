@@ -1,0 +1,125 @@
+{
+    size: 1356,
+    totalElements: 1356,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.8',
+            ],
+            indicator: [
+                '3.8.1',
+            ],
+            series: 'SH_ACS_UNHC',
+            seriesDescription: 'Universal health coverage (UHC) service coverage index',
+            seriesCount: '1356',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '21',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Tracking universal health coverage: 2021 Global Monitoring Report. Geneva, WHO 2021. https://www.who.int/data/monitoring-universal-health-coverage',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'INDEX',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.8.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.8',
+            ],
+            indicator: [
+                '3.8.1',
+            ],
+            series: 'SH_ACS_UNHC',
+            seriesDescription: 'Universal health coverage (UHC) service coverage index',
+            seriesCount: '1356',
+            geoAreaCode: '426',
+            geoAreaName: 'Lesotho',
+            timePeriodStart: 2019,
+            value: '48',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Tracking universal health coverage: 2021 Global Monitoring Report. Geneva, WHO 2021. https://www.who.int/data/monitoring-universal-health-coverage',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'INDEX',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.8.1',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.8',
+            ],
+            indicator: [
+                '3.8.1',
+            ],
+            series: 'SH_ACS_UNHC',
+            seriesDescription: 'Universal health coverage (UHC) service coverage index',
+            seriesCount: '1356',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '55',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Tracking universal health coverage: 2021 Global Monitoring Report. Geneva, WHO 2021. https://www.who.int/data/monitoring-universal-health-coverage',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'INDEX',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.8.1',
+            ],
+        },
+    ],
+}

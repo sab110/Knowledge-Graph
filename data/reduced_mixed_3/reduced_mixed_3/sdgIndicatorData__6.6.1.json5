@@ -1,0 +1,127 @@
+{
+    size: 67509,
+    totalElements: 67509,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.6',
+            ],
+            indicator: [
+                '6.6.1',
+            ],
+            series: 'EN_WBE_NDQTGRW',
+            seriesDescription: 'Nationally derived quantity of groundwater (millions of cubic metres per annum)',
+            seriesCount: '28',
+            geoAreaCode: '20',
+            geoAreaName: 'Andorra',
+            timePeriodStart: 2017,
+            value: 'NaN',
+            valueType: 'String',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Environment Live',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'M_M3_PER_YR',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.6.1',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.6',
+            ],
+            indicator: [
+                '6.6.1',
+            ],
+            series: 'EN_RSRV_MNWAN',
+            seriesDescription: 'Reservoir minimum water area (square kilometres)',
+            seriesCount: '5982',
+            geoAreaCode: '150',
+            geoAreaName: 'Europe',
+            timePeriodStart: 2019,
+            value: '114455.57088',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Surface Water Explorer extraction for UN Environment Programme',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'KMSQ',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.6.1',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.6',
+            ],
+            indicator: [
+                '6.6.1',
+            ],
+            series: 'EN_WBE_MANGC',
+            seriesDescription: 'Mangrove total area change (%)',
+            seriesCount: '868',
+            geoAreaCode: '887',
+            geoAreaName: 'Yemen',
+            timePeriodStart: 2016,
+            value: '0.82',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Surface Water Explorer extraction for UN Environment Programme',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.6.1',
+            ],
+        },
+    ],
+}

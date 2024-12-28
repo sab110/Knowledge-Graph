@@ -1,0 +1,125 @@
+{
+    size: 283,
+    totalElements: 283,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.19',
+            ],
+            indicator: [
+                '17.19.1',
+            ],
+            series: 'SG_STT_CAPTY',
+            seriesDescription: 'Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars)',
+            seriesCount: '283',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2018,
+            value: '11502321.93',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: '2020 Partner Report on Support to Statistics (PRESS)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Sum of country-specific and unallocated commitments received by all countries',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'CU_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.19.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.19',
+            ],
+            indicator: [
+                '17.19.1',
+            ],
+            series: 'SG_STT_CAPTY',
+            seriesDescription: 'Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars)',
+            seriesCount: '283',
+            geoAreaCode: '430',
+            geoAreaName: 'Liberia',
+            timePeriodStart: 2018,
+            value: '7063351.09',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: '2020 Partner Report on Support to Statistics (PRESS)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Sum of country-specific and unallocated commitments received by all countries',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'CU_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.19.1',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.19',
+            ],
+            indicator: [
+                '17.19.1',
+            ],
+            series: 'SG_STT_CAPTY',
+            seriesDescription: 'Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars)',
+            seriesCount: '283',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2018,
+            value: '688740.73',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: '2020 Partner Report on Support to Statistics (PRESS)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Sum of country-specific and unallocated commitments received by all countries',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'CU_USD',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.19.1',
+            ],
+        },
+    ],
+}

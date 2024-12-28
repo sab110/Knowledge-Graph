@@ -1,0 +1,127 @@
+{
+    size: 20,
+    totalElements: 20,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '13',
+            ],
+            target: [
+                '13.b',
+            ],
+            indicator: [
+                '13.b.1',
+            ],
+            series: 'EN_NACOM_NAIP_DV',
+            seriesDescription: 'Number of least developed countries and small island developing States with national communications, non-Annex I Parties (Number)',
+            seriesCount: '8',
+            geoAreaCode: '199',
+            geoAreaName: 'Least Developed Countries (LDCs)',
+            timePeriodStart: 2021,
+            value: '46',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNFCCC based on national communications from non-Annex I Parties - https://unfccc.int/non-annex-I-NCs',
+            geoInfoUrl: null,
+            footnotes: [
+                'Reports as at 15 February 2021.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Report Ordinal': 'FIRST',
+            },
+            key: [
+                '13.b.1',
+            ],
+        },
+        {
+            goal: [
+                '13',
+            ],
+            target: [
+                '13.b',
+            ],
+            indicator: [
+                '13.b.1',
+            ],
+            series: 'EN_BIUREP_NAIP_DV',
+            seriesDescription: 'Number of least developed countries and small island developing States with biennial update reports, non-Annex I Parties (Number)',
+            seriesCount: '5',
+            geoAreaCode: '722',
+            geoAreaName: 'Small island developing States (SIDS)',
+            timePeriodStart: 2021,
+            value: '8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNFCCC based on biennial update reports from non-Annex I Parties - https://unfccc.int/BURs',
+            geoInfoUrl: null,
+            footnotes: [
+                'This figure considers only non-Annex I Parties to the UNFCCC as listed in https://unfccc.int/process/parties-non-party-stakeholders/parties-convention-and-observer-states?field_national_communications_target_id%5B514%5D=514. Reports as at 15 February 2021.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Report Ordinal': 'FIRST',
+            },
+            key: [
+                '13.b.1',
+            ],
+        },
+        {
+            goal: [
+                '13',
+            ],
+            target: [
+                '13.b',
+            ],
+            indicator: [
+                '13.b.1',
+            ],
+            series: 'EN_NAA_PLAN_DV',
+            seriesDescription: 'Number of least developed countries and small island developing States with national adaptation plans (Number)',
+            seriesCount: '2',
+            geoAreaCode: '722',
+            geoAreaName: 'Small island developing States (SIDS)',
+            timePeriodStart: 2021,
+            value: '7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNFCCC based on national adaptation plans - https://www4.unfccc.int/sites/NAPC/News/Pages/national_adaptation_plans.aspx',
+            geoInfoUrl: null,
+            footnotes: [
+                'This figure considers only non-Annex I Parties to the UNFCCC as listed in https://unfccc.int/process/parties-non-party-stakeholders/parties-convention-and-observer-states?field_national_communications_target_id%5B514%5D=514. Reports as at 15 February 2021.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '13.b.1',
+            ],
+        },
+    ],
+}

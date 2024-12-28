@@ -1,0 +1,128 @@
+{
+    size: 996,
+    totalElements: 996,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.8',
+            ],
+            indicator: [
+                '8.8.2',
+            ],
+            series: 'SL_LBR_NTLCPL',
+            seriesDescription: 'Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation',
+            seriesCount: '996',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2015,
+            value: '0.88',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ILO calculations based on information from ILO textual sources.',
+            geoInfoUrl: null,
+            footnotes: [
+                'SDG indicator 8.8.2 seeks to measure the level of national compliance with fundamental labour rights (freedom of association and collective bargaining). It is based on six International Labour Organization (ILO) supervisory body textual sources and also on national legislation. National law is not enacted for the purpose of generating a statistical indicator of compliance with fundamental rights, nor were any of the ILO textual sources created for this purpose. Indicator 8.8.2 is compiled from these sources and its use does not constitute a waiver of the respective ILO Constituentsâ€™ divergent points of view on the sourcesâ€™ conclusions. SDG indicator 8.8.2 is not intended as a tool to compare compliance among ILO member States. It should specifically be noted that reporting obligations of an ILO member State to the ILOâ€™s supervisory system and thus ILO textual sources are different for ratifying and non-ratifying ILO member States.',
+            ],
+            attributes: {
+                Nature: 'G',
+                'Observation Status': 'A',
+                Units: 'SCORE',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.8.2',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.8',
+            ],
+            indicator: [
+                '8.8.2',
+            ],
+            series: 'SL_LBR_NTLCPL',
+            seriesDescription: 'Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation',
+            seriesCount: '996',
+            geoAreaCode: '440',
+            geoAreaName: 'Lithuania',
+            timePeriodStart: 2020,
+            value: '0.18',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ILO calculations based on information from ILO textual sources.',
+            geoInfoUrl: null,
+            footnotes: [
+                'SDG indicator 8.8.2 seeks to measure the level of national compliance with fundamental labour rights (freedom of association and collective bargaining). It is based on six International Labour Organization (ILO) supervisory body textual sources and also on national legislation. National law is not enacted for the purpose of generating a statistical indicator of compliance with fundamental rights, nor were any of the ILO textual sources created for this purpose. Indicator 8.8.2 is compiled from these sources and its use does not constitute a waiver of the respective ILO Constituentsâ€™ divergent points of view on the sourcesâ€™ conclusions. SDG indicator 8.8.2 is not intended as a tool to compare compliance among ILO member States. It should specifically be noted that reporting obligations of an ILO member State to the ILOâ€™s supervisory system and thus ILO textual sources are different for ratifying and non-ratifying ILO member States.',
+            ],
+            attributes: {
+                Nature: 'G',
+                'Observation Status': 'A',
+                Units: 'SCORE',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.8.2',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.8',
+            ],
+            indicator: [
+                '8.8.2',
+            ],
+            series: 'SL_LBR_NTLCPL',
+            seriesDescription: 'Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation',
+            seriesCount: '996',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '5.45',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ILO calculations based on information from ILO textual sources.',
+            geoInfoUrl: null,
+            footnotes: [
+                'SDG indicator 8.8.2 seeks to measure the level of national compliance with fundamental labour rights (freedom of association and collective bargaining). It is based on six International Labour Organization (ILO) supervisory body textual sources and also on national legislation. National law is not enacted for the purpose of generating a statistical indicator of compliance with fundamental rights, nor were any of the ILO textual sources created for this purpose. Indicator 8.8.2 is compiled from these sources and its use does not constitute a waiver of the respective ILO Constituentsâ€™ divergent points of view on the sourcesâ€™ conclusions. SDG indicator 8.8.2 is not intended as a tool to compare compliance among ILO member States. It should specifically be noted that reporting obligations of an ILO member State to the ILOâ€™s supervisory system and thus ILO textual sources are different for ratifying and non-ratifying ILO member States.',
+            ],
+            attributes: {
+                Nature: 'G',
+                'Observation Status': 'A',
+                Units: 'SCORE',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.8.2',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,131 @@
+{
+    size: 4163,
+    totalElements: 4163,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.6',
+            ],
+            indicator: [
+                '12.6.1',
+            ],
+            series: 'EN_SCP_FRMN',
+            seriesDescription: 'Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement (Number)',
+            seriesCount: '4163',
+            geoAreaCode: '19',
+            geoAreaName: 'Americas',
+            timePeriodStart: 2016,
+            value: '34',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Refinitiv',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_L',
+                'Level of requirement': 'TOTAL',
+            },
+            key: [
+                '12.6.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.6',
+            ],
+            indicator: [
+                '12.6.1',
+            ],
+            series: 'EN_SCP_FRMN',
+            seriesDescription: 'Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement (Number)',
+            seriesCount: '4163',
+            geoAreaCode: '419',
+            geoAreaName: 'Latin America and the Caribbean',
+            timePeriodStart: 2016,
+            value: '9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Refinitiv',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_H',
+                'Level of requirement': 'TOTAL',
+            },
+            key: [
+                '12.6.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.6',
+            ],
+            indicator: [
+                '12.6.1',
+            ],
+            series: 'EN_SCP_FRMN',
+            seriesDescription: 'Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement (Number)',
+            seriesCount: '4163',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Refinitiv',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'ISIC4_R',
+                'Level of requirement': 'TOTAL',
+            },
+            key: [
+                '12.6.1',
+            ],
+        },
+    ],
+}

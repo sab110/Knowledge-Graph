@@ -1,0 +1,128 @@
+{
+    size: 2282,
+    totalElements: 2282,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.7',
+            ],
+            indicator: [
+                '10.7.2',
+            ],
+            series: 'SG_CPA_MIGRP',
+            seriesDescription: 'Proportion of countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (%)',
+            seriesCount: '532',
+            geoAreaCode: '2',
+            geoAreaName: 'Africa',
+            timePeriodStart: 2019,
+            value: '45.7',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nation Inquiry among Governments on Population and Development (the “Inquiry”). The Inquiry was sent to 197 countries, including all 193 Member States, two Observer States, and 2 non-member States.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Percentage of countries that “Meet or fully meet” the criteria for SDG target 10.7 as conceptualised and measured by indicator 10.7.2, among those that responded to the Inquiry module on international migration.',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Policy Domains': 'ALLDOMAINS',
+            },
+            key: [
+                '10.7.2',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.7',
+            ],
+            indicator: [
+                '10.7.2',
+            ],
+            series: 'SG_CPA_MIGRS',
+            seriesDescription: 'Countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets)',
+            seriesCount: '1750',
+            geoAreaCode: '270',
+            geoAreaName: 'Gambia',
+            timePeriodStart: 2019,
+            value: '3',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nation Inquiry among Governments on Population and Development (the “Inquiry”). The Inquiry was sent to 197 countries, including all 193 Member States, two Observer States, and 2 non-member States.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Policy Domains': 'ALLDOMAINS',
+            },
+            key: [
+                '10.7.2',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.7',
+            ],
+            indicator: [
+                '10.7.2',
+            ],
+            series: 'SG_CPA_MIGRS',
+            seriesDescription: 'Countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets)',
+            seriesCount: '1750',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2021,
+            value: '4',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nation Inquiry among Governments on Population and Development (the “Inquiry”). The Inquiry was sent to 197 countries, including all 193 Member States, two Observer States, and 2 non-member States.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Policy Domains': 'DOMAIN2',
+            },
+            key: [
+                '10.7.2',
+            ],
+        },
+    ],
+}

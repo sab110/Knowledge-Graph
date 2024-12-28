@@ -1,0 +1,128 @@
+{
+    size: 10772,
+    totalElements: 10772,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.5',
+            ],
+            indicator: [
+                '10.5.1',
+            ],
+            series: 'FI_FSI_FSANL',
+            seriesDescription: 'Non-performing loans to total gross loans (%)',
+            seriesCount: '1575',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2010,
+            value: '13.50822',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IMF',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.5.1',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.5',
+            ],
+            indicator: [
+                '10.5.1',
+            ],
+            series: 'FI_FSI_FSKNL',
+            seriesDescription: 'Non-performing loans net of provisions to capital (%)',
+            seriesCount: '1590',
+            geoAreaCode: '348',
+            geoAreaName: 'Hungary',
+            timePeriodStart: 2017,
+            value: '5.11717',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IMF',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.5.1',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.5',
+            ],
+            indicator: [
+                '10.5.1',
+            ],
+            series: 'FI_FSI_FSSNO',
+            seriesDescription: 'Net open position in foreign exchange to capital (%)',
+            seriesCount: '1285',
+            geoAreaCode: '894',
+            geoAreaName: 'Zambia',
+            timePeriodStart: 2020,
+            value: '3.8893',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IMF',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.5.1',
+            ],
+        },
+    ],
+}

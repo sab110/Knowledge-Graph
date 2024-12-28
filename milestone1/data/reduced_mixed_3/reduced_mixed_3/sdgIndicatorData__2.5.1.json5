@@ -1,0 +1,125 @@
+{
+    size: 9811,
+    totalElements: 9811,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.5',
+            ],
+            indicator: [
+                '2.5.1',
+            ],
+            series: 'ER_GRF_ANIMRCNTN',
+            seriesDescription: 'Number of local breeds for which sufficient genetic resources are stored for reconstitution',
+            seriesCount: '6555',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'DAD-IS 1.2.2022 http://www.fao.org/dad-is/',
+            geoInfoUrl: null,
+            footnotes: [
+                'No information on local breeds',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.5.1',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.5',
+            ],
+            indicator: [
+                '2.5.1',
+            ],
+            series: 'ER_GRF_ANIMRCNTN',
+            seriesDescription: 'Number of local breeds for which sufficient genetic resources are stored for reconstitution',
+            seriesCount: '6555',
+            geoAreaCode: '659',
+            geoAreaName: 'Saint Kitts and Nevis',
+            timePeriodStart: 2006,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'DAD-IS 1.2.2022 http://www.fao.org/dad-is/',
+            geoInfoUrl: null,
+            footnotes: [
+                'Out of 19 local breeds (including extinct ones), 0 are reported with genetic material stored, out of which 0 are reported with sufficient material stored to allow them to be reconstituted',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.5.1',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.5',
+            ],
+            indicator: [
+                '2.5.1',
+            ],
+            series: 'ER_GRF_PLNTSTOR',
+            seriesDescription: 'Plant genetic resources accessions stored ex situ (number)',
+            seriesCount: '3256',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '6231',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'FAO-WIEWS (http://www.fao.org/wiews)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Estimate based on 2019 report.',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.5.1',
+            ],
+        },
+    ],
+}

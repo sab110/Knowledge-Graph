@@ -1,0 +1,125 @@
+{
+    size: 10260,
+    totalElements: 10260,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.2',
+            ],
+            indicator: [
+                '15.2.1',
+            ],
+            series: 'AG_LND_FRSTBIOPHA',
+            seriesDescription: 'Above-ground biomass in forest (tonnes per hectare)',
+            seriesCount: '2280',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'FAO, Global Forest Resources Assessment',
+            geoInfoUrl: null,
+            footnotes: [
+                'No data',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'T_PER_HA',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.2.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.2',
+            ],
+            indicator: [
+                '15.2.1',
+            ],
+            series: 'AG_LND_FRSTCERT',
+            seriesDescription: 'Forest area under an independently verified forest management certification scheme (thousands of hectares)',
+            seriesCount: '2850',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2021,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'No data on certified forest area in the FSC and PEFC records, value is therefore assumed to be zero',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'HA_TH',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.2.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.2',
+            ],
+            indicator: [
+                '15.2.1',
+            ],
+            series: 'AG_LND_FRSTPRCT',
+            seriesDescription: 'Proportion of forest area within legally established protected areas (%)',
+            seriesCount: '2280',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '17.4032',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'FAO, Global Forest Resources Assessment',
+            geoInfoUrl: null,
+            footnotes: [
+                'Official country report to FAO (FRA 2020)',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.2.1',
+            ],
+        },
+    ],
+}

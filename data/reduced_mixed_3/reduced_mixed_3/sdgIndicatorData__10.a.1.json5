@@ -1,0 +1,128 @@
+{
+    size: 12769,
+    totalElements: 12769,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.a',
+            ],
+            indicator: [
+                '10.a.1',
+            ],
+            series: 'TM_TRF_ZERO',
+            seriesDescription: 'Proportion of tariff lines applied to imports with zero-tariff (%)',
+            seriesCount: '12769',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2005,
+            value: '29.73856',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ITC/UNCTAD/WTO database',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Type of product': 'AGR',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.a.1',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.a',
+            ],
+            indicator: [
+                '10.a.1',
+            ],
+            series: 'TM_TRF_ZERO',
+            seriesDescription: 'Proportion of tariff lines applied to imports with zero-tariff (%)',
+            seriesCount: '12769',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2005,
+            value: '55.08843',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ITC/UNCTAD/WTO database',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Type of product': 'AGR',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.a.1',
+            ],
+        },
+        {
+            goal: [
+                '10',
+            ],
+            target: [
+                '10.a',
+            ],
+            indicator: [
+                '10.a.1',
+            ],
+            series: 'TM_TRF_ZERO',
+            seriesDescription: 'Proportion of tariff lines applied to imports with zero-tariff (%)',
+            seriesCount: '12769',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '81.81818',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'ITC/UNCTAD/WTO database',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Type of product': 'TEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '10.a.1',
+            ],
+        },
+    ],
+}

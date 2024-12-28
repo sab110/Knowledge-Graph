@@ -1,0 +1,126 @@
+{
+    size: 1391,
+    totalElements: 1391,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.b',
+            ],
+            indicator: [
+                '6.b.1',
+            ],
+            series: 'ER_WAT_PROCED',
+            seriesDescription: 'Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in water resources planning and management (%)',
+            seriesCount: '29',
+            geoAreaCode: '62',
+            geoAreaName: 'Central and Southern Asia',
+            timePeriodStart: 2017,
+            value: '90',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Key indicators of the UN-Water Global Analysis and Assessment of Sanitation and Drinking-Water (GLAAS). For the specific sources by country, refer to http://www.who.int/water_sanitation_health/monitoring/investments/glaas/en/.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.b.1',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.b',
+            ],
+            indicator: [
+                '6.b.1',
+            ],
+            series: 'ER_H2O_PRDU',
+            seriesDescription: 'Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)',
+            seriesCount: '406',
+            geoAreaCode: '192',
+            geoAreaName: 'Cuba',
+            timePeriodStart: 2019,
+            value: '10',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Key indicators of the UN-Water Global Analysis and Assessment of Sanitation and Drinking-Water (GLAAS). For the specific sources by country, refer to http://www.who.int/water_sanitation_health/monitoring/investments/glaas/en/.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Observation values: 10 = Clearly defined procedures; 5 = Not clearly defined  procedures; 0 = Not applicable.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                Location: 'RURAL',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.b.1',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.b',
+            ],
+            indicator: [
+                '6.b.1',
+            ],
+            series: 'ER_WAT_PRDU',
+            seriesDescription: 'Countries with procedures in law or policy for participation by service users/communities in planning program in water resources planning and management, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)',
+            seriesCount: '197',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '10',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Key indicators of the UN-Water Global Analysis and Assessment of Sanitation and Drinking-Water (GLAAS). For the specific sources by country, refer to http://www.who.int/water_sanitation_health/monitoring/investments/glaas/en/.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Observation values: 10 = Clearly defined procedures; 5 = Not clearly defined  procedures; 0 = Not applicable.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.b.1',
+            ],
+        },
+    ],
+}

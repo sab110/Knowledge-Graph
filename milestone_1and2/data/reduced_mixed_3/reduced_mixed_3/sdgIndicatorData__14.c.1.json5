@@ -1,0 +1,125 @@
+{
+    size: 90,
+    totalElements: 90,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.c',
+            ],
+            indicator: [
+                '14.c.1',
+            ],
+            series: 'ER_UNCLOS_RATACC',
+            seriesDescription: 'Score for the ratification of and accession to UNCLOS and its two implementing agreements (%)',
+            seriesCount: '45',
+            geoAreaCode: '32',
+            geoAreaName: 'Argentina',
+            timePeriodStart: 2021,
+            value: '67',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Division for Ocean Affairs and the Law of the Sea, Office of Legal Affairs, United Nations Secretariat',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '14.c.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.c',
+            ],
+            indicator: [
+                '14.c.1',
+            ],
+            series: 'ER_UNCLOS_RATACC',
+            seriesDescription: 'Score for the ratification of and accession to UNCLOS and its two implementing agreements (%)',
+            seriesCount: '45',
+            geoAreaCode: '826',
+            geoAreaName: 'United Kingdom of Great Britain and Northern Ireland',
+            timePeriodStart: 2021,
+            value: '100',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Division for Ocean Affairs and the Law of the Sea, Office of Legal Affairs, United Nations Secretariat',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '14.c.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.c',
+            ],
+            indicator: [
+                '14.c.1',
+            ],
+            series: 'ER_UNCLOS_IMPLE',
+            seriesDescription: 'Score for the implementation of UNCLOS and its two implementing agreements (%)',
+            seriesCount: '45',
+            geoAreaCode: '826',
+            geoAreaName: 'United Kingdom of Great Britain and Northern Ireland',
+            timePeriodStart: 2021,
+            value: '100',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Division for Ocean Affairs and the Law of the Sea, Office of Legal Affairs, United Nations Secretariat',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '14.c.1',
+            ],
+        },
+    ],
+}

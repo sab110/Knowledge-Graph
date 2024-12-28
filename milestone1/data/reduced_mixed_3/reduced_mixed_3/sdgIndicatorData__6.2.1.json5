@@ -1,0 +1,128 @@
+{
+    size: 26273,
+    totalElements: 26273,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.2',
+            ],
+            indicator: [
+                '6.2.1',
+            ],
+            series: 'SH_SAN_HNDWSH',
+            seriesDescription: 'Proportion of population with basic handwashing facilities on premises, by urban/rural (%)',
+            seriesCount: '4266',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2005,
+            value: '37',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2021)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'ALLAREA',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.2.1',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.2',
+            ],
+            indicator: [
+                '6.2.1',
+            ],
+            series: 'SH_SAN_DEFECT',
+            seriesDescription: 'Proportion of population practicing open defecation, by urban/rural (%)',
+            seriesCount: '14068',
+            geoAreaCode: '56',
+            geoAreaName: 'Belgium',
+            timePeriodStart: 2003,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2021)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'RURAL',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.2.1',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.2',
+            ],
+            indicator: [
+                '6.2.1',
+            ],
+            series: 'SH_SAN_DEFECT',
+            seriesDescription: 'Proportion of population practicing open defecation, by urban/rural (%)',
+            seriesCount: '14068',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (2021)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Location: 'URBAN',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.2.1',
+            ],
+        },
+    ],
+}

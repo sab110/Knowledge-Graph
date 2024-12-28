@@ -1,0 +1,125 @@
+{
+    size: 211,
+    totalElements: 211,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.9',
+            ],
+            indicator: [
+                '3.9.2',
+            ],
+            series: 'SH_STA_WASH',
+            seriesDescription: 'Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (deaths per 100,000 population)',
+            seriesCount: '211',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2016,
+            value: '13.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Health Observatory (GHO), World Health Organisation (WHO)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.9.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.9',
+            ],
+            indicator: [
+                '3.9.2',
+            ],
+            series: 'SH_STA_WASH',
+            seriesDescription: 'Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (deaths per 100,000 population)',
+            seriesCount: '211',
+            geoAreaCode: '199',
+            geoAreaName: 'Least Developed Countries (LDCs)',
+            timePeriodStart: 2016,
+            value: '34.3',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Health Observatory (GHO), World Health Organisation (WHO)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.9.2',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.9',
+            ],
+            indicator: [
+                '3.9.2',
+            ],
+            series: 'SH_STA_WASH',
+            seriesDescription: 'Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (deaths per 100,000 population)',
+            seriesCount: '211',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2016,
+            value: '24.6',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Global Health Observatory (GHO), World Health Organisation (WHO)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PER_100000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.9.2',
+            ],
+        },
+    ],
+}

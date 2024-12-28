@@ -1,0 +1,127 @@
+{
+    size: 783,
+    totalElements: 783,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.5',
+            ],
+            indicator: [
+                '12.5.1',
+            ],
+            series: 'EN_EWT_RCYV',
+            seriesDescription: 'Electronic waste recycling (Tonnes)',
+            seriesCount: '191',
+            geoAreaCode: '19',
+            geoAreaName: 'Americas',
+            timePeriodStart: 2010,
+            value: '734380',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNSD / UNU / WESR',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'TONNES',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.5.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.5',
+            ],
+            indicator: [
+                '12.5.1',
+            ],
+            series: 'EN_MWT_RCYV',
+            seriesDescription: 'Municipal waste recycled (Tonnes)',
+            seriesCount: '448',
+            geoAreaCode: '112',
+            geoAreaName: 'Belarus',
+            timePeriodStart: 2009,
+            value: '288200.012',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNSD/UNEP Questionnaire on Environment Statistics',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'TONNES',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.5.1',
+            ],
+        },
+        {
+            goal: [
+                '12',
+            ],
+            target: [
+                '12.5',
+            ],
+            indicator: [
+                '12.5.1',
+            ],
+            series: 'EN_MWT_RCYV',
+            seriesDescription: 'Municipal waste recycled (Tonnes)',
+            seriesCount: '448',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2017,
+            value: '41939.56',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNSD/UNEP Questionnaire on Environment Statistics',
+            geoInfoUrl: null,
+            footnotes: [
+                'Data refer to 31 local authourities,namely : Beitbridge, Bindura, Bulawayo, Chegutu, Chinhoyi, Chiredzi, Chirundu, Chitungwiza, Epworth, Gokwe, Gutu, Gwanda, Gweru, Harare, Hwange, Kadoma, Kariba, Karoi, Kwekwe, Masvingo, Mutare, Mvurwi, Nyanga, Plumtree, Redcliff, Rusape, Ruwa, Shurugwi, Triangle, Victoria Falls, Zvishavane.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'TONNES',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '12.5.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,128 @@
+{
+    size: 12302,
+    totalElements: 12302,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.c',
+            ],
+            indicator: [
+                '2.c.1',
+            ],
+            series: 'AG_FPA_COMM',
+            seriesDescription: 'Indicator of Food Price Anomalies (IFPA), by type of product',
+            seriesCount: '8645',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2015,
+            value: '0.02',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Food Price Monitoring and Analysis (FPMA) online database: https://fpma.apps.fao.org/giews/food-prices/tool/public/#/dataset/domestic.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Kabul, Wheat (flour), Retail price',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'INDEX',
+            },
+            dimensions: {
+                'Type of product': 'WHE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.c.1',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.c',
+            ],
+            indicator: [
+                '2.c.1',
+            ],
+            series: 'AG_FPA_COMM',
+            seriesDescription: 'Indicator of Food Price Anomalies (IFPA), by type of product',
+            seriesCount: '8645',
+            geoAreaCode: '620',
+            geoAreaName: 'Portugal',
+            timePeriodStart: 2020,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'NA',
+            geoInfoUrl: null,
+            footnotes: [
+                'NaN = A figure was not provided',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'INDEX',
+            },
+            dimensions: {
+                'Type of product': 'MIL',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.c.1',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.c',
+            ],
+            indicator: [
+                '2.c.1',
+            ],
+            series: 'AG_FPA_HMFP',
+            seriesDescription: 'Proportion of countries recording abnormally high or moderately high food prices, according to the Indicator of Food Price Anomalies (%)',
+            seriesCount: '693',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2021,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'NA',
+            geoInfoUrl: null,
+            footnotes: [
+                'NaN = A figure was not provided',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Severity of price levels': 'MODERATE',
+            },
+            key: [
+                '2.c.1',
+            ],
+        },
+    ],
+}

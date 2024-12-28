@@ -1,0 +1,128 @@
+{
+    size: 130,
+    totalElements: 130,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.4',
+            ],
+            indicator: [
+                '1.4.2',
+            ],
+            series: 'SP_LGL_LNDDOC',
+            seriesDescription: 'Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)',
+            seriesCount: '64',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2018,
+            value: '36.4',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Demographic and Health Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Total population is restricted to household head and wife due to data limitations.',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.4.2',
+            ],
+        },
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.4',
+            ],
+            indicator: [
+                '1.4.2',
+            ],
+            series: 'SP_LGL_LNDSEC',
+            seriesDescription: 'Proportion of people who perceive their rights to land as secure out of total adult population, by sex (%)',
+            seriesCount: '22',
+            geoAreaCode: '56',
+            geoAreaName: 'Belgium',
+            timePeriodStart: 2011,
+            value: '93.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Census & Administrative Data.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Total population is restricted to household head and wife of rural population due to data limitations.',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.4.2',
+            ],
+        },
+        {
+            goal: [
+                '1',
+            ],
+            target: [
+                '1.4',
+            ],
+            indicator: [
+                '1.4.2',
+            ],
+            series: 'SP_LGL_LNDSTR',
+            seriesDescription: 'Proportion of people with secure tenure rights to land out of total adult population, by sex (%)',
+            seriesCount: '44',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2015,
+            value: '72.8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Demographic and Health Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Total population is restricted to household head and wife due to data limitations.',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '1.4.2',
+            ],
+        },
+    ],
+}

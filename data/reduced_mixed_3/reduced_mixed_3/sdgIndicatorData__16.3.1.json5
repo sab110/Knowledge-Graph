@@ -1,0 +1,128 @@
+{
+    size: 429,
+    totalElements: 429,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.3',
+            ],
+            indicator: [
+                '16.3.1',
+            ],
+            series: 'VC_PRR_PHYV',
+            seriesDescription: 'Police reporting rate for physical assault, by sex (%)',
+            seriesCount: '142',
+            geoAreaCode: '24',
+            geoAreaName: 'Angola',
+            timePeriodStart: 2016,
+            value: '36.2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Office on Drugs and Crime',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.3.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.3',
+            ],
+            indicator: [
+                '16.3.1',
+            ],
+            series: 'VC_PRR_SEXV',
+            seriesDescription: 'Police reporting rate for sexual assault, by sex (%)',
+            seriesCount: '95',
+            geoAreaCode: '752',
+            geoAreaName: 'Sweden',
+            timePeriodStart: 2017,
+            value: '11',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Office on Drugs and Crime',
+            geoInfoUrl: null,
+            footnotes: [
+                'The reporting period is the calendar year prior to the interview.',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.3.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.3',
+            ],
+            indicator: [
+                '16.3.1',
+            ],
+            series: 'VC_PRR_ROBB',
+            seriesDescription: 'Police reporting rate for robbery, by sex (%)',
+            seriesCount: '192',
+            geoAreaCode: '858',
+            geoAreaName: 'Uruguay',
+            timePeriodStart: 2011,
+            value: '47',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'United Nations Office on Drugs and Crime',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.3.1',
+            ],
+        },
+    ],
+}

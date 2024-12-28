@@ -1,0 +1,125 @@
+{
+    size: 1721,
+    totalElements: 1721,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.5',
+            ],
+            indicator: [
+                '9.5.2',
+            ],
+            series: 'GB_POP_SCIERD',
+            seriesDescription: 'Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)',
+            seriesCount: '1721',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2008,
+            value: '155.52783',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics.  Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Partial data',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_1000000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '9.5.2',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.5',
+            ],
+            indicator: [
+                '9.5.2',
+            ],
+            series: 'GB_POP_SCIERD',
+            seriesDescription: 'Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)',
+            seriesCount: '1721',
+            geoAreaCode: '442',
+            geoAreaName: 'Luxembourg',
+            timePeriodStart: 2000,
+            value: '3773.4205',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics.  Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_1000000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '9.5.2',
+            ],
+        },
+        {
+            goal: [
+                '9',
+            ],
+            target: [
+                '9.5',
+            ],
+            indicator: [
+                '9.5.2',
+            ],
+            series: 'GB_POP_SCIERD',
+            seriesDescription: 'Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)',
+            seriesCount: '1721',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2012,
+            value: '99.5185',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'UNESCO Institute for Statistics.  Data extracted on 01 April 2022.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Excluding Business enterprise',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_1000000_POP',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '9.5.2',
+            ],
+        },
+    ],
+}

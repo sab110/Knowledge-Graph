@@ -1,0 +1,131 @@
+{
+    size: 608,
+    totalElements: 608,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.7',
+            ],
+            indicator: [
+                '8.7.1',
+            ],
+            series: 'SL_TLF_CHLDEC',
+            seriesDescription: 'Proportion of children engaged in economic activity and household chores, by sex and age (%)',
+            seriesCount: '307',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2020,
+            value: '13',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'IELFS 2020, UNICEF and ILO calculations',
+            geoInfoUrl: null,
+            footnotes: [
+                'These estimates differ from published national estimates of child labour from the same source due to different treatment of economic activities and different hourly thresholds.',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '5-17',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.7.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.7',
+            ],
+            indicator: [
+                '8.7.1',
+            ],
+            series: 'SL_TLF_CHLDEC',
+            seriesDescription: 'Proportion of children engaged in economic activity and household chores, by sex and age (%)',
+            seriesCount: '307',
+            geoAreaCode: '894',
+            geoAreaName: 'Zambia',
+            timePeriodStart: 2012,
+            value: '23',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Labour Force and CLS 2012, UNICEF and ILO calculations',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '5-17',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.7.1',
+            ],
+        },
+        {
+            goal: [
+                '8',
+            ],
+            target: [
+                '8.7',
+            ],
+            indicator: [
+                '8.7.1',
+            ],
+            series: 'SL_TLF_CHLDEA',
+            seriesDescription: 'Proportion of children engaged in economic activity, by sex and age  (%)',
+            seriesCount: '301',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '19',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'MICS 2019, UNICEF and ILO calculations',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: '5-17',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '8.7.1',
+            ],
+        },
+    ],
+}

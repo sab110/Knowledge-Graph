@@ -1,0 +1,125 @@
+{
+    size: 116,
+    totalElements: 116,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.a',
+            ],
+            indicator: [
+                '14.a.1',
+            ],
+            series: 'ER_RDE_OSEX',
+            seriesDescription: 'National ocean science expenditure as a share of total research and development funding (%)',
+            seriesCount: '116',
+            geoAreaCode: '56',
+            geoAreaName: 'Belgium',
+            timePeriodStart: 2013,
+            value: '0.37339',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Intergovernmental Oceanographic Commission (IOC) of UNESCO',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '14.a.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.a',
+            ],
+            indicator: [
+                '14.a.1',
+            ],
+            series: 'ER_RDE_OSEX',
+            seriesDescription: 'National ocean science expenditure as a share of total research and development funding (%)',
+            seriesCount: '116',
+            geoAreaCode: '450',
+            geoAreaName: 'Madagascar',
+            timePeriodStart: 2017,
+            value: '0.29088',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Intergovernmental Oceanographic Commission (IOC) of UNESCO',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '14.a.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.a',
+            ],
+            indicator: [
+                '14.a.1',
+            ],
+            series: 'ER_RDE_OSEX',
+            seriesDescription: 'National ocean science expenditure as a share of total research and development funding (%)',
+            seriesCount: '116',
+            geoAreaCode: '1',
+            geoAreaName: 'World',
+            timePeriodStart: 2017,
+            value: '0.95307',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Intergovernmental Oceanographic Commission (IOC) of UNESCO',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '14.a.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,125 @@
+{
+    size: 7778,
+    totalElements: 7778,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.3',
+            ],
+            indicator: [
+                '17.3.2',
+            ],
+            series: 'BX_TRF_PWKR',
+            seriesDescription: 'Volume of remittances (in United States dollars) as a proportion of total GDP (%)',
+            seriesCount: '7778',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2005,
+            value: '0',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank staff estimates based on IMF balance of payments data, and World Bank and OECD GDP estimates.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.3.2',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.3',
+            ],
+            indicator: [
+                '17.3.2',
+            ],
+            series: 'BX_TRF_PWKR',
+            seriesDescription: 'Volume of remittances (in United States dollars) as a proportion of total GDP (%)',
+            seriesCount: '7778',
+            geoAreaCode: '199',
+            geoAreaName: 'Least Developed Countries (LDCs)',
+            timePeriodStart: 1994,
+            value: '4.08641',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank staff estimates based on IMF balance of payments data, and World Bank and OECD GDP estimates.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.3.2',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.3',
+            ],
+            indicator: [
+                '17.3.2',
+            ],
+            series: 'BX_TRF_PWKR',
+            seriesDescription: 'Volume of remittances (in United States dollars) as a proportion of total GDP (%)',
+            seriesCount: '7778',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '10.14914',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Bank staff estimates based on IMF balance of payments data, and World Bank and OECD GDP estimates.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.3.2',
+            ],
+        },
+    ],
+}

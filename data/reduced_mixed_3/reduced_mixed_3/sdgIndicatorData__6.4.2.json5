@@ -1,0 +1,131 @@
+{
+    size: 15872,
+    totalElements: 15872,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.4',
+            ],
+            indicator: [
+                '6.4.2',
+            ],
+            series: 'ER_H2O_STRESS',
+            seriesDescription: 'Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%)',
+            seriesCount: '15872',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '54.75702',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Food and Agriculture Organisation of United Nations (FAO)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+                'Observation Status': 'E',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'TOTAL',
+            },
+            key: [
+                '6.4.2',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.4',
+            ],
+            indicator: [
+                '6.4.2',
+            ],
+            series: 'ER_H2O_STRESS',
+            seriesDescription: 'Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%)',
+            seriesCount: '15872',
+            geoAreaCode: '419',
+            geoAreaName: 'Latin America and the Caribbean',
+            timePeriodStart: 2007,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'NA',
+            geoInfoUrl: null,
+            footnotes: [
+                'NaN = A figure was not provided',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'PERCENT',
+                'Observation Status': 'O',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'TOTAL',
+            },
+            key: [
+                '6.4.2',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.4',
+            ],
+            indicator: [
+                '6.4.2',
+            ],
+            series: 'ER_H2O_STRESS',
+            seriesDescription: 'Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%)',
+            seriesCount: '15872',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '35.40537',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Food and Agriculture Organisation of United Nations (FAO)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+                'Observation Status': 'E',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                Activity: 'TOTAL',
+            },
+            key: [
+                '6.4.2',
+            ],
+        },
+    ],
+}

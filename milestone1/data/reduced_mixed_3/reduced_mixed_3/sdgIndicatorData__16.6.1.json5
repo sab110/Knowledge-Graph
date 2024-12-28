@@ -1,0 +1,125 @@
+{
+    size: 1784,
+    totalElements: 1784,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.6',
+            ],
+            indicator: [
+                '16.6.1',
+            ],
+            series: 'GF_XPD_GBPC',
+            seriesDescription: 'Primary government expenditures as a proportion of original approved budget (%)',
+            seriesCount: '1784',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2007,
+            value: '79.6951',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Public Expenditure and Financial Accountability (PEFA). Ministry of Finance (MoF).',
+            geoInfoUrl: null,
+            footnotes: [
+                'PEFA 2008 Afghanistan Report / Public- www.pefa.org. (https://pefa.org/node/3131).',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.6.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.6',
+            ],
+            indicator: [
+                '16.6.1',
+            ],
+            series: 'GF_XPD_GBPC',
+            seriesDescription: 'Primary government expenditures as a proportion of original approved budget (%)',
+            seriesCount: '1784',
+            geoAreaCode: '426',
+            geoAreaName: 'Lesotho',
+            timePeriodStart: 2016,
+            value: '131.3252',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Public Expenditure and Financial Accountability (PEFA). Ministry of Finance (MoF).',
+            geoInfoUrl: null,
+            footnotes: [
+                'PEFA 2017 Lesotho Report / Public- www.pefa.org. (https://pefa.org/node/626).',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.6.1',
+            ],
+        },
+        {
+            goal: [
+                '16',
+            ],
+            target: [
+                '16.6',
+            ],
+            indicator: [
+                '16.6.1',
+            ],
+            series: 'GF_XPD_GBPC',
+            seriesDescription: 'Primary government expenditures as a proportion of original approved budget (%)',
+            seriesCount: '1784',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2018,
+            value: '81.0727',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Public Expenditure and Financial Accountability (PEFA). Ministry of Finance (MoF).',
+            geoInfoUrl: null,
+            footnotes: [
+                'data provided by WB Economists.',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '16.6.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,128 @@
+{
+    size: 33,
+    totalElements: 33,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.2',
+            ],
+            indicator: [
+                '14.2.1',
+            ],
+            series: 'EN_SCP_ECSYBA',
+            seriesDescription: 'Number of countries using ecosystem-based approaches to managing marine areas (1 = YES; 0 = NO)',
+            seriesCount: '33',
+            geoAreaCode: '248',
+            geoAreaName: 'Åland Islands',
+            timePeriodStart: 2021,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Regional Seas / World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Level/Status': 'LI_PLDV',
+            },
+            key: [
+                '14.2.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.2',
+            ],
+            indicator: [
+                '14.2.1',
+            ],
+            series: 'EN_SCP_ECSYBA',
+            seriesDescription: 'Number of countries using ecosystem-based approaches to managing marine areas (1 = YES; 0 = NO)',
+            seriesCount: '33',
+            geoAreaCode: '388',
+            geoAreaName: 'Jamaica',
+            timePeriodStart: 2021,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Regional Seas / World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Level/Status': 'LI_IMP_ADMNG',
+            },
+            key: [
+                '14.2.1',
+            ],
+        },
+        {
+            goal: [
+                '14',
+            ],
+            target: [
+                '14.2',
+            ],
+            indicator: [
+                '14.2.1',
+            ],
+            series: 'EN_SCP_ECSYBA',
+            seriesDescription: 'Number of countries using ecosystem-based approaches to managing marine areas (1 = YES; 0 = NO)',
+            seriesCount: '33',
+            geoAreaCode: '704',
+            geoAreaName: 'Viet Nam',
+            timePeriodStart: 2021,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Regional Seas / World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Level/Status': 'LI_IMP_ADMNG',
+            },
+            key: [
+                '14.2.1',
+            ],
+        },
+    ],
+}

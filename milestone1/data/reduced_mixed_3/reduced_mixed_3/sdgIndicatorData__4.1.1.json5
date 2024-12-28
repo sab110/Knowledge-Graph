@@ -1,0 +1,134 @@
+{
+    size: 4820,
+    totalElements: 4820,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.1',
+            ],
+            indicator: [
+                '4.1.1',
+            ],
+            series: 'SE_TOT_PRFL',
+            seriesDescription: 'Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)',
+            seriesCount: '4820',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2013,
+            value: '13',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'National Learning Assessment (NLA): Monitoring Trends in Educational Growth (MTEG) assessment; Grade 6; Minimum proficiency level: 10',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'BOTHSEX',
+                'Education level': 'PRIMAR',
+                'Reporting Type': 'G',
+                'Type of skill': 'SKILL_READ',
+            },
+            key: [
+                '4.1.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.1',
+            ],
+            indicator: [
+                '4.1.1',
+            ],
+            series: 'SE_TOT_PRFL',
+            seriesDescription: 'Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)',
+            seriesCount: '4820',
+            geoAreaCode: '417',
+            geoAreaName: 'Kyrgyzstan',
+            timePeriodStart: 2018,
+            value: '42.2',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Multiple Indicator Cluster Survey (MICS6); Children attending grade 2/3; Minimum proficiency level: Foundational reading skills. The minimum proficiency level alignment of this assessment is pending and subject to harmonization.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Education level': 'GRAD23',
+                'Reporting Type': 'G',
+                'Type of skill': 'SKILL_READ',
+            },
+            key: [
+                '4.1.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.1',
+            ],
+            indicator: [
+                '4.1.1',
+            ],
+            series: 'SE_TOT_PRFL',
+            seriesDescription: 'Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)',
+            seriesCount: '4820',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '5.8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Multiple Indicator Cluster Survey (MICS6); Children attending grade 2/3; Minimum proficiency level: Foundational numeracy skills. The minimum proficiency level alignment of this assessment is pending and subject to harmonization.',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Education level': 'GRAD23',
+                'Reporting Type': 'G',
+                'Type of skill': 'SKILL_MATH',
+            },
+            key: [
+                '4.1.1',
+            ],
+        },
+    ],
+}

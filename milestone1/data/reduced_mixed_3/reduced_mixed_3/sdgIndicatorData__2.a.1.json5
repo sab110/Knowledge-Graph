@@ -1,0 +1,128 @@
+{
+    size: 17640,
+    totalElements: 17640,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.a',
+            ],
+            indicator: [
+                '2.a.1',
+            ],
+            series: 'AG_PRD_ORTIND',
+            seriesDescription: 'Agriculture orientation index for government expenditures',
+            seriesCount: '5880',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2001,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'NA',
+            geoInfoUrl: null,
+            footnotes: [
+                'NaN = A figure was not provided',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'INDEX',
+                'Observation Status': 'O',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.a.1',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.a',
+            ],
+            indicator: [
+                '2.a.1',
+            ],
+            series: 'AG_PRD_AGVAS',
+            seriesDescription: 'Agriculture value added share of GDP (%)',
+            seriesCount: '5880',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2020,
+            value: '2.50437',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'FAO calculation based on WB national account data',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.a.1',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.a',
+            ],
+            indicator: [
+                '2.a.1',
+            ],
+            series: 'AG_XPD_AGSGB',
+            seriesDescription: 'Agriculture share of Government Expenditure (%)',
+            seriesCount: '5880',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '12.24',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'FAO Imputation.',
+            geoInfoUrl: null,
+            footnotes: [
+                'Budgetary Central Government Expenditure',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'PERCENT',
+                'Observation Status': 'E',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.a.1',
+            ],
+        },
+    ],
+}

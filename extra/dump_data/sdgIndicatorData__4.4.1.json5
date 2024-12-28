@@ -1,0 +1,131 @@
+{
+    size: 6495,
+    totalElements: 6495,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.4',
+            ],
+            indicator: [
+                '4.4.1',
+            ],
+            series: 'SE_ADT_ACTS',
+            seriesDescription: 'Proportion of youth and adults with information and communications technology (ICT) skills, by sex and type of skill (%)',
+            seriesCount: '6495',
+            geoAreaCode: '8',
+            geoAreaName: 'Albania',
+            timePeriodStart: 2019,
+            value: '21.5504',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'INSTAT (Institute of Statistics)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Type of skill': 'TRAF',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.4.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.4',
+            ],
+            indicator: [
+                '4.4.1',
+            ],
+            series: 'SE_ADT_ACTS',
+            seriesDescription: 'Proportion of youth and adults with information and communications technology (ICT) skills, by sex and type of skill (%)',
+            seriesCount: '6495',
+            geoAreaCode: '428',
+            geoAreaName: 'Latvia',
+            timePeriodStart: 2015,
+            value: '2.37811',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Eurostat',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'MALE',
+                'Type of skill': 'PCPR',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.4.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.4',
+            ],
+            indicator: [
+                '4.4.1',
+            ],
+            series: 'SE_ADT_ACTS',
+            seriesDescription: 'Proportion of youth and adults with information and communications technology (ICT) skills, by sex and type of skill (%)',
+            seriesCount: '6495',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '26.4576',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'Zimbabwe National Statistics Agency (ZIMSTAT)',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Type of skill': 'EMAIL',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.4.1',
+            ],
+        },
+    ],
+}

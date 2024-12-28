@@ -1,0 +1,125 @@
+{
+    size: 8010,
+    totalElements: 8010,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.5',
+            ],
+            indicator: [
+                '15.5.1',
+            ],
+            series: 'ER_RSK_LST',
+            seriesDescription: 'Red List Index',
+            seriesCount: '8010',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 1993,
+            value: '0.8394',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '0.84133',
+            lowerBound: '0.83311',
+            basePeriod: null,
+            source: "BirdLife International and IUCN (2022), based on global estimates of the extinction risk (IUCN Red List categories) of all mammals, birds, amphibians, corals and cycads, derived from local and national data, disaggregated to the national scale and weighted by the proportion of each species's distribution in the country or region.",
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'INDEX',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.5.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.5',
+            ],
+            indicator: [
+                '15.5.1',
+            ],
+            series: 'ER_RSK_LST',
+            seriesDescription: 'Red List Index',
+            seriesCount: '8010',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2007,
+            value: '0.93176',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '0.93189',
+            lowerBound: '0.92535',
+            basePeriod: null,
+            source: "BirdLife International and IUCN (2022), based on global estimates of the extinction risk (IUCN Red List categories) of all mammals, birds, amphibians, corals and cycads, derived from local and national data, disaggregated to the national scale and weighted by the proportion of each species's distribution in the country or region.",
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'INDEX',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.5.1',
+            ],
+        },
+        {
+            goal: [
+                '15',
+            ],
+            target: [
+                '15.5',
+            ],
+            indicator: [
+                '15.5.1',
+            ],
+            series: 'ER_RSK_LST',
+            seriesDescription: 'Red List Index',
+            seriesCount: '8010',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2022,
+            value: '0.79111',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: '0.7975',
+            lowerBound: '0.78392',
+            basePeriod: null,
+            source: "BirdLife International and IUCN (2022), based on global estimates of the extinction risk (IUCN Red List categories) of all mammals, birds, amphibians, corals and cycads, derived from local and national data, disaggregated to the national scale and weighted by the proportion of each species's distribution in the country or region.",
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'E',
+                Units: 'INDEX',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '15.5.1',
+            ],
+        },
+    ],
+}

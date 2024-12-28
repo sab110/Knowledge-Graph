@@ -1,0 +1,125 @@
+{
+    size: 39,
+    totalElements: 39,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.b',
+            ],
+            indicator: [
+                '3.b.3',
+            ],
+            series: 'SH_HLF_EMED',
+            seriesDescription: 'Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis (%)',
+            seriesCount: '39',
+            geoAreaCode: '68',
+            geoAreaName: 'Bolivia (Plurinational State of)',
+            timePeriodStart: 2016,
+            value: '23.07692',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'MedMon Pilot – Pilot WHO Essential Medicines and Health Products Price and Availability Monitoring Mobile Application',
+            geoInfoUrl: null,
+            footnotes: [
+                'Data from only capital city ',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.b.3',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.b',
+            ],
+            indicator: [
+                '3.b.3',
+            ],
+            series: 'SH_HLF_EMED',
+            seriesDescription: 'Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis (%)',
+            seriesCount: '39',
+            geoAreaCode: '422',
+            geoAreaName: 'Lebanon',
+            timePeriodStart: 2004,
+            value: '50',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'HAI/WHO – Health Action International/ World Health Organization (joint project for data collection and analysis) ',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.b.3',
+            ],
+        },
+        {
+            goal: [
+                '3',
+            ],
+            target: [
+                '3.b',
+            ],
+            indicator: [
+                '3.b.3',
+            ],
+            series: 'SH_HLF_EMED',
+            seriesDescription: 'Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis (%)',
+            seriesCount: '39',
+            geoAreaCode: '894',
+            geoAreaName: 'Zambia',
+            timePeriodStart: 2016,
+            value: '16.66667',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'MedMon Pilot – Pilot WHO Essential Medicines and Health Products Price and Availability Monitoring Mobile Application',
+            geoInfoUrl: null,
+            footnotes: [
+                'Data from only capital city ',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '3.b.3',
+            ],
+        },
+    ],
+}

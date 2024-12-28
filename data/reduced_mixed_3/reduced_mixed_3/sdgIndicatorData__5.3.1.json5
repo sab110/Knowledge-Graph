@@ -1,0 +1,131 @@
+{
+    size: 412,
+    totalElements: 412,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.3',
+            ],
+            indicator: [
+                '5.3.1',
+            ],
+            series: 'SP_DYN_MRBF18',
+            seriesDescription: 'Proportion of women aged 20-24 years who were married or in a union before age 18 (%)',
+            seriesCount: '208',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2017,
+            value: '28.3',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'LCS 2016-17',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_MARW_20T24Y',
+            },
+            dimensions: {
+                Age: '20-24',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.3.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.3',
+            ],
+            indicator: [
+                '5.3.1',
+            ],
+            series: 'SP_DYN_MRBF18',
+            seriesDescription: 'Proportion of women aged 20-24 years who were married or in a union before age 18 (%)',
+            seriesCount: '208',
+            geoAreaCode: '887',
+            geoAreaName: 'Yemen',
+            timePeriodStart: 2013,
+            value: '31.9',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'DHS 2013',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_MARW_20T24Y',
+            },
+            dimensions: {
+                Age: '20-24',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.3.1',
+            ],
+        },
+        {
+            goal: [
+                '5',
+            ],
+            target: [
+                '5.3',
+            ],
+            indicator: [
+                '5.3.1',
+            ],
+            series: 'SP_DYN_MRBF15',
+            seriesDescription: 'Proportion of women aged 20-24 years who were married or in a union before age 15 (%)',
+            seriesCount: '204',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '5.4',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'MICS 2019',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PER_MARW_20T24Y',
+            },
+            dimensions: {
+                Age: '20-24',
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '5.3.1',
+            ],
+        },
+    ],
+}

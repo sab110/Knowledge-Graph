@@ -1,0 +1,128 @@
+{
+    size: 7283,
+    totalElements: 7283,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '7',
+            ],
+            target: [
+                '7.a',
+            ],
+            indicator: [
+                '7.a.1',
+            ],
+            series: 'EG_IFF_RANDN',
+            seriesDescription: 'International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant United States dollars)',
+            seriesCount: '7283',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2000,
+            value: '0.02',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'DAC Statistics database, 2022, The Organisation for Economic Co-operation and Development (OECD) and IRENA Public Finance Database, 2022, The international Renewable Energy Agency (IRENA)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'CON_USD_M',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Type of renewable technology': 'HYDROPOWER',
+            },
+            key: [
+                '7.a.1',
+            ],
+        },
+        {
+            goal: [
+                '7',
+            ],
+            target: [
+                '7.a',
+            ],
+            indicator: [
+                '7.a.1',
+            ],
+            series: 'EG_IFF_RANDN',
+            seriesDescription: 'International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant United States dollars)',
+            seriesCount: '7283',
+            geoAreaCode: '450',
+            geoAreaName: 'Madagascar',
+            timePeriodStart: 2019,
+            value: '41.54',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'DAC Statistics database, 2022, The Organisation for Economic Co-operation and Development (OECD) and IRENA Public Finance Database, 2022, The international Renewable Energy Agency (IRENA)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'CON_USD_M',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Type of renewable technology': 'HYDROPOWER',
+            },
+            key: [
+                '7.a.1',
+            ],
+        },
+        {
+            goal: [
+                '7',
+            ],
+            target: [
+                '7.a',
+            ],
+            indicator: [
+                '7.a.1',
+            ],
+            series: 'EG_IFF_RANDN',
+            seriesDescription: 'International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant United States dollars)',
+            seriesCount: '7283',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '0.02',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2019',
+            source: 'DAC Statistics database, 2022, The Organisation for Economic Co-operation and Development (OECD) and IRENA Public Finance Database, 2022, The international Renewable Energy Agency (IRENA)',
+            geoInfoUrl: null,
+            footnotes: [
+                'Commitments by recipient country, in million USD at 2019 prices and exchange rates (using donor country deflators)',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'CON_USD_M',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+                'Type of renewable technology': 'MULTIPLE',
+            },
+            key: [
+                '7.a.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,128 @@
+{
+    size: 13620,
+    totalElements: 13620,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.3',
+            ],
+            indicator: [
+                '2.3.1',
+            ],
+            series: 'PD_AGR_SSFP',
+            seriesDescription: 'Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)',
+            seriesCount: '6816',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2005,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2011',
+            source: 'NA',
+            geoInfoUrl: null,
+            footnotes: [
+                'NaN = A figure was not provided',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'CON_PPP_USD',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.3.1',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.3',
+            ],
+            indicator: [
+                '2.3.1',
+            ],
+            series: 'PD_AGR_SSFP',
+            seriesDescription: 'Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)',
+            seriesCount: '6816',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2014,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2011',
+            source: 'NA',
+            geoInfoUrl: null,
+            footnotes: [
+                'NaN = A figure was not provided',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'CON_PPP_USD',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.3.1',
+            ],
+        },
+        {
+            goal: [
+                '2',
+            ],
+            target: [
+                '2.3',
+            ],
+            indicator: [
+                '2.3.1',
+            ],
+            series: 'PD_AGR_LSFP',
+            seriesDescription: 'Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)',
+            seriesCount: '6804',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2016,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: '2011',
+            source: 'NA',
+            geoInfoUrl: null,
+            footnotes: [
+                'NaN = A figure was not provided',
+            ],
+            attributes: {
+                Nature: 'NA',
+                Units: 'CON_PPP_USD',
+            },
+            dimensions: {
+                Sex: 'FEMALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '2.3.1',
+            ],
+        },
+    ],
+}

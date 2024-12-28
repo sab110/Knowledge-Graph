@@ -1,0 +1,128 @@
+{
+    size: 590,
+    totalElements: 590,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.3',
+            ],
+            indicator: [
+                '6.3.2',
+            ],
+            series: 'EN_H2O_OPAMBQ',
+            seriesDescription: 'Proportion of open water bodies with good ambient water quality (%)',
+            seriesCount: '137',
+            geoAreaCode: '19',
+            geoAreaName: 'Americas',
+            timePeriodStart: 2020,
+            value: '46.46316',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.3.2',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.3',
+            ],
+            indicator: [
+                '6.3.2',
+            ],
+            series: 'EN_H2O_RVAMBQ',
+            seriesDescription: 'Proportion of river water bodies with good ambient water quality (%)',
+            seriesCount: '167',
+            geoAreaCode: '840',
+            geoAreaName: 'United States of America',
+            timePeriodStart: 2020,
+            value: '32.63',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.3.2',
+            ],
+        },
+        {
+            goal: [
+                '6',
+            ],
+            target: [
+                '6.3',
+            ],
+            indicator: [
+                '6.3.2',
+            ],
+            series: 'EN_H2O_WBAMBQ',
+            seriesDescription: 'Proportion of bodies of water with good ambient water quality (%)',
+            seriesCount: '180',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '83.33',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'World Environment Situation Room',
+            geoInfoUrl: null,
+            footnotes: [
+                '',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+                'Observation Status': 'A',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '6.3.2',
+            ],
+        },
+    ],
+}

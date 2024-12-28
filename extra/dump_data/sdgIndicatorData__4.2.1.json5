@@ -1,0 +1,131 @@
+{
+    size: 253,
+    totalElements: 253,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.2',
+            ],
+            indicator: [
+                '4.2.1',
+            ],
+            series: 'SE_DEV_ONTRK',
+            seriesDescription: 'Proportion of children aged 36−59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning (% of children aged 36-59 months)',
+            seriesCount: '253',
+            geoAreaCode: '12',
+            geoAreaName: 'Algeria',
+            timePeriodStart: 2019,
+            value: '76.8',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'MICS 2018-19',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: 'M36T59',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.2.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.2',
+            ],
+            indicator: [
+                '4.2.1',
+            ],
+            series: 'SE_DEV_ONTRK',
+            seriesDescription: 'Proportion of children aged 36−59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning (% of children aged 36-59 months)',
+            seriesCount: '253',
+            geoAreaCode: '462',
+            geoAreaName: 'Maldives',
+            timePeriodStart: 2017,
+            value: '93',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'DHS 2016-17',
+            geoInfoUrl: null,
+            footnotes: [
+                'Based on youngest child aged 36-59 months living with mother',
+            ],
+            attributes: {
+                Nature: 'CA',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: 'M36T59',
+                Sex: 'BOTHSEX',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.2.1',
+            ],
+        },
+        {
+            goal: [
+                '4',
+            ],
+            target: [
+                '4.2',
+            ],
+            indicator: [
+                '4.2.1',
+            ],
+            series: 'SE_DEV_ONTRK',
+            seriesDescription: 'Proportion of children aged 36−59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning (% of children aged 36-59 months)',
+            seriesCount: '253',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2019,
+            value: '68.1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'MICS 2019',
+            geoInfoUrl: null,
+            footnotes: [
+                ' ',
+            ],
+            attributes: {
+                Nature: 'C',
+                Units: 'PERCENT',
+            },
+            dimensions: {
+                Age: 'M36T59',
+                Sex: 'MALE',
+                'Reporting Type': 'G',
+            },
+            key: [
+                '4.2.1',
+            ],
+        },
+    ],
+}

@@ -1,0 +1,125 @@
+{
+    size: 566,
+    totalElements: 566,
+    totalPages: 1,
+    pageNumber: 1,
+    data: [
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.18',
+            ],
+            indicator: [
+                '17.18.2',
+            ],
+            series: 'SG_STT_FPOS',
+            seriesDescription: 'Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO)',
+            seriesCount: '566',
+            geoAreaCode: '4',
+            geoAreaName: 'Afghanistan',
+            timePeriodStart: 2019,
+            value: 'NaN',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'PARIS21 SDG Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Observation value represents the number of countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.18.2',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.18',
+            ],
+            indicator: [
+                '17.18.2',
+            ],
+            series: 'SG_STT_FPOS',
+            seriesDescription: 'Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO)',
+            seriesCount: '566',
+            geoAreaCode: '430',
+            geoAreaName: 'Liberia',
+            timePeriodStart: 2019,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'PARIS21 SDG Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Observation value represents the number of countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.18.2',
+            ],
+        },
+        {
+            goal: [
+                '17',
+            ],
+            target: [
+                '17.18',
+            ],
+            indicator: [
+                '17.18.2',
+            ],
+            series: 'SG_STT_FPOS',
+            seriesDescription: 'Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO)',
+            seriesCount: '566',
+            geoAreaCode: '716',
+            geoAreaName: 'Zimbabwe',
+            timePeriodStart: 2020,
+            value: '1',
+            valueType: 'Float',
+            time_detail: null,
+            timeCoverage: null,
+            upperBound: null,
+            lowerBound: null,
+            basePeriod: null,
+            source: 'PARIS21 SDG Survey',
+            geoInfoUrl: null,
+            footnotes: [
+                'Observation value represents the number of countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics',
+            ],
+            attributes: {
+                Nature: 'G',
+                Units: 'NUMBER',
+            },
+            dimensions: {
+                'Reporting Type': 'G',
+            },
+            key: [
+                '17.18.2',
+            ],
+        },
+    ],
+}
